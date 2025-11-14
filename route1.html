@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Route with Draggable Markers</title>
+
+    <!-- Include Leaflet.js -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <style>
+        #map {
+            width: 100%;
+            height: 500px;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        #route-info {
+            margin: 10px;
+            padding: 10px;
+            background: #f9f9f9;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">Route 1 : Pencarian Rute Dengan TomTom</h1>
+    <h1 style="text-align: center;">Marker Lokasi Dapat Digeser</h1>
+    <div id="map"></div>
+    <div id="route-info">Click pada map untuk menentukan titik Mulai dan Tujuan.</div>
+
+    <script>
+        const apiKey = 'Gixt05RAvLI57chTAGgMFzNaxcYAyigl'; // Your TomTom API Key
+
+        // Initialize the map with OpenStreetMap as the base layer
+        const map = L.map('map').setView([-7.25, 112.75], 12); // Centered on Surabaya
+
+        // Add OpenStreetMap tiles
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        let startPointMarker = null; // To store the start point marker
+        let endPointMarker = null;   // To store the end point marker
+        let routeLine = null;        // To store the route polyline
+
+        // Function to handle map clicks
+        map.on('click', function (e) {
+            const latLng = e.latlng; // Get the latitude and longitude of the click
+
+            if (!startPointMarker) {
+                // First click: Set the start point
+                startPointMarker = L.marker(latLng, { draggable: true, icon: startIcon }).addTo(map);
+                startPointMarker.bindPopup('Titik Awal').openPopup();
+                startPointMarker.on('dragend', updateRoute); // Update route when marker is dragged
+                document.getElementById('route-info').innerHTML = `Start Point: ${latLng.lat.toFixed(5)}, ${latLng.lng.toFixed(5)}`;
+            } else if (!endPointMarker) {
+                // Second click: Set the end point
+                endPointMarker = L.marker(latLng, { draggable: true, icon: endIcon }).addTo(map);
+                endPointMarker.bindPopup('Titik Tujuan').openPopup();
+                endPointMarker.on('dragend', updateRoute); // Update route when marker is dragged
+                document.getElementById('route-info').innerHTML = `End Point: ${latLng.lat.toFixed(5)}, ${latLng.lng.toFixed(5)}`;
+
+                // Fetch and display the route
+                fetchRoute(startPointMarker.getLatLng(), endPointMarker.getLatLng());
+            } else {
+                // Reset if both points are already set
+                resetMarkers();
+                startPointMarker = L.marker(latLng, { draggable: true, icon: startIcon }).addTo(map);
+                startPointMarker.bindPopup('Titik Awal').openPopup();
+                startPointMarker.on('dragend', updateRoute);
+                document.getElementById('route-info').innerHTML = `Start Point: ${latLng.lat.toFixed(5)}, ${latLng.lng.toFixed(5)}`;
+            }
+        });
+
+        // Define custom icons for start and end points
+        const startIcon = L.icon({
+            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34]
+        });
+
+        const endIcon = L.icon({
+            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34]
+        });
+
+        // Function to reset markers and route
+        function resetMarkers() {
+            if (startPointMarker) {
+                map.removeLayer(startPointMarker);
+                startPointMarker = null;
+            }
+            if (endPointMarker) {
+                map.removeLayer(endPointMarker);
+                endPointMarker = null;
+            }
+            if (routeLine) {
+                map.removeLayer(routeLine);
+                routeLine = null;
+            }
+            document.getElementById('route-info').innerHTML = 'Click on the map to set start and end points.';
+        }
+
+        // Function to update the route when markers are moved
+        async function updateRoute() {
+            if (startPointMarker && endPointMarker) {
+                const startLatLng = startPointMarker.getLatLng();
+                const endLatLng = endPointMarker.getLatLng();
+                await fetchRoute(startLatLng, endLatLng);
+            }
+        }
+
+        // Function to fetch the route using TomTom Routing API
+        async function fetchRoute(start, end) {
+            const url = `https://api.tomtom.com/routing/1/calculateRoute/${start.lat},${start.lng}:${end.lat},${end.lng}/json?key=${apiKey}&traffic=true&travelMode=motorcycle`;
+
+            try {
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error(`Error fetching route: HTTP ${response.status}`);
+                }
+
+                const data = await response.json();
+                console.log('Route Data:', data);
+
+                // Extract route information
+                const route = data.routes[0];
+                const summary = route.summary;
+                const distance = (summary.lengthInMeters / 1000).toFixed(2); // Convert meters to kilometers
+                const travelTime = Math.ceil(summary.travelTimeInSeconds / 60); // Convert seconds to minutes
+                const trafficDelay = Math.ceil(summary.trafficDelayInSeconds / 60); // Convert seconds to minutes
+
+                // Display route information
+                document.getElementById('route-info').innerHTML = `
+                    <strong>Penjelasan RUte:</strong><br>
+                    Jarak: ${distance} km<br>
+                    Perkiraan Waktu Tempuh: ${travelTime} menit<br>
+                    Kemacetan: ${trafficDelay} menit
+                `;
+
+                // Extract route geometry
+                const coordinates = route.legs[0].points.map(point => [point.latitude, point.longitude]);
+
+                // Draw the route on the map
+                if (routeLine) {
+                    map.removeLayer(routeLine); // Remove the previous route
+                }
+                routeLine = L.polyline(coordinates, {
+                    color: '#007BFF',
+                    weight: 5
+                }).addTo(map);
+
+                // Adjust the map view to fit the route
+                map.fitBounds(routeLine.getBounds());
+            } catch (error) {
+                console.error('Error fetching route:', error);
+                document.getElementById('route-info').innerHTML = 'Failed to load route information.';
+            }
+        }
+    </script>
+</body>
+</html>

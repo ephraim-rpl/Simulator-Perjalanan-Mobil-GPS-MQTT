@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car GPS Tracking</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mqtt/4.3.7/mqtt.min.js"></script>
+<style>
+    #map {
+        height: 100vh;
+        width: 100%;
+    }
+
+    /* Transparansi popup: latar belakang putih dengan opacity 0.6 */
+    .leaflet-popup-content-wrapper {
+        background-color: rgba(255, 255, 255, 0.6) !important;
+        border-radius: 8px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+
+    /* Opsional: pastikan teks tetap hitam dan mudah dibaca */
+    .leaflet-popup-content {
+        color: #000;
+        font-size: 14px;
+        line-height: 1.4;
+    }
+</style>
+</head>
+<body>
+    <div id="map"></div>
+    <script>
+        // Initialize the map
+        const map = L.map('map').setView([-7.23177, 112.72837], 15);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+
+        // Custom car/bus icon
+        const carIcon = L.icon({
+            iconUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH2Z-wk4HF2585cfK3xPhHjW5OAzUXJHUCCCHttErcaMdndDSq5IZ03BpRQarxbHHULHcjV4SYg7GN747GKTN94tUP9VMpLO4NwD3rBU6dFKsbVTkArl6ZwQfIELXlITKcFDORbiJI2DBOX-MjK1CPAAo0D47xSxDeoTvtuBmIQfqj5vuJq8xmPmsx-HHs/s1600/bus.png',
+            iconSize: [20, 38],
+            iconAnchor: [10, 38], // anchor bottom center
+        });
+
+        let carMarker = null;
+        const trailPoints = [];
+        const trailLine = L.polyline(trailPoints, { color: 'blue' }).addTo(map);
+
+        // MQTT Client
+        const client = mqtt.connect('wss://broker.hivemq.com:8884/mqtt', {
+            username: '',
+            password: '',
+            protocol: 'wss',
+            rejectUnauthorized: true
+        });
+
+        client.on('connect', () => {
+            console.log('Connected to MQTT broker');
+            client.subscribe('car/gps', (err) => { //<<<<<<<<UBAH TOPIK INI 'car/gps'
+                if (!err) {
+                    console.log('Subscribed to car/gps topic');
+                }
+            });
+        });
+
+        client.on('message', (topic, message) => {
+            try {
+                const data = JSON.parse(message.toString());
+                const { latitude, longitude, Penumpang, Wanita, Pria, Suhu, Baterai, Kecepatan } = data;
+
+                // Add to trail
+                trailPoints.push([latitude, longitude]);
+                trailLine.setLatLngs(trailPoints);
+
+                // Create popup content
+                const popupContent = `
+                    <b>Data Kendaraan</b><br>
+                    Penumpang: ${Penumpang || 0}<br>
+                    Wanita: ${Wanita || 0}<br>
+                    Pria: ${Pria || 0}<br>
+                    Suhu: ${Suhu || '--'}°C<br>
+                    Baterai: ${Baterai || '--'}%<br>
+                    Kecepatan: ${Kecepatan || '--'} km/jam
+                `;
+
+                // Update or create marker
+                if (carMarker) {
+                    carMarker.setLatLng([latitude, longitude]);
+                    carMarker.setPopupContent(popupContent);
+                } else {
+                    carMarker = L.marker([latitude, longitude], { icon: carIcon })
+                        .addTo(map)
+                        .bindPopup(popupContent);
+                }
+
+                // Center map on car
+                map.setView([latitude, longitude], 15);
+            } catch (e) {
+                console.error('Error parsing MQTT message:', e);
+            }
+        });
+    </script>
+</body>
+</html>

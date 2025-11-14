@@ -1,0 +1,10582 @@
+[
+  {
+    "latitude": -7.34871,
+    "longitude": 112.71839,
+    "Penumpang": 47,
+    "Wanita": 10,
+    "Pria": 37,
+    "Suhu": 24,
+    "Baterai": 28,
+    "Kecepatan": 86
+  },
+  {
+    "latitude": -7.3487,
+    "longitude": 112.7184,
+    "Penumpang": 38,
+    "Wanita": 9,
+    "Pria": 29,
+    "Suhu": 21,
+    "Baterai": 39,
+    "Kecepatan": 91
+  },
+  {
+    "latitude": -7.34869,
+    "longitude": 112.71842,
+    "Penumpang": 28,
+    "Wanita": 21,
+    "Pria": 7,
+    "Suhu": 20,
+    "Baterai": 21,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.34871,
+    "longitude": 112.7185,
+    "Penumpang": 12,
+    "Wanita": 0,
+    "Pria": 12,
+    "Suhu": 21,
+    "Baterai": 87,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.34878,
+    "longitude": 112.71868,
+    "Penumpang": 31,
+    "Wanita": 9,
+    "Pria": 22,
+    "Suhu": 34,
+    "Baterai": 80,
+    "Kecepatan": 97
+  },
+  {
+    "latitude": -7.34887,
+    "longitude": 112.71885,
+    "Penumpang": 44,
+    "Wanita": 6,
+    "Pria": 38,
+    "Suhu": 31,
+    "Baterai": 30,
+    "Kecepatan": 68
+  },
+  {
+    "latitude": -7.34903,
+    "longitude": 112.7192,
+    "Penumpang": 25,
+    "Wanita": 19,
+    "Pria": 6,
+    "Suhu": 30,
+    "Baterai": 68,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.34904,
+    "longitude": 112.71922,
+    "Penumpang": 19,
+    "Wanita": 13,
+    "Pria": 6,
+    "Suhu": 20,
+    "Baterai": 24,
+    "Kecepatan": 17
+  },
+  {
+    "latitude": -7.34908,
+    "longitude": 112.71935,
+    "Penumpang": 18,
+    "Wanita": 7,
+    "Pria": 11,
+    "Suhu": 30,
+    "Baterai": 41,
+    "Kecepatan": 76
+  },
+  {
+    "latitude": -7.34915,
+    "longitude": 112.7195,
+    "Penumpang": 31,
+    "Wanita": 13,
+    "Pria": 18,
+    "Suhu": 35,
+    "Baterai": 79,
+    "Kecepatan": 52
+  },
+  {
+    "latitude": -7.34918,
+    "longitude": 112.71958,
+    "Penumpang": 47,
+    "Wanita": 25,
+    "Pria": 22,
+    "Suhu": 29,
+    "Baterai": 92,
+    "Kecepatan": 18
+  },
+  {
+    "latitude": -7.34926,
+    "longitude": 112.71973,
+    "Penumpang": 49,
+    "Wanita": 21,
+    "Pria": 28,
+    "Suhu": 35,
+    "Baterai": 29,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.34951,
+    "longitude": 112.72024,
+    "Penumpang": 27,
+    "Wanita": 16,
+    "Pria": 11,
+    "Suhu": 34,
+    "Baterai": 93,
+    "Kecepatan": 45
+  },
+  {
+    "latitude": -7.3495,
+    "longitude": 112.72025,
+    "Penumpang": 27,
+    "Wanita": 7,
+    "Pria": 20,
+    "Suhu": 20,
+    "Baterai": 45,
+    "Kecepatan": 86
+  },
+  {
+    "latitude": -7.34911,
+    "longitude": 112.72044,
+    "Penumpang": 42,
+    "Wanita": 4,
+    "Pria": 38,
+    "Suhu": 24,
+    "Baterai": 19,
+    "Kecepatan": 85
+  },
+  {
+    "latitude": -7.34879,
+    "longitude": 112.72054,
+    "Penumpang": 17,
+    "Wanita": 13,
+    "Pria": 4,
+    "Suhu": 35,
+    "Baterai": 20,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.34834,
+    "longitude": 112.72067,
+    "Penumpang": 40,
+    "Wanita": 2,
+    "Pria": 38,
+    "Suhu": 25,
+    "Baterai": 69,
+    "Kecepatan": 52
+  },
+  {
+    "latitude": -7.34808,
+    "longitude": 112.72075,
+    "Penumpang": 37,
+    "Wanita": 6,
+    "Pria": 31,
+    "Suhu": 23,
+    "Baterai": 78,
+    "Kecepatan": 50
+  },
+  {
+    "latitude": -7.34747,
+    "longitude": 112.72099,
+    "Penumpang": 2,
+    "Wanita": 0,
+    "Pria": 2,
+    "Suhu": 26,
+    "Baterai": 18,
+    "Kecepatan": 30
+  },
+  {
+    "latitude": -7.34744,
+    "longitude": 112.72101,
+    "Penumpang": 30,
+    "Wanita": 0,
+    "Pria": 30,
+    "Suhu": 29,
+    "Baterai": 39,
+    "Kecepatan": 21
+  },
+  {
+    "latitude": -7.34742,
+    "longitude": 112.72105,
+    "Penumpang": 60,
+    "Wanita": 35,
+    "Pria": 25,
+    "Suhu": 22,
+    "Baterai": 48,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.34741,
+    "longitude": 112.72119,
+    "Penumpang": 5,
+    "Wanita": 3,
+    "Pria": 2,
+    "Suhu": 27,
+    "Baterai": 45,
+    "Kecepatan": 80
+  },
+  {
+    "latitude": -7.34741,
+    "longitude": 112.72167,
+    "Penumpang": 50,
+    "Wanita": 47,
+    "Pria": 3,
+    "Suhu": 24,
+    "Baterai": 86,
+    "Kecepatan": 54
+  },
+  {
+    "latitude": -7.34742,
+    "longitude": 112.72194,
+    "Penumpang": 11,
+    "Wanita": 2,
+    "Pria": 9,
+    "Suhu": 29,
+    "Baterai": 24,
+    "Kecepatan": 77
+  },
+  {
+    "latitude": -7.3475,
+    "longitude": 112.72247,
+    "Penumpang": 11,
+    "Wanita": 8,
+    "Pria": 3,
+    "Suhu": 20,
+    "Baterai": 89,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.34755,
+    "longitude": 112.72296,
+    "Penumpang": 15,
+    "Wanita": 14,
+    "Pria": 1,
+    "Suhu": 26,
+    "Baterai": 87,
+    "Kecepatan": 76
+  },
+  {
+    "latitude": -7.34758,
+    "longitude": 112.72319,
+    "Penumpang": 19,
+    "Wanita": 6,
+    "Pria": 13,
+    "Suhu": 24,
+    "Baterai": 97,
+    "Kecepatan": 68
+  },
+  {
+    "latitude": -7.34759,
+    "longitude": 112.72326,
+    "Penumpang": 29,
+    "Wanita": 0,
+    "Pria": 29,
+    "Suhu": 24,
+    "Baterai": 13,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.34762,
+    "longitude": 112.72351,
+    "Penumpang": 27,
+    "Wanita": 24,
+    "Pria": 3,
+    "Suhu": 20,
+    "Baterai": 34,
+    "Kecepatan": 98
+  },
+  {
+    "latitude": -7.34767,
+    "longitude": 112.72384,
+    "Penumpang": 24,
+    "Wanita": 0,
+    "Pria": 24,
+    "Suhu": 22,
+    "Baterai": 65,
+    "Kecepatan": 42
+  },
+  {
+    "latitude": -7.34768,
+    "longitude": 112.72391,
+    "Penumpang": 34,
+    "Wanita": 23,
+    "Pria": 11,
+    "Suhu": 27,
+    "Baterai": 75,
+    "Kecepatan": 92
+  },
+  {
+    "latitude": -7.34771,
+    "longitude": 112.72409,
+    "Penumpang": 35,
+    "Wanita": 12,
+    "Pria": 23,
+    "Suhu": 20,
+    "Baterai": 17,
+    "Kecepatan": 20
+  },
+  {
+    "latitude": -7.34773,
+    "longitude": 112.7243,
+    "Penumpang": 56,
+    "Wanita": 1,
+    "Pria": 55,
+    "Suhu": 22,
+    "Baterai": 91,
+    "Kecepatan": 45
+  },
+  {
+    "latitude": -7.34775,
+    "longitude": 112.72442,
+    "Penumpang": 40,
+    "Wanita": 15,
+    "Pria": 25,
+    "Suhu": 33,
+    "Baterai": 34,
+    "Kecepatan": 72
+  },
+  {
+    "latitude": -7.34779,
+    "longitude": 112.72461,
+    "Penumpang": 23,
+    "Wanita": 21,
+    "Pria": 2,
+    "Suhu": 23,
+    "Baterai": 100,
+    "Kecepatan": 77
+  },
+  {
+    "latitude": -7.34779,
+    "longitude": 112.72464,
+    "Penumpang": 7,
+    "Wanita": 0,
+    "Pria": 7,
+    "Suhu": 25,
+    "Baterai": 45,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.34777,
+    "longitude": 112.72466,
+    "Penumpang": 47,
+    "Wanita": 33,
+    "Pria": 14,
+    "Suhu": 28,
+    "Baterai": 49,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.34775,
+    "longitude": 112.7247,
+    "Penumpang": 48,
+    "Wanita": 16,
+    "Pria": 32,
+    "Suhu": 32,
+    "Baterai": 83,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.34772,
+    "longitude": 112.72474,
+    "Penumpang": 12,
+    "Wanita": 12,
+    "Pria": 0,
+    "Suhu": 20,
+    "Baterai": 24,
+    "Kecepatan": 22
+  },
+  {
+    "latitude": -7.34766,
+    "longitude": 112.7248,
+    "Penumpang": 8,
+    "Wanita": 5,
+    "Pria": 3,
+    "Suhu": 30,
+    "Baterai": 18,
+    "Kecepatan": 99
+  },
+  {
+    "latitude": -7.34763,
+    "longitude": 112.72482,
+    "Penumpang": 34,
+    "Wanita": 32,
+    "Pria": 2,
+    "Suhu": 33,
+    "Baterai": 44,
+    "Kecepatan": 74
+  },
+  {
+    "latitude": -7.3476,
+    "longitude": 112.72484,
+    "Penumpang": 4,
+    "Wanita": 1,
+    "Pria": 3,
+    "Suhu": 20,
+    "Baterai": 26,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.34757,
+    "longitude": 112.72485,
+    "Penumpang": 28,
+    "Wanita": 21,
+    "Pria": 7,
+    "Suhu": 22,
+    "Baterai": 30,
+    "Kecepatan": 45
+  },
+  {
+    "latitude": -7.34755,
+    "longitude": 112.72486,
+    "Penumpang": 41,
+    "Wanita": 12,
+    "Pria": 29,
+    "Suhu": 32,
+    "Baterai": 29,
+    "Kecepatan": 73
+  },
+  {
+    "latitude": -7.34754,
+    "longitude": 112.72487,
+    "Penumpang": 32,
+    "Wanita": 13,
+    "Pria": 19,
+    "Suhu": 24,
+    "Baterai": 99,
+    "Kecepatan": 32
+  },
+  {
+    "latitude": -7.34749,
+    "longitude": 112.72488,
+    "Penumpang": 24,
+    "Wanita": 6,
+    "Pria": 18,
+    "Suhu": 34,
+    "Baterai": 94,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.34741,
+    "longitude": 112.7249,
+    "Penumpang": 11,
+    "Wanita": 1,
+    "Pria": 10,
+    "Suhu": 35,
+    "Baterai": 92,
+    "Kecepatan": 70
+  },
+  {
+    "latitude": -7.34705,
+    "longitude": 112.72495,
+    "Penumpang": 15,
+    "Wanita": 10,
+    "Pria": 5,
+    "Suhu": 24,
+    "Baterai": 10,
+    "Kecepatan": 40
+  },
+  {
+    "latitude": -7.34708,
+    "longitude": 112.72588,
+    "Penumpang": 15,
+    "Wanita": 7,
+    "Pria": 8,
+    "Suhu": 35,
+    "Baterai": 59,
+    "Kecepatan": 97
+  },
+  {
+    "latitude": -7.34709,
+    "longitude": 112.72625,
+    "Penumpang": 20,
+    "Wanita": 12,
+    "Pria": 8,
+    "Suhu": 22,
+    "Baterai": 48,
+    "Kecepatan": 64
+  },
+  {
+    "latitude": -7.3471,
+    "longitude": 112.72663,
+    "Penumpang": 6,
+    "Wanita": 0,
+    "Pria": 6,
+    "Suhu": 20,
+    "Baterai": 56,
+    "Kecepatan": 70
+  },
+  {
+    "latitude": -7.34701,
+    "longitude": 112.72664,
+    "Penumpang": 25,
+    "Wanita": 22,
+    "Pria": 3,
+    "Suhu": 30,
+    "Baterai": 16,
+    "Kecepatan": 75
+  },
+  {
+    "latitude": -7.3469,
+    "longitude": 112.72665,
+    "Penumpang": 53,
+    "Wanita": 0,
+    "Pria": 53,
+    "Suhu": 26,
+    "Baterai": 33,
+    "Kecepatan": 7
+  },
+  {
+    "latitude": -7.34677,
+    "longitude": 112.72665,
+    "Penumpang": 42,
+    "Wanita": 41,
+    "Pria": 1,
+    "Suhu": 31,
+    "Baterai": 27,
+    "Kecepatan": 34
+  },
+  {
+    "latitude": -7.34667,
+    "longitude": 112.72666,
+    "Penumpang": 7,
+    "Wanita": 4,
+    "Pria": 3,
+    "Suhu": 32,
+    "Baterai": 81,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.34662,
+    "longitude": 112.72666,
+    "Penumpang": 36,
+    "Wanita": 17,
+    "Pria": 19,
+    "Suhu": 28,
+    "Baterai": 93,
+    "Kecepatan": 87
+  },
+  {
+    "latitude": -7.34661,
+    "longitude": 112.72667,
+    "Penumpang": 36,
+    "Wanita": 29,
+    "Pria": 7,
+    "Suhu": 21,
+    "Baterai": 33,
+    "Kecepatan": 91
+  },
+  {
+    "latitude": -7.34659,
+    "longitude": 112.72667,
+    "Penumpang": 31,
+    "Wanita": 15,
+    "Pria": 16,
+    "Suhu": 27,
+    "Baterai": 96,
+    "Kecepatan": 21
+  },
+  {
+    "latitude": -7.34658,
+    "longitude": 112.72667,
+    "Penumpang": 53,
+    "Wanita": 30,
+    "Pria": 23,
+    "Suhu": 32,
+    "Baterai": 40,
+    "Kecepatan": 60
+  },
+  {
+    "latitude": -7.34653,
+    "longitude": 112.72689,
+    "Penumpang": 60,
+    "Wanita": 21,
+    "Pria": 39,
+    "Suhu": 27,
+    "Baterai": 32,
+    "Kecepatan": 20
+  },
+  {
+    "latitude": -7.3465,
+    "longitude": 112.72698,
+    "Penumpang": 51,
+    "Wanita": 11,
+    "Pria": 40,
+    "Suhu": 28,
+    "Baterai": 67,
+    "Kecepatan": 15
+  },
+  {
+    "latitude": -7.34643,
+    "longitude": 112.72713,
+    "Penumpang": 13,
+    "Wanita": 0,
+    "Pria": 13,
+    "Suhu": 28,
+    "Baterai": 78,
+    "Kecepatan": 22
+  },
+  {
+    "latitude": -7.34633,
+    "longitude": 112.72732,
+    "Penumpang": 9,
+    "Wanita": 1,
+    "Pria": 8,
+    "Suhu": 35,
+    "Baterai": 96,
+    "Kecepatan": 48
+  },
+  {
+    "latitude": -7.34611,
+    "longitude": 112.72759,
+    "Penumpang": 57,
+    "Wanita": 0,
+    "Pria": 57,
+    "Suhu": 27,
+    "Baterai": 61,
+    "Kecepatan": 97
+  },
+  {
+    "latitude": -7.34609,
+    "longitude": 112.72764,
+    "Penumpang": 59,
+    "Wanita": 12,
+    "Pria": 47,
+    "Suhu": 25,
+    "Baterai": 26,
+    "Kecepatan": 50
+  },
+  {
+    "latitude": -7.34604,
+    "longitude": 112.72778,
+    "Penumpang": 30,
+    "Wanita": 26,
+    "Pria": 4,
+    "Suhu": 25,
+    "Baterai": 16,
+    "Kecepatan": 55
+  },
+  {
+    "latitude": -7.34592,
+    "longitude": 112.72789,
+    "Penumpang": 41,
+    "Wanita": 21,
+    "Pria": 20,
+    "Suhu": 24,
+    "Baterai": 55,
+    "Kecepatan": 13
+  },
+  {
+    "latitude": -7.34584,
+    "longitude": 112.72798,
+    "Penumpang": 28,
+    "Wanita": 18,
+    "Pria": 10,
+    "Suhu": 24,
+    "Baterai": 69,
+    "Kecepatan": 15
+  },
+  {
+    "latitude": -7.34579,
+    "longitude": 112.72805,
+    "Penumpang": 25,
+    "Wanita": 7,
+    "Pria": 18,
+    "Suhu": 31,
+    "Baterai": 61,
+    "Kecepatan": 14
+  },
+  {
+    "latitude": -7.34575,
+    "longitude": 112.72814,
+    "Penumpang": 8,
+    "Wanita": 7,
+    "Pria": 1,
+    "Suhu": 28,
+    "Baterai": 95,
+    "Kecepatan": 88
+  },
+  {
+    "latitude": -7.34571,
+    "longitude": 112.72834,
+    "Penumpang": 58,
+    "Wanita": 47,
+    "Pria": 11,
+    "Suhu": 21,
+    "Baterai": 38,
+    "Kecepatan": 2
+  },
+  {
+    "latitude": -7.34567,
+    "longitude": 112.72873,
+    "Penumpang": 27,
+    "Wanita": 5,
+    "Pria": 22,
+    "Suhu": 26,
+    "Baterai": 69,
+    "Kecepatan": 44
+  },
+  {
+    "latitude": -7.34558,
+    "longitude": 112.72894,
+    "Penumpang": 9,
+    "Wanita": 8,
+    "Pria": 1,
+    "Suhu": 24,
+    "Baterai": 88,
+    "Kecepatan": 78
+  },
+  {
+    "latitude": -7.34552,
+    "longitude": 112.72902,
+    "Penumpang": 46,
+    "Wanita": 24,
+    "Pria": 22,
+    "Suhu": 33,
+    "Baterai": 85,
+    "Kecepatan": 12
+  },
+  {
+    "latitude": -7.34544,
+    "longitude": 112.72908,
+    "Penumpang": 56,
+    "Wanita": 24,
+    "Pria": 32,
+    "Suhu": 22,
+    "Baterai": 26,
+    "Kecepatan": 47
+  },
+  {
+    "latitude": -7.34533,
+    "longitude": 112.72912,
+    "Penumpang": 16,
+    "Wanita": 2,
+    "Pria": 14,
+    "Suhu": 32,
+    "Baterai": 59,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.34521,
+    "longitude": 112.72914,
+    "Penumpang": 46,
+    "Wanita": 3,
+    "Pria": 43,
+    "Suhu": 30,
+    "Baterai": 50,
+    "Kecepatan": 66
+  },
+  {
+    "latitude": -7.3449,
+    "longitude": 112.72917,
+    "Penumpang": 9,
+    "Wanita": 3,
+    "Pria": 6,
+    "Suhu": 31,
+    "Baterai": 76,
+    "Kecepatan": 15
+  },
+  {
+    "latitude": -7.34481,
+    "longitude": 112.7292,
+    "Penumpang": 10,
+    "Wanita": 10,
+    "Pria": 0,
+    "Suhu": 22,
+    "Baterai": 90,
+    "Kecepatan": 3
+  },
+  {
+    "latitude": -7.34472,
+    "longitude": 112.72921,
+    "Penumpang": 15,
+    "Wanita": 9,
+    "Pria": 6,
+    "Suhu": 35,
+    "Baterai": 20,
+    "Kecepatan": 10
+  },
+  {
+    "latitude": -7.34403,
+    "longitude": 112.72922,
+    "Penumpang": 49,
+    "Wanita": 19,
+    "Pria": 30,
+    "Suhu": 31,
+    "Baterai": 74,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.34348,
+    "longitude": 112.72923,
+    "Penumpang": 32,
+    "Wanita": 18,
+    "Pria": 14,
+    "Suhu": 26,
+    "Baterai": 41,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.34315,
+    "longitude": 112.72924,
+    "Penumpang": 10,
+    "Wanita": 2,
+    "Pria": 8,
+    "Suhu": 26,
+    "Baterai": 34,
+    "Kecepatan": 74
+  },
+  {
+    "latitude": -7.34185,
+    "longitude": 112.72925,
+    "Penumpang": 24,
+    "Wanita": 24,
+    "Pria": 0,
+    "Suhu": 35,
+    "Baterai": 76,
+    "Kecepatan": 14
+  },
+  {
+    "latitude": -7.34039,
+    "longitude": 112.72923,
+    "Penumpang": 27,
+    "Wanita": 4,
+    "Pria": 23,
+    "Suhu": 26,
+    "Baterai": 88,
+    "Kecepatan": 42
+  },
+  {
+    "latitude": -7.34026,
+    "longitude": 112.72924,
+    "Penumpang": 49,
+    "Wanita": 8,
+    "Pria": 41,
+    "Suhu": 24,
+    "Baterai": 51,
+    "Kecepatan": 50
+  },
+  {
+    "latitude": -7.33984,
+    "longitude": 112.72924,
+    "Penumpang": 57,
+    "Wanita": 52,
+    "Pria": 5,
+    "Suhu": 24,
+    "Baterai": 61,
+    "Kecepatan": 99
+  },
+  {
+    "latitude": -7.33973,
+    "longitude": 112.72924,
+    "Penumpang": 15,
+    "Wanita": 13,
+    "Pria": 2,
+    "Suhu": 21,
+    "Baterai": 21,
+    "Kecepatan": 61
+  },
+  {
+    "latitude": -7.33952,
+    "longitude": 112.72924,
+    "Penumpang": 54,
+    "Wanita": 14,
+    "Pria": 40,
+    "Suhu": 28,
+    "Baterai": 47,
+    "Kecepatan": 4
+  },
+  {
+    "latitude": -7.33938,
+    "longitude": 112.72924,
+    "Penumpang": 27,
+    "Wanita": 19,
+    "Pria": 8,
+    "Suhu": 32,
+    "Baterai": 79,
+    "Kecepatan": 5
+  },
+  {
+    "latitude": -7.33887,
+    "longitude": 112.72923,
+    "Penumpang": 27,
+    "Wanita": 1,
+    "Pria": 26,
+    "Suhu": 20,
+    "Baterai": 27,
+    "Kecepatan": 66
+  },
+  {
+    "latitude": -7.33868,
+    "longitude": 112.72922,
+    "Penumpang": 51,
+    "Wanita": 40,
+    "Pria": 11,
+    "Suhu": 23,
+    "Baterai": 13,
+    "Kecepatan": 31
+  },
+  {
+    "latitude": -7.33822,
+    "longitude": 112.72923,
+    "Penumpang": 38,
+    "Wanita": 29,
+    "Pria": 9,
+    "Suhu": 31,
+    "Baterai": 55,
+    "Kecepatan": 65
+  },
+  {
+    "latitude": -7.33768,
+    "longitude": 112.72925,
+    "Penumpang": 50,
+    "Wanita": 12,
+    "Pria": 38,
+    "Suhu": 21,
+    "Baterai": 74,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.33755,
+    "longitude": 112.72926,
+    "Penumpang": 33,
+    "Wanita": 15,
+    "Pria": 18,
+    "Suhu": 22,
+    "Baterai": 55,
+    "Kecepatan": 14
+  },
+  {
+    "latitude": -7.33728,
+    "longitude": 112.72928,
+    "Penumpang": 17,
+    "Wanita": 4,
+    "Pria": 13,
+    "Suhu": 26,
+    "Baterai": 62,
+    "Kecepatan": 68
+  },
+  {
+    "latitude": -7.33696,
+    "longitude": 112.72932,
+    "Penumpang": 38,
+    "Wanita": 20,
+    "Pria": 18,
+    "Suhu": 29,
+    "Baterai": 72,
+    "Kecepatan": 99
+  },
+  {
+    "latitude": -7.33613,
+    "longitude": 112.7295,
+    "Penumpang": 29,
+    "Wanita": 16,
+    "Pria": 13,
+    "Suhu": 25,
+    "Baterai": 17,
+    "Kecepatan": 10
+  },
+  {
+    "latitude": -7.33559,
+    "longitude": 112.72963,
+    "Penumpang": 4,
+    "Wanita": 3,
+    "Pria": 1,
+    "Suhu": 25,
+    "Baterai": 39,
+    "Kecepatan": 26
+  },
+  {
+    "latitude": -7.3354,
+    "longitude": 112.72968,
+    "Penumpang": 21,
+    "Wanita": 14,
+    "Pria": 7,
+    "Suhu": 29,
+    "Baterai": 32,
+    "Kecepatan": 7
+  },
+  {
+    "latitude": -7.33406,
+    "longitude": 112.73,
+    "Penumpang": 30,
+    "Wanita": 18,
+    "Pria": 12,
+    "Suhu": 28,
+    "Baterai": 14,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.33316,
+    "longitude": 112.73022,
+    "Penumpang": 47,
+    "Wanita": 6,
+    "Pria": 41,
+    "Suhu": 25,
+    "Baterai": 100,
+    "Kecepatan": 60
+  },
+  {
+    "latitude": -7.33283,
+    "longitude": 112.73029,
+    "Penumpang": 6,
+    "Wanita": 6,
+    "Pria": 0,
+    "Suhu": 28,
+    "Baterai": 59,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.33189,
+    "longitude": 112.73053,
+    "Penumpang": 47,
+    "Wanita": 16,
+    "Pria": 31,
+    "Suhu": 28,
+    "Baterai": 99,
+    "Kecepatan": 63
+  },
+  {
+    "latitude": -7.33139,
+    "longitude": 112.73065,
+    "Penumpang": 16,
+    "Wanita": 11,
+    "Pria": 5,
+    "Suhu": 33,
+    "Baterai": 33,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.33129,
+    "longitude": 112.73067,
+    "Penumpang": 18,
+    "Wanita": 5,
+    "Pria": 13,
+    "Suhu": 25,
+    "Baterai": 68,
+    "Kecepatan": 10
+  },
+  {
+    "latitude": -7.32994,
+    "longitude": 112.73098,
+    "Penumpang": 20,
+    "Wanita": 0,
+    "Pria": 20,
+    "Suhu": 29,
+    "Baterai": 14,
+    "Kecepatan": 50
+  },
+  {
+    "latitude": -7.3298,
+    "longitude": 112.73101,
+    "Penumpang": 37,
+    "Wanita": 5,
+    "Pria": 32,
+    "Suhu": 31,
+    "Baterai": 29,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.3291,
+    "longitude": 112.73116,
+    "Penumpang": 0,
+    "Wanita": 0,
+    "Pria": 0,
+    "Suhu": 29,
+    "Baterai": 22,
+    "Kecepatan": 40
+  },
+  {
+    "latitude": -7.32888,
+    "longitude": 112.73115,
+    "Penumpang": 2,
+    "Wanita": 0,
+    "Pria": 2,
+    "Suhu": 23,
+    "Baterai": 91,
+    "Kecepatan": 48
+  },
+  {
+    "latitude": -7.32876,
+    "longitude": 112.7311,
+    "Penumpang": 40,
+    "Wanita": 35,
+    "Pria": 5,
+    "Suhu": 29,
+    "Baterai": 69,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.32862,
+    "longitude": 112.73105,
+    "Penumpang": 34,
+    "Wanita": 26,
+    "Pria": 8,
+    "Suhu": 30,
+    "Baterai": 55,
+    "Kecepatan": 2
+  },
+  {
+    "latitude": -7.32847,
+    "longitude": 112.73099,
+    "Penumpang": 29,
+    "Wanita": 4,
+    "Pria": 25,
+    "Suhu": 28,
+    "Baterai": 52,
+    "Kecepatan": 59
+  },
+  {
+    "latitude": -7.32834,
+    "longitude": 112.73095,
+    "Penumpang": 21,
+    "Wanita": 13,
+    "Pria": 8,
+    "Suhu": 26,
+    "Baterai": 68,
+    "Kecepatan": 61
+  },
+  {
+    "latitude": -7.32821,
+    "longitude": 112.73093,
+    "Penumpang": 52,
+    "Wanita": 46,
+    "Pria": 6,
+    "Suhu": 23,
+    "Baterai": 68,
+    "Kecepatan": 58
+  },
+  {
+    "latitude": -7.32805,
+    "longitude": 112.7309,
+    "Penumpang": 49,
+    "Wanita": 10,
+    "Pria": 39,
+    "Suhu": 30,
+    "Baterai": 60,
+    "Kecepatan": 61
+  },
+  {
+    "latitude": -7.32759,
+    "longitude": 112.73083,
+    "Penumpang": 47,
+    "Wanita": 15,
+    "Pria": 32,
+    "Suhu": 35,
+    "Baterai": 64,
+    "Kecepatan": 54
+  },
+  {
+    "latitude": -7.32723,
+    "longitude": 112.73077,
+    "Penumpang": 60,
+    "Wanita": 25,
+    "Pria": 35,
+    "Suhu": 33,
+    "Baterai": 89,
+    "Kecepatan": 14
+  },
+  {
+    "latitude": -7.32718,
+    "longitude": 112.73077,
+    "Penumpang": 28,
+    "Wanita": 13,
+    "Pria": 15,
+    "Suhu": 22,
+    "Baterai": 32,
+    "Kecepatan": 43
+  },
+  {
+    "latitude": -7.32715,
+    "longitude": 112.73077,
+    "Penumpang": 18,
+    "Wanita": 18,
+    "Pria": 0,
+    "Suhu": 20,
+    "Baterai": 41,
+    "Kecepatan": 57
+  },
+  {
+    "latitude": -7.32711,
+    "longitude": 112.73077,
+    "Penumpang": 59,
+    "Wanita": 1,
+    "Pria": 58,
+    "Suhu": 23,
+    "Baterai": 10,
+    "Kecepatan": 48
+  },
+  {
+    "latitude": -7.32704,
+    "longitude": 112.73077,
+    "Penumpang": 50,
+    "Wanita": 34,
+    "Pria": 16,
+    "Suhu": 31,
+    "Baterai": 39,
+    "Kecepatan": 2
+  },
+  {
+    "latitude": -7.32696,
+    "longitude": 112.73078,
+    "Penumpang": 26,
+    "Wanita": 20,
+    "Pria": 6,
+    "Suhu": 27,
+    "Baterai": 72,
+    "Kecepatan": 88
+  },
+  {
+    "latitude": -7.32677,
+    "longitude": 112.73085,
+    "Penumpang": 24,
+    "Wanita": 12,
+    "Pria": 12,
+    "Suhu": 26,
+    "Baterai": 20,
+    "Kecepatan": 66
+  },
+  {
+    "latitude": -7.32668,
+    "longitude": 112.73091,
+    "Penumpang": 22,
+    "Wanita": 16,
+    "Pria": 6,
+    "Suhu": 24,
+    "Baterai": 38,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.32666,
+    "longitude": 112.73092,
+    "Penumpang": 20,
+    "Wanita": 5,
+    "Pria": 15,
+    "Suhu": 35,
+    "Baterai": 22,
+    "Kecepatan": 75
+  },
+  {
+    "latitude": -7.32659,
+    "longitude": 112.73101,
+    "Penumpang": 58,
+    "Wanita": 56,
+    "Pria": 2,
+    "Suhu": 22,
+    "Baterai": 31,
+    "Kecepatan": 1
+  },
+  {
+    "latitude": -7.32653,
+    "longitude": 112.73108,
+    "Penumpang": 4,
+    "Wanita": 1,
+    "Pria": 3,
+    "Suhu": 23,
+    "Baterai": 90,
+    "Kecepatan": 56
+  },
+  {
+    "latitude": -7.3265,
+    "longitude": 112.73117,
+    "Penumpang": 26,
+    "Wanita": 2,
+    "Pria": 24,
+    "Suhu": 26,
+    "Baterai": 34,
+    "Kecepatan": 34
+  },
+  {
+    "latitude": -7.32645,
+    "longitude": 112.73137,
+    "Penumpang": 59,
+    "Wanita": 58,
+    "Pria": 1,
+    "Suhu": 32,
+    "Baterai": 26,
+    "Kecepatan": 18
+  },
+  {
+    "latitude": -7.32638,
+    "longitude": 112.73154,
+    "Penumpang": 60,
+    "Wanita": 12,
+    "Pria": 48,
+    "Suhu": 26,
+    "Baterai": 100,
+    "Kecepatan": 21
+  },
+  {
+    "latitude": -7.32634,
+    "longitude": 112.73163,
+    "Penumpang": 41,
+    "Wanita": 18,
+    "Pria": 23,
+    "Suhu": 35,
+    "Baterai": 85,
+    "Kecepatan": 80
+  },
+  {
+    "latitude": -7.32628,
+    "longitude": 112.7317,
+    "Penumpang": 41,
+    "Wanita": 31,
+    "Pria": 10,
+    "Suhu": 23,
+    "Baterai": 86,
+    "Kecepatan": 79
+  },
+  {
+    "latitude": -7.3262,
+    "longitude": 112.73176,
+    "Penumpang": 53,
+    "Wanita": 46,
+    "Pria": 7,
+    "Suhu": 26,
+    "Baterai": 44,
+    "Kecepatan": 86
+  },
+  {
+    "latitude": -7.32609,
+    "longitude": 112.7318,
+    "Penumpang": 0,
+    "Wanita": 0,
+    "Pria": 0,
+    "Suhu": 30,
+    "Baterai": 84,
+    "Kecepatan": 19
+  },
+  {
+    "latitude": -7.32606,
+    "longitude": 112.73181,
+    "Penumpang": 22,
+    "Wanita": 21,
+    "Pria": 1,
+    "Suhu": 35,
+    "Baterai": 45,
+    "Kecepatan": 98
+  },
+  {
+    "latitude": -7.32595,
+    "longitude": 112.73184,
+    "Penumpang": 30,
+    "Wanita": 3,
+    "Pria": 27,
+    "Suhu": 32,
+    "Baterai": 30,
+    "Kecepatan": 15
+  },
+  {
+    "latitude": -7.32571,
+    "longitude": 112.73189,
+    "Penumpang": 18,
+    "Wanita": 0,
+    "Pria": 18,
+    "Suhu": 28,
+    "Baterai": 39,
+    "Kecepatan": 77
+  },
+  {
+    "latitude": -7.32539,
+    "longitude": 112.73196,
+    "Penumpang": 42,
+    "Wanita": 15,
+    "Pria": 27,
+    "Suhu": 35,
+    "Baterai": 54,
+    "Kecepatan": 72
+  },
+  {
+    "latitude": -7.32526,
+    "longitude": 112.73199,
+    "Penumpang": 45,
+    "Wanita": 14,
+    "Pria": 31,
+    "Suhu": 34,
+    "Baterai": 10,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.32454,
+    "longitude": 112.73214,
+    "Penumpang": 13,
+    "Wanita": 4,
+    "Pria": 9,
+    "Suhu": 22,
+    "Baterai": 77,
+    "Kecepatan": 55
+  },
+  {
+    "latitude": -7.32396,
+    "longitude": 112.73226,
+    "Penumpang": 31,
+    "Wanita": 1,
+    "Pria": 30,
+    "Suhu": 20,
+    "Baterai": 75,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.32367,
+    "longitude": 112.73234,
+    "Penumpang": 1,
+    "Wanita": 0,
+    "Pria": 1,
+    "Suhu": 20,
+    "Baterai": 17,
+    "Kecepatan": 62
+  },
+  {
+    "latitude": -7.32346,
+    "longitude": 112.73239,
+    "Penumpang": 16,
+    "Wanita": 1,
+    "Pria": 15,
+    "Suhu": 28,
+    "Baterai": 75,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.32288,
+    "longitude": 112.73249,
+    "Penumpang": 29,
+    "Wanita": 22,
+    "Pria": 7,
+    "Suhu": 33,
+    "Baterai": 48,
+    "Kecepatan": 49
+  },
+  {
+    "latitude": -7.3222,
+    "longitude": 112.73264,
+    "Penumpang": 42,
+    "Wanita": 2,
+    "Pria": 40,
+    "Suhu": 21,
+    "Baterai": 38,
+    "Kecepatan": 24
+  },
+  {
+    "latitude": -7.32203,
+    "longitude": 112.73268,
+    "Penumpang": 9,
+    "Wanita": 8,
+    "Pria": 1,
+    "Suhu": 29,
+    "Baterai": 63,
+    "Kecepatan": 48
+  },
+  {
+    "latitude": -7.32115,
+    "longitude": 112.73287,
+    "Penumpang": 6,
+    "Wanita": 4,
+    "Pria": 2,
+    "Suhu": 35,
+    "Baterai": 31,
+    "Kecepatan": 54
+  },
+  {
+    "latitude": -7.32089,
+    "longitude": 112.73292,
+    "Penumpang": 44,
+    "Wanita": 43,
+    "Pria": 1,
+    "Suhu": 20,
+    "Baterai": 91,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.32074,
+    "longitude": 112.73295,
+    "Penumpang": 58,
+    "Wanita": 0,
+    "Pria": 58,
+    "Suhu": 31,
+    "Baterai": 99,
+    "Kecepatan": 88
+  },
+  {
+    "latitude": -7.32012,
+    "longitude": 112.73308,
+    "Penumpang": 53,
+    "Wanita": 34,
+    "Pria": 19,
+    "Suhu": 24,
+    "Baterai": 39,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.31967,
+    "longitude": 112.73318,
+    "Penumpang": 21,
+    "Wanita": 18,
+    "Pria": 3,
+    "Suhu": 24,
+    "Baterai": 67,
+    "Kecepatan": 69
+  },
+  {
+    "latitude": -7.3192,
+    "longitude": 112.73327,
+    "Penumpang": 12,
+    "Wanita": 7,
+    "Pria": 5,
+    "Suhu": 20,
+    "Baterai": 89,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.31913,
+    "longitude": 112.73329,
+    "Penumpang": 5,
+    "Wanita": 0,
+    "Pria": 5,
+    "Suhu": 33,
+    "Baterai": 49,
+    "Kecepatan": 70
+  },
+  {
+    "latitude": -7.31875,
+    "longitude": 112.73337,
+    "Penumpang": 12,
+    "Wanita": 11,
+    "Pria": 1,
+    "Suhu": 25,
+    "Baterai": 81,
+    "Kecepatan": 51
+  },
+  {
+    "latitude": -7.31813,
+    "longitude": 112.7335,
+    "Penumpang": 0,
+    "Wanita": 0,
+    "Pria": 0,
+    "Suhu": 26,
+    "Baterai": 45,
+    "Kecepatan": 68
+  },
+  {
+    "latitude": -7.3176,
+    "longitude": 112.73361,
+    "Penumpang": 0,
+    "Wanita": 0,
+    "Pria": 0,
+    "Suhu": 25,
+    "Baterai": 57,
+    "Kecepatan": 84
+  },
+  {
+    "latitude": -7.31689,
+    "longitude": 112.73376,
+    "Penumpang": 22,
+    "Wanita": 11,
+    "Pria": 11,
+    "Suhu": 24,
+    "Baterai": 33,
+    "Kecepatan": 64
+  },
+  {
+    "latitude": -7.31628,
+    "longitude": 112.73389,
+    "Penumpang": 53,
+    "Wanita": 47,
+    "Pria": 6,
+    "Suhu": 27,
+    "Baterai": 60,
+    "Kecepatan": 43
+  },
+  {
+    "latitude": -7.31604,
+    "longitude": 112.73394,
+    "Penumpang": 50,
+    "Wanita": 14,
+    "Pria": 36,
+    "Suhu": 35,
+    "Baterai": 54,
+    "Kecepatan": 59
+  },
+  {
+    "latitude": -7.31576,
+    "longitude": 112.734,
+    "Penumpang": 4,
+    "Wanita": 0,
+    "Pria": 4,
+    "Suhu": 25,
+    "Baterai": 67,
+    "Kecepatan": 74
+  },
+  {
+    "latitude": -7.3156,
+    "longitude": 112.73403,
+    "Penumpang": 5,
+    "Wanita": 3,
+    "Pria": 2,
+    "Suhu": 32,
+    "Baterai": 61,
+    "Kecepatan": 49
+  },
+  {
+    "latitude": -7.31498,
+    "longitude": 112.73417,
+    "Penumpang": 0,
+    "Wanita": 0,
+    "Pria": 0,
+    "Suhu": 34,
+    "Baterai": 44,
+    "Kecepatan": 74
+  },
+  {
+    "latitude": -7.31395,
+    "longitude": 112.73438,
+    "Penumpang": 53,
+    "Wanita": 13,
+    "Pria": 40,
+    "Suhu": 31,
+    "Baterai": 62,
+    "Kecepatan": 89
+  },
+  {
+    "latitude": -7.31351,
+    "longitude": 112.73448,
+    "Penumpang": 4,
+    "Wanita": 4,
+    "Pria": 0,
+    "Suhu": 28,
+    "Baterai": 85,
+    "Kecepatan": 77
+  },
+  {
+    "latitude": -7.3132,
+    "longitude": 112.73454,
+    "Penumpang": 55,
+    "Wanita": 51,
+    "Pria": 4,
+    "Suhu": 30,
+    "Baterai": 44,
+    "Kecepatan": 48
+  },
+  {
+    "latitude": -7.31286,
+    "longitude": 112.73461,
+    "Penumpang": 15,
+    "Wanita": 6,
+    "Pria": 9,
+    "Suhu": 34,
+    "Baterai": 46,
+    "Kecepatan": 18
+  },
+  {
+    "latitude": -7.31155,
+    "longitude": 112.73489,
+    "Penumpang": 23,
+    "Wanita": 17,
+    "Pria": 6,
+    "Suhu": 34,
+    "Baterai": 25,
+    "Kecepatan": 30
+  },
+  {
+    "latitude": -7.31144,
+    "longitude": 112.73492,
+    "Penumpang": 25,
+    "Wanita": 8,
+    "Pria": 17,
+    "Suhu": 21,
+    "Baterai": 22,
+    "Kecepatan": 47
+  },
+  {
+    "latitude": -7.3113,
+    "longitude": 112.73495,
+    "Penumpang": 57,
+    "Wanita": 56,
+    "Pria": 1,
+    "Suhu": 29,
+    "Baterai": 38,
+    "Kecepatan": 27
+  },
+  {
+    "latitude": -7.31056,
+    "longitude": 112.7351,
+    "Penumpang": 38,
+    "Wanita": 18,
+    "Pria": 20,
+    "Suhu": 29,
+    "Baterai": 45,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.31029,
+    "longitude": 112.73516,
+    "Penumpang": 17,
+    "Wanita": 5,
+    "Pria": 12,
+    "Suhu": 28,
+    "Baterai": 22,
+    "Kecepatan": 91
+  },
+  {
+    "latitude": -7.30987,
+    "longitude": 112.73525,
+    "Penumpang": 32,
+    "Wanita": 15,
+    "Pria": 17,
+    "Suhu": 23,
+    "Baterai": 13,
+    "Kecepatan": 59
+  },
+  {
+    "latitude": -7.30982,
+    "longitude": 112.73526,
+    "Penumpang": 25,
+    "Wanita": 6,
+    "Pria": 19,
+    "Suhu": 21,
+    "Baterai": 84,
+    "Kecepatan": 77
+  },
+  {
+    "latitude": -7.30972,
+    "longitude": 112.73528,
+    "Penumpang": 11,
+    "Wanita": 9,
+    "Pria": 2,
+    "Suhu": 32,
+    "Baterai": 36,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.30908,
+    "longitude": 112.73541,
+    "Penumpang": 19,
+    "Wanita": 2,
+    "Pria": 17,
+    "Suhu": 33,
+    "Baterai": 10,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.30856,
+    "longitude": 112.73552,
+    "Penumpang": 17,
+    "Wanita": 5,
+    "Pria": 12,
+    "Suhu": 30,
+    "Baterai": 30,
+    "Kecepatan": 16
+  },
+  {
+    "latitude": -7.30855,
+    "longitude": 112.73552,
+    "Penumpang": 54,
+    "Wanita": 40,
+    "Pria": 14,
+    "Suhu": 34,
+    "Baterai": 55,
+    "Kecepatan": 5
+  },
+  {
+    "latitude": -7.30846,
+    "longitude": 112.73551,
+    "Penumpang": 29,
+    "Wanita": 6,
+    "Pria": 23,
+    "Suhu": 23,
+    "Baterai": 34,
+    "Kecepatan": 10
+  },
+  {
+    "latitude": -7.30841,
+    "longitude": 112.7355,
+    "Penumpang": 12,
+    "Wanita": 7,
+    "Pria": 5,
+    "Suhu": 21,
+    "Baterai": 77,
+    "Kecepatan": 60
+  },
+  {
+    "latitude": -7.30829,
+    "longitude": 112.73547,
+    "Penumpang": 20,
+    "Wanita": 18,
+    "Pria": 2,
+    "Suhu": 25,
+    "Baterai": 69,
+    "Kecepatan": 32
+  },
+  {
+    "latitude": -7.3081,
+    "longitude": 112.73544,
+    "Penumpang": 8,
+    "Wanita": 4,
+    "Pria": 4,
+    "Suhu": 25,
+    "Baterai": 64,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.308,
+    "longitude": 112.73545,
+    "Penumpang": 21,
+    "Wanita": 14,
+    "Pria": 7,
+    "Suhu": 26,
+    "Baterai": 96,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.30796,
+    "longitude": 112.73546,
+    "Penumpang": 44,
+    "Wanita": 42,
+    "Pria": 2,
+    "Suhu": 29,
+    "Baterai": 58,
+    "Kecepatan": 64
+  },
+  {
+    "latitude": -7.30766,
+    "longitude": 112.73557,
+    "Penumpang": 17,
+    "Wanita": 12,
+    "Pria": 5,
+    "Suhu": 30,
+    "Baterai": 72,
+    "Kecepatan": 37
+  },
+  {
+    "latitude": -7.30747,
+    "longitude": 112.73566,
+    "Penumpang": 54,
+    "Wanita": 51,
+    "Pria": 3,
+    "Suhu": 35,
+    "Baterai": 48,
+    "Kecepatan": 70
+  },
+  {
+    "latitude": -7.3072,
+    "longitude": 112.73582,
+    "Penumpang": 27,
+    "Wanita": 18,
+    "Pria": 9,
+    "Suhu": 33,
+    "Baterai": 36,
+    "Kecepatan": 77
+  },
+  {
+    "latitude": -7.30716,
+    "longitude": 112.73583,
+    "Penumpang": 3,
+    "Wanita": 3,
+    "Pria": 0,
+    "Suhu": 20,
+    "Baterai": 59,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.30665,
+    "longitude": 112.73594,
+    "Penumpang": 15,
+    "Wanita": 9,
+    "Pria": 6,
+    "Suhu": 29,
+    "Baterai": 43,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.3061,
+    "longitude": 112.73608,
+    "Penumpang": 5,
+    "Wanita": 2,
+    "Pria": 3,
+    "Suhu": 29,
+    "Baterai": 78,
+    "Kecepatan": 39
+  },
+  {
+    "latitude": -7.30597,
+    "longitude": 112.73611,
+    "Penumpang": 38,
+    "Wanita": 36,
+    "Pria": 2,
+    "Suhu": 27,
+    "Baterai": 18,
+    "Kecepatan": 24
+  },
+  {
+    "latitude": -7.3057,
+    "longitude": 112.73618,
+    "Penumpang": 51,
+    "Wanita": 26,
+    "Pria": 25,
+    "Suhu": 24,
+    "Baterai": 65,
+    "Kecepatan": 11
+  },
+  {
+    "latitude": -7.30511,
+    "longitude": 112.73632,
+    "Penumpang": 37,
+    "Wanita": 6,
+    "Pria": 31,
+    "Suhu": 32,
+    "Baterai": 43,
+    "Kecepatan": 57
+  },
+  {
+    "latitude": -7.30486,
+    "longitude": 112.73639,
+    "Penumpang": 33,
+    "Wanita": 14,
+    "Pria": 19,
+    "Suhu": 28,
+    "Baterai": 85,
+    "Kecepatan": 84
+  },
+  {
+    "latitude": -7.30368,
+    "longitude": 112.73667,
+    "Penumpang": 12,
+    "Wanita": 10,
+    "Pria": 2,
+    "Suhu": 28,
+    "Baterai": 26,
+    "Kecepatan": 93
+  },
+  {
+    "latitude": -7.30336,
+    "longitude": 112.73673,
+    "Penumpang": 14,
+    "Wanita": 6,
+    "Pria": 8,
+    "Suhu": 28,
+    "Baterai": 82,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.30315,
+    "longitude": 112.73677,
+    "Penumpang": 59,
+    "Wanita": 36,
+    "Pria": 23,
+    "Suhu": 23,
+    "Baterai": 71,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.30288,
+    "longitude": 112.73677,
+    "Penumpang": 50,
+    "Wanita": 35,
+    "Pria": 15,
+    "Suhu": 23,
+    "Baterai": 47,
+    "Kecepatan": 50
+  },
+  {
+    "latitude": -7.30213,
+    "longitude": 112.73692,
+    "Penumpang": 21,
+    "Wanita": 17,
+    "Pria": 4,
+    "Suhu": 26,
+    "Baterai": 90,
+    "Kecepatan": 20
+  },
+  {
+    "latitude": -7.30122,
+    "longitude": 112.73711,
+    "Penumpang": 4,
+    "Wanita": 0,
+    "Pria": 4,
+    "Suhu": 34,
+    "Baterai": 35,
+    "Kecepatan": 93
+  },
+  {
+    "latitude": -7.30116,
+    "longitude": 112.73712,
+    "Penumpang": 9,
+    "Wanita": 7,
+    "Pria": 2,
+    "Suhu": 32,
+    "Baterai": 46,
+    "Kecepatan": 46
+  },
+  {
+    "latitude": -7.30108,
+    "longitude": 112.73714,
+    "Penumpang": 56,
+    "Wanita": 14,
+    "Pria": 42,
+    "Suhu": 22,
+    "Baterai": 96,
+    "Kecepatan": 43
+  },
+  {
+    "latitude": -7.30073,
+    "longitude": 112.73721,
+    "Penumpang": 1,
+    "Wanita": 1,
+    "Pria": 0,
+    "Suhu": 34,
+    "Baterai": 62,
+    "Kecepatan": 11
+  },
+  {
+    "latitude": -7.30061,
+    "longitude": 112.73723,
+    "Penumpang": 57,
+    "Wanita": 31,
+    "Pria": 26,
+    "Suhu": 34,
+    "Baterai": 59,
+    "Kecepatan": 49
+  },
+  {
+    "latitude": -7.30028,
+    "longitude": 112.73728,
+    "Penumpang": 58,
+    "Wanita": 32,
+    "Pria": 26,
+    "Suhu": 22,
+    "Baterai": 71,
+    "Kecepatan": 69
+  },
+  {
+    "latitude": -7.30012,
+    "longitude": 112.73731,
+    "Penumpang": 43,
+    "Wanita": 33,
+    "Pria": 10,
+    "Suhu": 22,
+    "Baterai": 26,
+    "Kecepatan": 1
+  },
+  {
+    "latitude": -7.30002,
+    "longitude": 112.73732,
+    "Penumpang": 1,
+    "Wanita": 1,
+    "Pria": 0,
+    "Suhu": 26,
+    "Baterai": 55,
+    "Kecepatan": 8
+  },
+  {
+    "latitude": -7.29971,
+    "longitude": 112.73738,
+    "Penumpang": 23,
+    "Wanita": 13,
+    "Pria": 10,
+    "Suhu": 34,
+    "Baterai": 59,
+    "Kecepatan": 94
+  },
+  {
+    "latitude": -7.29945,
+    "longitude": 112.73742,
+    "Penumpang": 27,
+    "Wanita": 25,
+    "Pria": 2,
+    "Suhu": 21,
+    "Baterai": 72,
+    "Kecepatan": 80
+  },
+  {
+    "latitude": -7.29941,
+    "longitude": 112.73743,
+    "Penumpang": 15,
+    "Wanita": 10,
+    "Pria": 5,
+    "Suhu": 20,
+    "Baterai": 36,
+    "Kecepatan": 79
+  },
+  {
+    "latitude": -7.299,
+    "longitude": 112.73745,
+    "Penumpang": 25,
+    "Wanita": 3,
+    "Pria": 22,
+    "Suhu": 23,
+    "Baterai": 35,
+    "Kecepatan": 2
+  },
+  {
+    "latitude": -7.29893,
+    "longitude": 112.73746,
+    "Penumpang": 27,
+    "Wanita": 17,
+    "Pria": 10,
+    "Suhu": 22,
+    "Baterai": 56,
+    "Kecepatan": 79
+  },
+  {
+    "latitude": -7.29881,
+    "longitude": 112.73749,
+    "Penumpang": 45,
+    "Wanita": 45,
+    "Pria": 0,
+    "Suhu": 30,
+    "Baterai": 54,
+    "Kecepatan": 91
+  },
+  {
+    "latitude": -7.29871,
+    "longitude": 112.73754,
+    "Penumpang": 37,
+    "Wanita": 1,
+    "Pria": 36,
+    "Suhu": 35,
+    "Baterai": 16,
+    "Kecepatan": 96
+  },
+  {
+    "latitude": -7.29864,
+    "longitude": 112.73757,
+    "Penumpang": 8,
+    "Wanita": 3,
+    "Pria": 5,
+    "Suhu": 23,
+    "Baterai": 89,
+    "Kecepatan": 50
+  },
+  {
+    "latitude": -7.29847,
+    "longitude": 112.73769,
+    "Penumpang": 2,
+    "Wanita": 0,
+    "Pria": 2,
+    "Suhu": 26,
+    "Baterai": 98,
+    "Kecepatan": 41
+  },
+  {
+    "latitude": -7.29837,
+    "longitude": 112.73778,
+    "Penumpang": 18,
+    "Wanita": 3,
+    "Pria": 15,
+    "Suhu": 35,
+    "Baterai": 28,
+    "Kecepatan": 74
+  },
+  {
+    "latitude": -7.29822,
+    "longitude": 112.73792,
+    "Penumpang": 18,
+    "Wanita": 15,
+    "Pria": 3,
+    "Suhu": 26,
+    "Baterai": 22,
+    "Kecepatan": 39
+  },
+  {
+    "latitude": -7.29819,
+    "longitude": 112.73796,
+    "Penumpang": 59,
+    "Wanita": 51,
+    "Pria": 8,
+    "Suhu": 21,
+    "Baterai": 14,
+    "Kecepatan": 28
+  },
+  {
+    "latitude": -7.29814,
+    "longitude": 112.73804,
+    "Penumpang": 60,
+    "Wanita": 31,
+    "Pria": 29,
+    "Suhu": 23,
+    "Baterai": 34,
+    "Kecepatan": 59
+  },
+  {
+    "latitude": -7.29806,
+    "longitude": 112.73817,
+    "Penumpang": 13,
+    "Wanita": 4,
+    "Pria": 9,
+    "Suhu": 31,
+    "Baterai": 99,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.29795,
+    "longitude": 112.73841,
+    "Penumpang": 60,
+    "Wanita": 34,
+    "Pria": 26,
+    "Suhu": 28,
+    "Baterai": 23,
+    "Kecepatan": 71
+  },
+  {
+    "latitude": -7.29787,
+    "longitude": 112.73854,
+    "Penumpang": 11,
+    "Wanita": 9,
+    "Pria": 2,
+    "Suhu": 31,
+    "Baterai": 80,
+    "Kecepatan": 71
+  },
+  {
+    "latitude": -7.29779,
+    "longitude": 112.73864,
+    "Penumpang": 20,
+    "Wanita": 13,
+    "Pria": 7,
+    "Suhu": 25,
+    "Baterai": 45,
+    "Kecepatan": 26
+  },
+  {
+    "latitude": -7.29773,
+    "longitude": 112.73871,
+    "Penumpang": 27,
+    "Wanita": 4,
+    "Pria": 23,
+    "Suhu": 22,
+    "Baterai": 70,
+    "Kecepatan": 25
+  },
+  {
+    "latitude": -7.29752,
+    "longitude": 112.73887,
+    "Penumpang": 60,
+    "Wanita": 49,
+    "Pria": 11,
+    "Suhu": 33,
+    "Baterai": 33,
+    "Kecepatan": 34
+  },
+  {
+    "latitude": -7.29738,
+    "longitude": 112.73897,
+    "Penumpang": 27,
+    "Wanita": 15,
+    "Pria": 12,
+    "Suhu": 29,
+    "Baterai": 93,
+    "Kecepatan": 47
+  },
+  {
+    "latitude": -7.29722,
+    "longitude": 112.73903,
+    "Penumpang": 54,
+    "Wanita": 5,
+    "Pria": 49,
+    "Suhu": 23,
+    "Baterai": 72,
+    "Kecepatan": 27
+  },
+  {
+    "latitude": -7.29699,
+    "longitude": 112.7391,
+    "Penumpang": 41,
+    "Wanita": 23,
+    "Pria": 18,
+    "Suhu": 31,
+    "Baterai": 99,
+    "Kecepatan": 43
+  },
+  {
+    "latitude": -7.29678,
+    "longitude": 112.73914,
+    "Penumpang": 41,
+    "Wanita": 5,
+    "Pria": 36,
+    "Suhu": 35,
+    "Baterai": 91,
+    "Kecepatan": 11
+  },
+  {
+    "latitude": -7.2965,
+    "longitude": 112.73914,
+    "Penumpang": 3,
+    "Wanita": 3,
+    "Pria": 0,
+    "Suhu": 27,
+    "Baterai": 40,
+    "Kecepatan": 61
+  },
+  {
+    "latitude": -7.29635,
+    "longitude": 112.73911,
+    "Penumpang": 54,
+    "Wanita": 17,
+    "Pria": 37,
+    "Suhu": 32,
+    "Baterai": 42,
+    "Kecepatan": 72
+  },
+  {
+    "latitude": -7.29624,
+    "longitude": 112.73908,
+    "Penumpang": 48,
+    "Wanita": 46,
+    "Pria": 2,
+    "Suhu": 21,
+    "Baterai": 16,
+    "Kecepatan": 35
+  },
+  {
+    "latitude": -7.29616,
+    "longitude": 112.73907,
+    "Penumpang": 21,
+    "Wanita": 16,
+    "Pria": 5,
+    "Suhu": 34,
+    "Baterai": 40,
+    "Kecepatan": 25
+  },
+  {
+    "latitude": -7.29565,
+    "longitude": 112.73912,
+    "Penumpang": 52,
+    "Wanita": 33,
+    "Pria": 19,
+    "Suhu": 32,
+    "Baterai": 31,
+    "Kecepatan": 60
+  },
+  {
+    "latitude": -7.29554,
+    "longitude": 112.73914,
+    "Penumpang": 44,
+    "Wanita": 37,
+    "Pria": 7,
+    "Suhu": 32,
+    "Baterai": 92,
+    "Kecepatan": 81
+  },
+  {
+    "latitude": -7.29547,
+    "longitude": 112.73915,
+    "Penumpang": 1,
+    "Wanita": 0,
+    "Pria": 1,
+    "Suhu": 20,
+    "Baterai": 22,
+    "Kecepatan": 3
+  },
+  {
+    "latitude": -7.29542,
+    "longitude": 112.73915,
+    "Penumpang": 57,
+    "Wanita": 57,
+    "Pria": 0,
+    "Suhu": 21,
+    "Baterai": 19,
+    "Kecepatan": 88
+  },
+  {
+    "latitude": -7.29533,
+    "longitude": 112.73916,
+    "Penumpang": 56,
+    "Wanita": 42,
+    "Pria": 14,
+    "Suhu": 22,
+    "Baterai": 32,
+    "Kecepatan": 8
+  },
+  {
+    "latitude": -7.29492,
+    "longitude": 112.73914,
+    "Penumpang": 45,
+    "Wanita": 37,
+    "Pria": 8,
+    "Suhu": 27,
+    "Baterai": 20,
+    "Kecepatan": 39
+  },
+  {
+    "latitude": -7.29453,
+    "longitude": 112.73911,
+    "Penumpang": 28,
+    "Wanita": 5,
+    "Pria": 23,
+    "Suhu": 21,
+    "Baterai": 48,
+    "Kecepatan": 8
+  },
+  {
+    "latitude": -7.29297,
+    "longitude": 112.73902,
+    "Penumpang": 14,
+    "Wanita": 5,
+    "Pria": 9,
+    "Suhu": 22,
+    "Baterai": 27,
+    "Kecepatan": 18
+  },
+  {
+    "latitude": -7.29245,
+    "longitude": 112.73898,
+    "Penumpang": 5,
+    "Wanita": 0,
+    "Pria": 5,
+    "Suhu": 32,
+    "Baterai": 75,
+    "Kecepatan": 3
+  },
+  {
+    "latitude": -7.29187,
+    "longitude": 112.73894,
+    "Penumpang": 31,
+    "Wanita": 17,
+    "Pria": 14,
+    "Suhu": 26,
+    "Baterai": 21,
+    "Kecepatan": 27
+  },
+  {
+    "latitude": -7.29125,
+    "longitude": 112.73891,
+    "Penumpang": 42,
+    "Wanita": 12,
+    "Pria": 30,
+    "Suhu": 20,
+    "Baterai": 27,
+    "Kecepatan": 44
+  },
+  {
+    "latitude": -7.2911,
+    "longitude": 112.7389,
+    "Penumpang": 16,
+    "Wanita": 16,
+    "Pria": 0,
+    "Suhu": 31,
+    "Baterai": 95,
+    "Kecepatan": 40
+  },
+  {
+    "latitude": -7.2909,
+    "longitude": 112.73889,
+    "Penumpang": 21,
+    "Wanita": 7,
+    "Pria": 14,
+    "Suhu": 32,
+    "Baterai": 28,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.29034,
+    "longitude": 112.73885,
+    "Penumpang": 15,
+    "Wanita": 14,
+    "Pria": 1,
+    "Suhu": 23,
+    "Baterai": 64,
+    "Kecepatan": 2
+  },
+  {
+    "latitude": -7.29003,
+    "longitude": 112.73887,
+    "Penumpang": 20,
+    "Wanita": 15,
+    "Pria": 5,
+    "Suhu": 22,
+    "Baterai": 98,
+    "Kecepatan": 30
+  },
+  {
+    "latitude": -7.28993,
+    "longitude": 112.73887,
+    "Penumpang": 13,
+    "Wanita": 6,
+    "Pria": 7,
+    "Suhu": 21,
+    "Baterai": 35,
+    "Kecepatan": 100
+  },
+  {
+    "latitude": -7.28979,
+    "longitude": 112.73888,
+    "Penumpang": 51,
+    "Wanita": 35,
+    "Pria": 16,
+    "Suhu": 32,
+    "Baterai": 61,
+    "Kecepatan": 19
+  },
+  {
+    "latitude": -7.28969,
+    "longitude": 112.7389,
+    "Penumpang": 3,
+    "Wanita": 2,
+    "Pria": 1,
+    "Suhu": 26,
+    "Baterai": 84,
+    "Kecepatan": 91
+  },
+  {
+    "latitude": -7.28925,
+    "longitude": 112.73899,
+    "Penumpang": 3,
+    "Wanita": 2,
+    "Pria": 1,
+    "Suhu": 21,
+    "Baterai": 99,
+    "Kecepatan": 33
+  },
+  {
+    "latitude": -7.2892,
+    "longitude": 112.739,
+    "Penumpang": 59,
+    "Wanita": 20,
+    "Pria": 39,
+    "Suhu": 25,
+    "Baterai": 34,
+    "Kecepatan": 52
+  },
+  {
+    "latitude": -7.28917,
+    "longitude": 112.73901,
+    "Penumpang": 33,
+    "Wanita": 13,
+    "Pria": 20,
+    "Suhu": 27,
+    "Baterai": 59,
+    "Kecepatan": 84
+  },
+  {
+    "latitude": -7.28908,
+    "longitude": 112.73903,
+    "Penumpang": 7,
+    "Wanita": 4,
+    "Pria": 3,
+    "Suhu": 24,
+    "Baterai": 85,
+    "Kecepatan": 7
+  },
+  {
+    "latitude": -7.28872,
+    "longitude": 112.73911,
+    "Penumpang": 18,
+    "Wanita": 11,
+    "Pria": 7,
+    "Suhu": 33,
+    "Baterai": 94,
+    "Kecepatan": 26
+  },
+  {
+    "latitude": -7.28781,
+    "longitude": 112.73927,
+    "Penumpang": 44,
+    "Wanita": 6,
+    "Pria": 38,
+    "Suhu": 27,
+    "Baterai": 75,
+    "Kecepatan": 98
+  },
+  {
+    "latitude": -7.28733,
+    "longitude": 112.73937,
+    "Penumpang": 19,
+    "Wanita": 12,
+    "Pria": 7,
+    "Suhu": 31,
+    "Baterai": 34,
+    "Kecepatan": 44
+  },
+  {
+    "latitude": -7.2867,
+    "longitude": 112.73949,
+    "Penumpang": 42,
+    "Wanita": 30,
+    "Pria": 12,
+    "Suhu": 21,
+    "Baterai": 48,
+    "Kecepatan": 27
+  },
+  {
+    "latitude": -7.28625,
+    "longitude": 112.73957,
+    "Penumpang": 30,
+    "Wanita": 24,
+    "Pria": 6,
+    "Suhu": 29,
+    "Baterai": 83,
+    "Kecepatan": 99
+  },
+  {
+    "latitude": -7.28557,
+    "longitude": 112.73969,
+    "Penumpang": 48,
+    "Wanita": 6,
+    "Pria": 42,
+    "Suhu": 26,
+    "Baterai": 95,
+    "Kecepatan": 61
+  },
+  {
+    "latitude": -7.28468,
+    "longitude": 112.73985,
+    "Penumpang": 8,
+    "Wanita": 6,
+    "Pria": 2,
+    "Suhu": 29,
+    "Baterai": 56,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.28458,
+    "longitude": 112.73987,
+    "Penumpang": 10,
+    "Wanita": 1,
+    "Pria": 9,
+    "Suhu": 35,
+    "Baterai": 81,
+    "Kecepatan": 40
+  },
+  {
+    "latitude": -7.28281,
+    "longitude": 112.74018,
+    "Penumpang": 37,
+    "Wanita": 21,
+    "Pria": 16,
+    "Suhu": 26,
+    "Baterai": 55,
+    "Kecepatan": 19
+  },
+  {
+    "latitude": -7.28142,
+    "longitude": 112.74046,
+    "Penumpang": 24,
+    "Wanita": 5,
+    "Pria": 19,
+    "Suhu": 33,
+    "Baterai": 11,
+    "Kecepatan": 98
+  },
+  {
+    "latitude": -7.28127,
+    "longitude": 112.74048,
+    "Penumpang": 10,
+    "Wanita": 9,
+    "Pria": 1,
+    "Suhu": 29,
+    "Baterai": 41,
+    "Kecepatan": 99
+  },
+  {
+    "latitude": -7.28117,
+    "longitude": 112.7405,
+    "Penumpang": 2,
+    "Wanita": 1,
+    "Pria": 1,
+    "Suhu": 20,
+    "Baterai": 11,
+    "Kecepatan": 28
+  },
+  {
+    "latitude": -7.28086,
+    "longitude": 112.74056,
+    "Penumpang": 21,
+    "Wanita": 17,
+    "Pria": 4,
+    "Suhu": 23,
+    "Baterai": 74,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.28035,
+    "longitude": 112.74066,
+    "Penumpang": 47,
+    "Wanita": 44,
+    "Pria": 3,
+    "Suhu": 30,
+    "Baterai": 49,
+    "Kecepatan": 1
+  },
+  {
+    "latitude": -7.27979,
+    "longitude": 112.74076,
+    "Penumpang": 18,
+    "Wanita": 1,
+    "Pria": 17,
+    "Suhu": 32,
+    "Baterai": 81,
+    "Kecepatan": 38
+  },
+  {
+    "latitude": -7.27861,
+    "longitude": 112.74098,
+    "Penumpang": 2,
+    "Wanita": 1,
+    "Pria": 1,
+    "Suhu": 25,
+    "Baterai": 40,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.27806,
+    "longitude": 112.74108,
+    "Penumpang": 43,
+    "Wanita": 5,
+    "Pria": 38,
+    "Suhu": 35,
+    "Baterai": 75,
+    "Kecepatan": 41
+  },
+  {
+    "latitude": -7.27799,
+    "longitude": 112.7411,
+    "Penumpang": 36,
+    "Wanita": 16,
+    "Pria": 20,
+    "Suhu": 24,
+    "Baterai": 57,
+    "Kecepatan": 99
+  },
+  {
+    "latitude": -7.27776,
+    "longitude": 112.74114,
+    "Penumpang": 39,
+    "Wanita": 14,
+    "Pria": 25,
+    "Suhu": 35,
+    "Baterai": 35,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.2776,
+    "longitude": 112.74117,
+    "Penumpang": 48,
+    "Wanita": 8,
+    "Pria": 40,
+    "Suhu": 22,
+    "Baterai": 14,
+    "Kecepatan": 56
+  },
+  {
+    "latitude": -7.27739,
+    "longitude": 112.74121,
+    "Penumpang": 29,
+    "Wanita": 28,
+    "Pria": 1,
+    "Suhu": 35,
+    "Baterai": 85,
+    "Kecepatan": 5
+  },
+  {
+    "latitude": -7.27731,
+    "longitude": 112.74122,
+    "Penumpang": 17,
+    "Wanita": 8,
+    "Pria": 9,
+    "Suhu": 25,
+    "Baterai": 45,
+    "Kecepatan": 58
+  },
+  {
+    "latitude": -7.27717,
+    "longitude": 112.74125,
+    "Penumpang": 46,
+    "Wanita": 21,
+    "Pria": 25,
+    "Suhu": 26,
+    "Baterai": 29,
+    "Kecepatan": 11
+  },
+  {
+    "latitude": -7.27668,
+    "longitude": 112.74139,
+    "Penumpang": 27,
+    "Wanita": 23,
+    "Pria": 4,
+    "Suhu": 33,
+    "Baterai": 73,
+    "Kecepatan": 100
+  },
+  {
+    "latitude": -7.27627,
+    "longitude": 112.74147,
+    "Penumpang": 14,
+    "Wanita": 0,
+    "Pria": 14,
+    "Suhu": 31,
+    "Baterai": 12,
+    "Kecepatan": 81
+  },
+  {
+    "latitude": -7.27539,
+    "longitude": 112.74163,
+    "Penumpang": 33,
+    "Wanita": 1,
+    "Pria": 32,
+    "Suhu": 35,
+    "Baterai": 39,
+    "Kecepatan": 7
+  },
+  {
+    "latitude": -7.27507,
+    "longitude": 112.7417,
+    "Penumpang": 42,
+    "Wanita": 29,
+    "Pria": 13,
+    "Suhu": 21,
+    "Baterai": 46,
+    "Kecepatan": 69
+  },
+  {
+    "latitude": -7.275,
+    "longitude": 112.74171,
+    "Penumpang": 43,
+    "Wanita": 34,
+    "Pria": 9,
+    "Suhu": 32,
+    "Baterai": 86,
+    "Kecepatan": 77
+  },
+  {
+    "latitude": -7.27445,
+    "longitude": 112.74185,
+    "Penumpang": 37,
+    "Wanita": 24,
+    "Pria": 13,
+    "Suhu": 30,
+    "Baterai": 66,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.2741,
+    "longitude": 112.74195,
+    "Penumpang": 40,
+    "Wanita": 31,
+    "Pria": 9,
+    "Suhu": 30,
+    "Baterai": 54,
+    "Kecepatan": 55
+  },
+  {
+    "latitude": -7.27362,
+    "longitude": 112.7421,
+    "Penumpang": 45,
+    "Wanita": 45,
+    "Pria": 0,
+    "Suhu": 28,
+    "Baterai": 77,
+    "Kecepatan": 60
+  },
+  {
+    "latitude": -7.27356,
+    "longitude": 112.74211,
+    "Penumpang": 21,
+    "Wanita": 11,
+    "Pria": 10,
+    "Suhu": 33,
+    "Baterai": 69,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.27333,
+    "longitude": 112.74213,
+    "Penumpang": 52,
+    "Wanita": 26,
+    "Pria": 26,
+    "Suhu": 25,
+    "Baterai": 70,
+    "Kecepatan": 85
+  },
+  {
+    "latitude": -7.27321,
+    "longitude": 112.7421,
+    "Penumpang": 34,
+    "Wanita": 17,
+    "Pria": 17,
+    "Suhu": 23,
+    "Baterai": 96,
+    "Kecepatan": 5
+  },
+  {
+    "latitude": -7.27304,
+    "longitude": 112.74206,
+    "Penumpang": 21,
+    "Wanita": 12,
+    "Pria": 9,
+    "Suhu": 24,
+    "Baterai": 79,
+    "Kecepatan": 55
+  },
+  {
+    "latitude": -7.27295,
+    "longitude": 112.74202,
+    "Penumpang": 10,
+    "Wanita": 0,
+    "Pria": 10,
+    "Suhu": 20,
+    "Baterai": 49,
+    "Kecepatan": 18
+  },
+  {
+    "latitude": -7.27258,
+    "longitude": 112.74188,
+    "Penumpang": 42,
+    "Wanita": 16,
+    "Pria": 26,
+    "Suhu": 28,
+    "Baterai": 57,
+    "Kecepatan": 11
+  },
+  {
+    "latitude": -7.2725,
+    "longitude": 112.74186,
+    "Penumpang": 30,
+    "Wanita": 3,
+    "Pria": 27,
+    "Suhu": 29,
+    "Baterai": 58,
+    "Kecepatan": 89
+  },
+  {
+    "latitude": -7.27225,
+    "longitude": 112.74177,
+    "Penumpang": 52,
+    "Wanita": 30,
+    "Pria": 22,
+    "Suhu": 28,
+    "Baterai": 20,
+    "Kecepatan": 31
+  },
+  {
+    "latitude": -7.27209,
+    "longitude": 112.74172,
+    "Penumpang": 6,
+    "Wanita": 4,
+    "Pria": 2,
+    "Suhu": 33,
+    "Baterai": 34,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.27197,
+    "longitude": 112.7417,
+    "Penumpang": 2,
+    "Wanita": 1,
+    "Pria": 1,
+    "Suhu": 33,
+    "Baterai": 73,
+    "Kecepatan": 19
+  },
+  {
+    "latitude": -7.27175,
+    "longitude": 112.74166,
+    "Penumpang": 21,
+    "Wanita": 13,
+    "Pria": 8,
+    "Suhu": 33,
+    "Baterai": 100,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.27118,
+    "longitude": 112.74162,
+    "Penumpang": 43,
+    "Wanita": 15,
+    "Pria": 28,
+    "Suhu": 30,
+    "Baterai": 54,
+    "Kecepatan": 87
+  },
+  {
+    "latitude": -7.27007,
+    "longitude": 112.74158,
+    "Penumpang": 56,
+    "Wanita": 12,
+    "Pria": 44,
+    "Suhu": 35,
+    "Baterai": 87,
+    "Kecepatan": 77
+  },
+  {
+    "latitude": -7.26934,
+    "longitude": 112.74155,
+    "Penumpang": 3,
+    "Wanita": 2,
+    "Pria": 1,
+    "Suhu": 32,
+    "Baterai": 30,
+    "Kecepatan": 26
+  },
+  {
+    "latitude": -7.26917,
+    "longitude": 112.74151,
+    "Penumpang": 3,
+    "Wanita": 1,
+    "Pria": 2,
+    "Suhu": 25,
+    "Baterai": 17,
+    "Kecepatan": 47
+  },
+  {
+    "latitude": -7.269,
+    "longitude": 112.7415,
+    "Penumpang": 60,
+    "Wanita": 19,
+    "Pria": 41,
+    "Suhu": 22,
+    "Baterai": 32,
+    "Kecepatan": 30
+  },
+  {
+    "latitude": -7.26892,
+    "longitude": 112.7415,
+    "Penumpang": 44,
+    "Wanita": 23,
+    "Pria": 21,
+    "Suhu": 21,
+    "Baterai": 87,
+    "Kecepatan": 5
+  },
+  {
+    "latitude": -7.2687,
+    "longitude": 112.74146,
+    "Penumpang": 15,
+    "Wanita": 7,
+    "Pria": 8,
+    "Suhu": 34,
+    "Baterai": 17,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.2684,
+    "longitude": 112.7414,
+    "Penumpang": 8,
+    "Wanita": 8,
+    "Pria": 0,
+    "Suhu": 25,
+    "Baterai": 100,
+    "Kecepatan": 44
+  },
+  {
+    "latitude": -7.26786,
+    "longitude": 112.74131,
+    "Penumpang": 21,
+    "Wanita": 10,
+    "Pria": 11,
+    "Suhu": 28,
+    "Baterai": 62,
+    "Kecepatan": 62
+  },
+  {
+    "latitude": -7.26781,
+    "longitude": 112.7413,
+    "Penumpang": 16,
+    "Wanita": 0,
+    "Pria": 16,
+    "Suhu": 29,
+    "Baterai": 23,
+    "Kecepatan": 63
+  },
+  {
+    "latitude": -7.26772,
+    "longitude": 112.74128,
+    "Penumpang": 6,
+    "Wanita": 5,
+    "Pria": 1,
+    "Suhu": 20,
+    "Baterai": 79,
+    "Kecepatan": 4
+  },
+  {
+    "latitude": -7.26735,
+    "longitude": 112.7412,
+    "Penumpang": 30,
+    "Wanita": 23,
+    "Pria": 7,
+    "Suhu": 21,
+    "Baterai": 59,
+    "Kecepatan": 78
+  },
+  {
+    "latitude": -7.26722,
+    "longitude": 112.74117,
+    "Penumpang": 3,
+    "Wanita": 3,
+    "Pria": 0,
+    "Suhu": 30,
+    "Baterai": 42,
+    "Kecepatan": 61
+  },
+  {
+    "latitude": -7.26706,
+    "longitude": 112.74114,
+    "Penumpang": 35,
+    "Wanita": 30,
+    "Pria": 5,
+    "Suhu": 21,
+    "Baterai": 54,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.267,
+    "longitude": 112.74113,
+    "Penumpang": 41,
+    "Wanita": 15,
+    "Pria": 26,
+    "Suhu": 33,
+    "Baterai": 23,
+    "Kecepatan": 16
+  },
+  {
+    "latitude": -7.26689,
+    "longitude": 112.7411,
+    "Penumpang": 5,
+    "Wanita": 5,
+    "Pria": 0,
+    "Suhu": 21,
+    "Baterai": 28,
+    "Kecepatan": 15
+  },
+  {
+    "latitude": -7.26675,
+    "longitude": 112.74107,
+    "Penumpang": 48,
+    "Wanita": 3,
+    "Pria": 45,
+    "Suhu": 30,
+    "Baterai": 13,
+    "Kecepatan": 52
+  },
+  {
+    "latitude": -7.26647,
+    "longitude": 112.74102,
+    "Penumpang": 55,
+    "Wanita": 7,
+    "Pria": 48,
+    "Suhu": 35,
+    "Baterai": 25,
+    "Kecepatan": 92
+  },
+  {
+    "latitude": -7.26619,
+    "longitude": 112.74097,
+    "Penumpang": 6,
+    "Wanita": 2,
+    "Pria": 4,
+    "Suhu": 30,
+    "Baterai": 11,
+    "Kecepatan": 56
+  },
+  {
+    "latitude": -7.26588,
+    "longitude": 112.74092,
+    "Penumpang": 24,
+    "Wanita": 7,
+    "Pria": 17,
+    "Suhu": 29,
+    "Baterai": 82,
+    "Kecepatan": 84
+  },
+  {
+    "latitude": -7.2658,
+    "longitude": 112.74092,
+    "Penumpang": 20,
+    "Wanita": 13,
+    "Pria": 7,
+    "Suhu": 33,
+    "Baterai": 94,
+    "Kecepatan": 96
+  },
+  {
+    "latitude": -7.26537,
+    "longitude": 112.74093,
+    "Penumpang": 15,
+    "Wanita": 2,
+    "Pria": 13,
+    "Suhu": 21,
+    "Baterai": 65,
+    "Kecepatan": 68
+  },
+  {
+    "latitude": -7.26504,
+    "longitude": 112.74097,
+    "Penumpang": 18,
+    "Wanita": 17,
+    "Pria": 1,
+    "Suhu": 25,
+    "Baterai": 79,
+    "Kecepatan": 85
+  },
+  {
+    "latitude": -7.26455,
+    "longitude": 112.74103,
+    "Penumpang": 11,
+    "Wanita": 7,
+    "Pria": 4,
+    "Suhu": 32,
+    "Baterai": 31,
+    "Kecepatan": 98
+  },
+  {
+    "latitude": -7.26442,
+    "longitude": 112.74104,
+    "Penumpang": 15,
+    "Wanita": 6,
+    "Pria": 9,
+    "Suhu": 26,
+    "Baterai": 24,
+    "Kecepatan": 10
+  },
+  {
+    "latitude": -7.26412,
+    "longitude": 112.74107,
+    "Penumpang": 40,
+    "Wanita": 7,
+    "Pria": 33,
+    "Suhu": 24,
+    "Baterai": 14,
+    "Kecepatan": 12
+  },
+  {
+    "latitude": -7.26393,
+    "longitude": 112.74108,
+    "Penumpang": 50,
+    "Wanita": 24,
+    "Pria": 26,
+    "Suhu": 24,
+    "Baterai": 28,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.26385,
+    "longitude": 112.74107,
+    "Penumpang": 52,
+    "Wanita": 37,
+    "Pria": 15,
+    "Suhu": 28,
+    "Baterai": 52,
+    "Kecepatan": 73
+  },
+  {
+    "latitude": -7.26362,
+    "longitude": 112.74101,
+    "Penumpang": 4,
+    "Wanita": 4,
+    "Pria": 0,
+    "Suhu": 27,
+    "Baterai": 68,
+    "Kecepatan": 98
+  },
+  {
+    "latitude": -7.26314,
+    "longitude": 112.74087,
+    "Penumpang": 5,
+    "Wanita": 5,
+    "Pria": 0,
+    "Suhu": 32,
+    "Baterai": 37,
+    "Kecepatan": 73
+  },
+  {
+    "latitude": -7.26272,
+    "longitude": 112.74072,
+    "Penumpang": 58,
+    "Wanita": 4,
+    "Pria": 54,
+    "Suhu": 20,
+    "Baterai": 46,
+    "Kecepatan": 62
+  },
+  {
+    "latitude": -7.26266,
+    "longitude": 112.74072,
+    "Penumpang": 26,
+    "Wanita": 4,
+    "Pria": 22,
+    "Suhu": 31,
+    "Baterai": 30,
+    "Kecepatan": 48
+  },
+  {
+    "latitude": -7.26243,
+    "longitude": 112.74059,
+    "Penumpang": 32,
+    "Wanita": 6,
+    "Pria": 26,
+    "Suhu": 26,
+    "Baterai": 87,
+    "Kecepatan": 71
+  },
+  {
+    "latitude": -7.26156,
+    "longitude": 112.74011,
+    "Penumpang": 29,
+    "Wanita": 21,
+    "Pria": 8,
+    "Suhu": 20,
+    "Baterai": 43,
+    "Kecepatan": 5
+  },
+  {
+    "latitude": -7.26152,
+    "longitude": 112.74008,
+    "Penumpang": 10,
+    "Wanita": 0,
+    "Pria": 10,
+    "Suhu": 32,
+    "Baterai": 10,
+    "Kecepatan": 32
+  },
+  {
+    "latitude": -7.26147,
+    "longitude": 112.74001,
+    "Penumpang": 51,
+    "Wanita": 3,
+    "Pria": 48,
+    "Suhu": 24,
+    "Baterai": 69,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.2614,
+    "longitude": 112.73993,
+    "Penumpang": 16,
+    "Wanita": 6,
+    "Pria": 10,
+    "Suhu": 23,
+    "Baterai": 32,
+    "Kecepatan": 58
+  },
+  {
+    "latitude": -7.26131,
+    "longitude": 112.73977,
+    "Penumpang": 38,
+    "Wanita": 3,
+    "Pria": 35,
+    "Suhu": 32,
+    "Baterai": 89,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.26127,
+    "longitude": 112.73967,
+    "Penumpang": 50,
+    "Wanita": 8,
+    "Pria": 42,
+    "Suhu": 31,
+    "Baterai": 73,
+    "Kecepatan": 97
+  },
+  {
+    "latitude": -7.26117,
+    "longitude": 112.73938,
+    "Penumpang": 5,
+    "Wanita": 2,
+    "Pria": 3,
+    "Suhu": 31,
+    "Baterai": 83,
+    "Kecepatan": 78
+  },
+  {
+    "latitude": -7.2611,
+    "longitude": 112.73915,
+    "Penumpang": 50,
+    "Wanita": 20,
+    "Pria": 30,
+    "Suhu": 27,
+    "Baterai": 72,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.26103,
+    "longitude": 112.73895,
+    "Penumpang": 49,
+    "Wanita": 46,
+    "Pria": 3,
+    "Suhu": 33,
+    "Baterai": 21,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.26101,
+    "longitude": 112.73887,
+    "Penumpang": 23,
+    "Wanita": 17,
+    "Pria": 6,
+    "Suhu": 22,
+    "Baterai": 10,
+    "Kecepatan": 52
+  },
+  {
+    "latitude": -7.26086,
+    "longitude": 112.7385,
+    "Penumpang": 17,
+    "Wanita": 2,
+    "Pria": 15,
+    "Suhu": 26,
+    "Baterai": 27,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.26061,
+    "longitude": 112.73798,
+    "Penumpang": 17,
+    "Wanita": 6,
+    "Pria": 11,
+    "Suhu": 25,
+    "Baterai": 72,
+    "Kecepatan": 3
+  },
+  {
+    "latitude": -7.26043,
+    "longitude": 112.73767,
+    "Penumpang": 2,
+    "Wanita": 0,
+    "Pria": 2,
+    "Suhu": 30,
+    "Baterai": 58,
+    "Kecepatan": 7
+  },
+  {
+    "latitude": -7.26035,
+    "longitude": 112.73749,
+    "Penumpang": 3,
+    "Wanita": 1,
+    "Pria": 2,
+    "Suhu": 24,
+    "Baterai": 93,
+    "Kecepatan": 1
+  },
+  {
+    "latitude": -7.2602,
+    "longitude": 112.73713,
+    "Penumpang": 21,
+    "Wanita": 16,
+    "Pria": 5,
+    "Suhu": 34,
+    "Baterai": 39,
+    "Kecepatan": 26
+  },
+  {
+    "latitude": -7.26017,
+    "longitude": 112.73705,
+    "Penumpang": 1,
+    "Wanita": 0,
+    "Pria": 1,
+    "Suhu": 35,
+    "Baterai": 28,
+    "Kecepatan": 50
+  },
+  {
+    "latitude": -7.26001,
+    "longitude": 112.73666,
+    "Penumpang": 3,
+    "Wanita": 3,
+    "Pria": 0,
+    "Suhu": 21,
+    "Baterai": 77,
+    "Kecepatan": 18
+  },
+  {
+    "latitude": -7.2599,
+    "longitude": 112.73643,
+    "Penumpang": 42,
+    "Wanita": 25,
+    "Pria": 17,
+    "Suhu": 33,
+    "Baterai": 94,
+    "Kecepatan": 30
+  },
+  {
+    "latitude": -7.25988,
+    "longitude": 112.73637,
+    "Penumpang": 10,
+    "Wanita": 1,
+    "Pria": 9,
+    "Suhu": 21,
+    "Baterai": 38,
+    "Kecepatan": 7
+  },
+  {
+    "latitude": -7.25982,
+    "longitude": 112.73622,
+    "Penumpang": 6,
+    "Wanita": 3,
+    "Pria": 3,
+    "Suhu": 34,
+    "Baterai": 63,
+    "Kecepatan": 97
+  },
+  {
+    "latitude": -7.2598,
+    "longitude": 112.73617,
+    "Penumpang": 41,
+    "Wanita": 30,
+    "Pria": 11,
+    "Suhu": 23,
+    "Baterai": 54,
+    "Kecepatan": 2
+  },
+  {
+    "latitude": -7.2597,
+    "longitude": 112.73595,
+    "Penumpang": 56,
+    "Wanita": 32,
+    "Pria": 24,
+    "Suhu": 30,
+    "Baterai": 66,
+    "Kecepatan": 16
+  },
+  {
+    "latitude": -7.25963,
+    "longitude": 112.73577,
+    "Penumpang": 2,
+    "Wanita": 1,
+    "Pria": 1,
+    "Suhu": 25,
+    "Baterai": 75,
+    "Kecepatan": 91
+  },
+  {
+    "latitude": -7.25961,
+    "longitude": 112.73572,
+    "Penumpang": 5,
+    "Wanita": 1,
+    "Pria": 4,
+    "Suhu": 23,
+    "Baterai": 74,
+    "Kecepatan": 80
+  },
+  {
+    "latitude": -7.25956,
+    "longitude": 112.73563,
+    "Penumpang": 47,
+    "Wanita": 6,
+    "Pria": 41,
+    "Suhu": 21,
+    "Baterai": 100,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.25952,
+    "longitude": 112.73552,
+    "Penumpang": 44,
+    "Wanita": 23,
+    "Pria": 21,
+    "Suhu": 33,
+    "Baterai": 15,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.25943,
+    "longitude": 112.7353,
+    "Penumpang": 8,
+    "Wanita": 5,
+    "Pria": 3,
+    "Suhu": 32,
+    "Baterai": 73,
+    "Kecepatan": 5
+  },
+  {
+    "latitude": -7.25913,
+    "longitude": 112.73462,
+    "Penumpang": 1,
+    "Wanita": 1,
+    "Pria": 0,
+    "Suhu": 26,
+    "Baterai": 48,
+    "Kecepatan": 63
+  },
+  {
+    "latitude": -7.25863,
+    "longitude": 112.73353,
+    "Penumpang": 34,
+    "Wanita": 10,
+    "Pria": 24,
+    "Suhu": 24,
+    "Baterai": 30,
+    "Kecepatan": 87
+  },
+  {
+    "latitude": -7.25848,
+    "longitude": 112.73336,
+    "Penumpang": 49,
+    "Wanita": 37,
+    "Pria": 12,
+    "Suhu": 29,
+    "Baterai": 49,
+    "Kecepatan": 100
+  },
+  {
+    "latitude": -7.25843,
+    "longitude": 112.73333,
+    "Penumpang": 7,
+    "Wanita": 1,
+    "Pria": 6,
+    "Suhu": 30,
+    "Baterai": 62,
+    "Kecepatan": 48
+  },
+  {
+    "latitude": -7.25836,
+    "longitude": 112.73329,
+    "Penumpang": 27,
+    "Wanita": 22,
+    "Pria": 5,
+    "Suhu": 22,
+    "Baterai": 16,
+    "Kecepatan": 97
+  },
+  {
+    "latitude": -7.25831,
+    "longitude": 112.73327,
+    "Penumpang": 18,
+    "Wanita": 10,
+    "Pria": 8,
+    "Suhu": 24,
+    "Baterai": 35,
+    "Kecepatan": 74
+  },
+  {
+    "latitude": -7.25819,
+    "longitude": 112.7333,
+    "Penumpang": 18,
+    "Wanita": 1,
+    "Pria": 17,
+    "Suhu": 28,
+    "Baterai": 70,
+    "Kecepatan": 39
+  },
+  {
+    "latitude": -7.25808,
+    "longitude": 112.73329,
+    "Penumpang": 21,
+    "Wanita": 9,
+    "Pria": 12,
+    "Suhu": 26,
+    "Baterai": 45,
+    "Kecepatan": 87
+  },
+  {
+    "latitude": -7.25799,
+    "longitude": 112.73335,
+    "Penumpang": 15,
+    "Wanita": 6,
+    "Pria": 9,
+    "Suhu": 22,
+    "Baterai": 59,
+    "Kecepatan": 97
+  },
+  {
+    "latitude": -7.25768,
+    "longitude": 112.73351,
+    "Penumpang": 46,
+    "Wanita": 9,
+    "Pria": 37,
+    "Suhu": 33,
+    "Baterai": 36,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.25708,
+    "longitude": 112.73376,
+    "Penumpang": 34,
+    "Wanita": 4,
+    "Pria": 30,
+    "Suhu": 34,
+    "Baterai": 92,
+    "Kecepatan": 75
+  },
+  {
+    "latitude": -7.25702,
+    "longitude": 112.73379,
+    "Penumpang": 20,
+    "Wanita": 5,
+    "Pria": 15,
+    "Suhu": 20,
+    "Baterai": 75,
+    "Kecepatan": 24
+  },
+  {
+    "latitude": -7.2569,
+    "longitude": 112.73385,
+    "Penumpang": 11,
+    "Wanita": 6,
+    "Pria": 5,
+    "Suhu": 20,
+    "Baterai": 33,
+    "Kecepatan": 27
+  },
+  {
+    "latitude": -7.25663,
+    "longitude": 112.73399,
+    "Penumpang": 15,
+    "Wanita": 1,
+    "Pria": 14,
+    "Suhu": 35,
+    "Baterai": 68,
+    "Kecepatan": 79
+  },
+  {
+    "latitude": -7.25638,
+    "longitude": 112.73412,
+    "Penumpang": 50,
+    "Wanita": 7,
+    "Pria": 43,
+    "Suhu": 35,
+    "Baterai": 75,
+    "Kecepatan": 44
+  },
+  {
+    "latitude": -7.25628,
+    "longitude": 112.73415,
+    "Penumpang": 13,
+    "Wanita": 0,
+    "Pria": 13,
+    "Suhu": 30,
+    "Baterai": 80,
+    "Kecepatan": 27
+  },
+  {
+    "latitude": -7.25623,
+    "longitude": 112.73417,
+    "Penumpang": 22,
+    "Wanita": 1,
+    "Pria": 21,
+    "Suhu": 25,
+    "Baterai": 10,
+    "Kecepatan": 39
+  },
+  {
+    "latitude": -7.25612,
+    "longitude": 112.73418,
+    "Penumpang": 10,
+    "Wanita": 2,
+    "Pria": 8,
+    "Suhu": 25,
+    "Baterai": 40,
+    "Kecepatan": 12
+  },
+  {
+    "latitude": -7.25601,
+    "longitude": 112.73419,
+    "Penumpang": 23,
+    "Wanita": 19,
+    "Pria": 4,
+    "Suhu": 21,
+    "Baterai": 70,
+    "Kecepatan": 45
+  },
+  {
+    "latitude": -7.25566,
+    "longitude": 112.73419,
+    "Penumpang": 59,
+    "Wanita": 13,
+    "Pria": 46,
+    "Suhu": 30,
+    "Baterai": 45,
+    "Kecepatan": 41
+  },
+  {
+    "latitude": -7.25541,
+    "longitude": 112.73415,
+    "Penumpang": 56,
+    "Wanita": 19,
+    "Pria": 37,
+    "Suhu": 25,
+    "Baterai": 31,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.25534,
+    "longitude": 112.73414,
+    "Penumpang": 3,
+    "Wanita": 2,
+    "Pria": 1,
+    "Suhu": 28,
+    "Baterai": 54,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.25512,
+    "longitude": 112.73413,
+    "Penumpang": 60,
+    "Wanita": 23,
+    "Pria": 37,
+    "Suhu": 30,
+    "Baterai": 98,
+    "Kecepatan": 11
+  },
+  {
+    "latitude": -7.25506,
+    "longitude": 112.73414,
+    "Penumpang": 3,
+    "Wanita": 3,
+    "Pria": 0,
+    "Suhu": 26,
+    "Baterai": 87,
+    "Kecepatan": 46
+  },
+  {
+    "latitude": -7.25499,
+    "longitude": 112.73415,
+    "Penumpang": 48,
+    "Wanita": 3,
+    "Pria": 45,
+    "Suhu": 20,
+    "Baterai": 14,
+    "Kecepatan": 28
+  },
+  {
+    "latitude": -7.2549,
+    "longitude": 112.73425,
+    "Penumpang": 25,
+    "Wanita": 11,
+    "Pria": 14,
+    "Suhu": 22,
+    "Baterai": 62,
+    "Kecepatan": 70
+  },
+  {
+    "latitude": -7.25467,
+    "longitude": 112.73433,
+    "Penumpang": 59,
+    "Wanita": 16,
+    "Pria": 43,
+    "Suhu": 32,
+    "Baterai": 83,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.25439,
+    "longitude": 112.73444,
+    "Penumpang": 34,
+    "Wanita": 23,
+    "Pria": 11,
+    "Suhu": 34,
+    "Baterai": 15,
+    "Kecepatan": 50
+  },
+  {
+    "latitude": -7.25402,
+    "longitude": 112.73458,
+    "Penumpang": 13,
+    "Wanita": 10,
+    "Pria": 3,
+    "Suhu": 27,
+    "Baterai": 17,
+    "Kecepatan": 80
+  },
+  {
+    "latitude": -7.25375,
+    "longitude": 112.73468,
+    "Penumpang": 46,
+    "Wanita": 13,
+    "Pria": 33,
+    "Suhu": 21,
+    "Baterai": 67,
+    "Kecepatan": 33
+  },
+  {
+    "latitude": -7.25358,
+    "longitude": 112.73473,
+    "Penumpang": 46,
+    "Wanita": 41,
+    "Pria": 5,
+    "Suhu": 30,
+    "Baterai": 18,
+    "Kecepatan": 57
+  },
+  {
+    "latitude": -7.25303,
+    "longitude": 112.73492,
+    "Penumpang": 10,
+    "Wanita": 1,
+    "Pria": 9,
+    "Suhu": 30,
+    "Baterai": 45,
+    "Kecepatan": 26
+  },
+  {
+    "latitude": -7.25264,
+    "longitude": 112.73504,
+    "Penumpang": 4,
+    "Wanita": 3,
+    "Pria": 1,
+    "Suhu": 30,
+    "Baterai": 46,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.25204,
+    "longitude": 112.73525,
+    "Penumpang": 7,
+    "Wanita": 6,
+    "Pria": 1,
+    "Suhu": 31,
+    "Baterai": 31,
+    "Kecepatan": 25
+  },
+  {
+    "latitude": -7.25156,
+    "longitude": 112.73543,
+    "Penumpang": 21,
+    "Wanita": 10,
+    "Pria": 11,
+    "Suhu": 24,
+    "Baterai": 13,
+    "Kecepatan": 79
+  },
+  {
+    "latitude": -7.25132,
+    "longitude": 112.73552,
+    "Penumpang": 28,
+    "Wanita": 6,
+    "Pria": 22,
+    "Suhu": 24,
+    "Baterai": 85,
+    "Kecepatan": 66
+  },
+  {
+    "latitude": -7.25119,
+    "longitude": 112.73557,
+    "Penumpang": 20,
+    "Wanita": 1,
+    "Pria": 19,
+    "Suhu": 35,
+    "Baterai": 63,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.25098,
+    "longitude": 112.73567,
+    "Penumpang": 11,
+    "Wanita": 4,
+    "Pria": 7,
+    "Suhu": 25,
+    "Baterai": 27,
+    "Kecepatan": 49
+  },
+  {
+    "latitude": -7.25096,
+    "longitude": 112.73567,
+    "Penumpang": 6,
+    "Wanita": 3,
+    "Pria": 3,
+    "Suhu": 30,
+    "Baterai": 39,
+    "Kecepatan": 99
+  },
+  {
+    "latitude": -7.25066,
+    "longitude": 112.73579,
+    "Penumpang": 19,
+    "Wanita": 8,
+    "Pria": 11,
+    "Suhu": 24,
+    "Baterai": 62,
+    "Kecepatan": 66
+  },
+  {
+    "latitude": -7.25054,
+    "longitude": 112.73584,
+    "Penumpang": 33,
+    "Wanita": 7,
+    "Pria": 26,
+    "Suhu": 22,
+    "Baterai": 21,
+    "Kecepatan": 56
+  },
+  {
+    "latitude": -7.2502,
+    "longitude": 112.73595,
+    "Penumpang": 48,
+    "Wanita": 29,
+    "Pria": 19,
+    "Suhu": 21,
+    "Baterai": 92,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.24991,
+    "longitude": 112.73602,
+    "Penumpang": 26,
+    "Wanita": 15,
+    "Pria": 11,
+    "Suhu": 33,
+    "Baterai": 11,
+    "Kecepatan": 80
+  },
+  {
+    "latitude": -7.24967,
+    "longitude": 112.73609,
+    "Penumpang": 33,
+    "Wanita": 5,
+    "Pria": 28,
+    "Suhu": 32,
+    "Baterai": 85,
+    "Kecepatan": 22
+  },
+  {
+    "latitude": -7.24902,
+    "longitude": 112.73626,
+    "Penumpang": 55,
+    "Wanita": 46,
+    "Pria": 9,
+    "Suhu": 30,
+    "Baterai": 58,
+    "Kecepatan": 46
+  },
+  {
+    "latitude": -7.24868,
+    "longitude": 112.73638,
+    "Penumpang": 41,
+    "Wanita": 11,
+    "Pria": 30,
+    "Suhu": 29,
+    "Baterai": 64,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.24855,
+    "longitude": 112.73637,
+    "Penumpang": 19,
+    "Wanita": 16,
+    "Pria": 3,
+    "Suhu": 34,
+    "Baterai": 70,
+    "Kecepatan": 39
+  },
+  {
+    "latitude": -7.24839,
+    "longitude": 112.73644,
+    "Penumpang": 25,
+    "Wanita": 8,
+    "Pria": 17,
+    "Suhu": 33,
+    "Baterai": 65,
+    "Kecepatan": 75
+  },
+  {
+    "latitude": -7.24827,
+    "longitude": 112.7365,
+    "Penumpang": 46,
+    "Wanita": 36,
+    "Pria": 10,
+    "Suhu": 21,
+    "Baterai": 37,
+    "Kecepatan": 91
+  },
+  {
+    "latitude": -7.24818,
+    "longitude": 112.73653,
+    "Penumpang": 29,
+    "Wanita": 17,
+    "Pria": 12,
+    "Suhu": 33,
+    "Baterai": 61,
+    "Kecepatan": 44
+  },
+  {
+    "latitude": -7.24803,
+    "longitude": 112.73659,
+    "Penumpang": 60,
+    "Wanita": 56,
+    "Pria": 4,
+    "Suhu": 30,
+    "Baterai": 90,
+    "Kecepatan": 20
+  },
+  {
+    "latitude": -7.24783,
+    "longitude": 112.73664,
+    "Penumpang": 12,
+    "Wanita": 6,
+    "Pria": 6,
+    "Suhu": 23,
+    "Baterai": 88,
+    "Kecepatan": 31
+  },
+  {
+    "latitude": -7.24778,
+    "longitude": 112.73665,
+    "Penumpang": 24,
+    "Wanita": 0,
+    "Pria": 24,
+    "Suhu": 31,
+    "Baterai": 62,
+    "Kecepatan": 43
+  },
+  {
+    "latitude": -7.24773,
+    "longitude": 112.73667,
+    "Penumpang": 9,
+    "Wanita": 7,
+    "Pria": 2,
+    "Suhu": 23,
+    "Baterai": 24,
+    "Kecepatan": 48
+  },
+  {
+    "latitude": -7.24709,
+    "longitude": 112.73684,
+    "Penumpang": 39,
+    "Wanita": 10,
+    "Pria": 29,
+    "Suhu": 30,
+    "Baterai": 64,
+    "Kecepatan": 64
+  },
+  {
+    "latitude": -7.24696,
+    "longitude": 112.73687,
+    "Penumpang": 31,
+    "Wanita": 11,
+    "Pria": 20,
+    "Suhu": 33,
+    "Baterai": 56,
+    "Kecepatan": 26
+  },
+  {
+    "latitude": -7.24685,
+    "longitude": 112.7369,
+    "Penumpang": 47,
+    "Wanita": 34,
+    "Pria": 13,
+    "Suhu": 24,
+    "Baterai": 56,
+    "Kecepatan": 63
+  },
+  {
+    "latitude": -7.24642,
+    "longitude": 112.73699,
+    "Penumpang": 18,
+    "Wanita": 8,
+    "Pria": 10,
+    "Suhu": 23,
+    "Baterai": 84,
+    "Kecepatan": 20
+  },
+  {
+    "latitude": -7.24623,
+    "longitude": 112.73704,
+    "Penumpang": 7,
+    "Wanita": 4,
+    "Pria": 3,
+    "Suhu": 35,
+    "Baterai": 10,
+    "Kecepatan": 92
+  },
+  {
+    "latitude": -7.24603,
+    "longitude": 112.73709,
+    "Penumpang": 57,
+    "Wanita": 3,
+    "Pria": 54,
+    "Suhu": 22,
+    "Baterai": 94,
+    "Kecepatan": 20
+  },
+  {
+    "latitude": -7.24554,
+    "longitude": 112.7372,
+    "Penumpang": 58,
+    "Wanita": 37,
+    "Pria": 21,
+    "Suhu": 25,
+    "Baterai": 93,
+    "Kecepatan": 12
+  },
+  {
+    "latitude": -7.24546,
+    "longitude": 112.73721,
+    "Penumpang": 38,
+    "Wanita": 20,
+    "Pria": 18,
+    "Suhu": 32,
+    "Baterai": 75,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.24534,
+    "longitude": 112.73721,
+    "Penumpang": 47,
+    "Wanita": 40,
+    "Pria": 7,
+    "Suhu": 26,
+    "Baterai": 84,
+    "Kecepatan": 70
+  },
+  {
+    "latitude": -7.24513,
+    "longitude": 112.73719,
+    "Penumpang": 24,
+    "Wanita": 19,
+    "Pria": 5,
+    "Suhu": 23,
+    "Baterai": 92,
+    "Kecepatan": 74
+  },
+  {
+    "latitude": -7.24492,
+    "longitude": 112.73717,
+    "Penumpang": 16,
+    "Wanita": 2,
+    "Pria": 14,
+    "Suhu": 27,
+    "Baterai": 67,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.24468,
+    "longitude": 112.73712,
+    "Penumpang": 6,
+    "Wanita": 4,
+    "Pria": 2,
+    "Suhu": 29,
+    "Baterai": 56,
+    "Kecepatan": 55
+  },
+  {
+    "latitude": -7.24452,
+    "longitude": 112.73709,
+    "Penumpang": 18,
+    "Wanita": 2,
+    "Pria": 16,
+    "Suhu": 22,
+    "Baterai": 57,
+    "Kecepatan": 11
+  },
+  {
+    "latitude": -7.24385,
+    "longitude": 112.73696,
+    "Penumpang": 20,
+    "Wanita": 4,
+    "Pria": 16,
+    "Suhu": 31,
+    "Baterai": 69,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.2438,
+    "longitude": 112.73693,
+    "Penumpang": 10,
+    "Wanita": 5,
+    "Pria": 5,
+    "Suhu": 27,
+    "Baterai": 76,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.24371,
+    "longitude": 112.7369,
+    "Penumpang": 18,
+    "Wanita": 14,
+    "Pria": 4,
+    "Suhu": 23,
+    "Baterai": 57,
+    "Kecepatan": 57
+  },
+  {
+    "latitude": -7.24358,
+    "longitude": 112.73683,
+    "Penumpang": 5,
+    "Wanita": 0,
+    "Pria": 5,
+    "Suhu": 20,
+    "Baterai": 81,
+    "Kecepatan": 26
+  },
+  {
+    "latitude": -7.24355,
+    "longitude": 112.73678,
+    "Penumpang": 45,
+    "Wanita": 19,
+    "Pria": 26,
+    "Suhu": 25,
+    "Baterai": 36,
+    "Kecepatan": 73
+  },
+  {
+    "latitude": -7.24353,
+    "longitude": 112.73669,
+    "Penumpang": 52,
+    "Wanita": 28,
+    "Pria": 24,
+    "Suhu": 32,
+    "Baterai": 33,
+    "Kecepatan": 33
+  },
+  {
+    "latitude": -7.24354,
+    "longitude": 112.73652,
+    "Penumpang": 31,
+    "Wanita": 12,
+    "Pria": 19,
+    "Suhu": 33,
+    "Baterai": 61,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.24357,
+    "longitude": 112.73631,
+    "Penumpang": 58,
+    "Wanita": 5,
+    "Pria": 53,
+    "Suhu": 33,
+    "Baterai": 23,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.24358,
+    "longitude": 112.73618,
+    "Penumpang": 32,
+    "Wanita": 17,
+    "Pria": 15,
+    "Suhu": 25,
+    "Baterai": 89,
+    "Kecepatan": 41
+  },
+  {
+    "latitude": -7.24358,
+    "longitude": 112.7361,
+    "Penumpang": 53,
+    "Wanita": 29,
+    "Pria": 24,
+    "Suhu": 22,
+    "Baterai": 78,
+    "Kecepatan": 20
+  },
+  {
+    "latitude": -7.24354,
+    "longitude": 112.73599,
+    "Penumpang": 3,
+    "Wanita": 3,
+    "Pria": 0,
+    "Suhu": 25,
+    "Baterai": 75,
+    "Kecepatan": 16
+  },
+  {
+    "latitude": -7.24351,
+    "longitude": 112.73559,
+    "Penumpang": 44,
+    "Wanita": 8,
+    "Pria": 36,
+    "Suhu": 29,
+    "Baterai": 66,
+    "Kecepatan": 84
+  },
+  {
+    "latitude": -7.24347,
+    "longitude": 112.73539,
+    "Penumpang": 39,
+    "Wanita": 23,
+    "Pria": 16,
+    "Suhu": 24,
+    "Baterai": 54,
+    "Kecepatan": 59
+  },
+  {
+    "latitude": -7.24341,
+    "longitude": 112.73521,
+    "Penumpang": 11,
+    "Wanita": 0,
+    "Pria": 11,
+    "Suhu": 30,
+    "Baterai": 92,
+    "Kecepatan": 33
+  },
+  {
+    "latitude": -7.24336,
+    "longitude": 112.73512,
+    "Penumpang": 12,
+    "Wanita": 12,
+    "Pria": 0,
+    "Suhu": 26,
+    "Baterai": 26,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.24327,
+    "longitude": 112.73494,
+    "Penumpang": 35,
+    "Wanita": 22,
+    "Pria": 13,
+    "Suhu": 28,
+    "Baterai": 89,
+    "Kecepatan": 57
+  },
+  {
+    "latitude": -7.24324,
+    "longitude": 112.73487,
+    "Penumpang": 31,
+    "Wanita": 7,
+    "Pria": 24,
+    "Suhu": 27,
+    "Baterai": 37,
+    "Kecepatan": 35
+  },
+  {
+    "latitude": -7.24292,
+    "longitude": 112.73447,
+    "Penumpang": 18,
+    "Wanita": 9,
+    "Pria": 9,
+    "Suhu": 32,
+    "Baterai": 93,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.24281,
+    "longitude": 112.73434,
+    "Penumpang": 24,
+    "Wanita": 21,
+    "Pria": 3,
+    "Suhu": 34,
+    "Baterai": 18,
+    "Kecepatan": 62
+  },
+  {
+    "latitude": -7.24278,
+    "longitude": 112.73429,
+    "Penumpang": 7,
+    "Wanita": 0,
+    "Pria": 7,
+    "Suhu": 32,
+    "Baterai": 58,
+    "Kecepatan": 92
+  },
+  {
+    "latitude": -7.24266,
+    "longitude": 112.73416,
+    "Penumpang": 2,
+    "Wanita": 1,
+    "Pria": 1,
+    "Suhu": 23,
+    "Baterai": 95,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.24198,
+    "longitude": 112.73336,
+    "Penumpang": 24,
+    "Wanita": 3,
+    "Pria": 21,
+    "Suhu": 31,
+    "Baterai": 21,
+    "Kecepatan": 88
+  },
+  {
+    "latitude": -7.2418,
+    "longitude": 112.73316,
+    "Penumpang": 47,
+    "Wanita": 28,
+    "Pria": 19,
+    "Suhu": 29,
+    "Baterai": 77,
+    "Kecepatan": 85
+  },
+  {
+    "latitude": -7.24121,
+    "longitude": 112.73247,
+    "Penumpang": 60,
+    "Wanita": 9,
+    "Pria": 51,
+    "Suhu": 34,
+    "Baterai": 10,
+    "Kecepatan": 91
+  },
+  {
+    "latitude": -7.24108,
+    "longitude": 112.73236,
+    "Penumpang": 4,
+    "Wanita": 2,
+    "Pria": 2,
+    "Suhu": 35,
+    "Baterai": 44,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.24088,
+    "longitude": 112.73221,
+    "Penumpang": 51,
+    "Wanita": 3,
+    "Pria": 48,
+    "Suhu": 24,
+    "Baterai": 63,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.24077,
+    "longitude": 112.73213,
+    "Penumpang": 39,
+    "Wanita": 20,
+    "Pria": 19,
+    "Suhu": 33,
+    "Baterai": 38,
+    "Kecepatan": 77
+  },
+  {
+    "latitude": -7.24052,
+    "longitude": 112.73194,
+    "Penumpang": 10,
+    "Wanita": 6,
+    "Pria": 4,
+    "Suhu": 29,
+    "Baterai": 88,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.24029,
+    "longitude": 112.73178,
+    "Penumpang": 7,
+    "Wanita": 7,
+    "Pria": 0,
+    "Suhu": 28,
+    "Baterai": 82,
+    "Kecepatan": 75
+  },
+  {
+    "latitude": -7.24007,
+    "longitude": 112.73164,
+    "Penumpang": 47,
+    "Wanita": 31,
+    "Pria": 16,
+    "Suhu": 23,
+    "Baterai": 74,
+    "Kecepatan": 86
+  },
+  {
+    "latitude": -7.23993,
+    "longitude": 112.73157,
+    "Penumpang": 33,
+    "Wanita": 9,
+    "Pria": 24,
+    "Suhu": 29,
+    "Baterai": 11,
+    "Kecepatan": 7
+  },
+  {
+    "latitude": -7.2397,
+    "longitude": 112.73148,
+    "Penumpang": 35,
+    "Wanita": 7,
+    "Pria": 28,
+    "Suhu": 20,
+    "Baterai": 81,
+    "Kecepatan": 17
+  },
+  {
+    "latitude": -7.23939,
+    "longitude": 112.73141,
+    "Penumpang": 17,
+    "Wanita": 10,
+    "Pria": 7,
+    "Suhu": 30,
+    "Baterai": 25,
+    "Kecepatan": 86
+  },
+  {
+    "latitude": -7.23936,
+    "longitude": 112.7314,
+    "Penumpang": 42,
+    "Wanita": 29,
+    "Pria": 13,
+    "Suhu": 21,
+    "Baterai": 56,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.2393,
+    "longitude": 112.7314,
+    "Penumpang": 52,
+    "Wanita": 8,
+    "Pria": 44,
+    "Suhu": 30,
+    "Baterai": 11,
+    "Kecepatan": 16
+  },
+  {
+    "latitude": -7.23841,
+    "longitude": 112.73121,
+    "Penumpang": 16,
+    "Wanita": 8,
+    "Pria": 8,
+    "Suhu": 33,
+    "Baterai": 11,
+    "Kecepatan": 21
+  },
+  {
+    "latitude": -7.23836,
+    "longitude": 112.73119,
+    "Penumpang": 3,
+    "Wanita": 3,
+    "Pria": 0,
+    "Suhu": 24,
+    "Baterai": 52,
+    "Kecepatan": 48
+  },
+  {
+    "latitude": -7.238,
+    "longitude": 112.7311,
+    "Penumpang": 10,
+    "Wanita": 3,
+    "Pria": 7,
+    "Suhu": 21,
+    "Baterai": 14,
+    "Kecepatan": 45
+  },
+  {
+    "latitude": -7.23764,
+    "longitude": 112.73101,
+    "Penumpang": 38,
+    "Wanita": 3,
+    "Pria": 35,
+    "Suhu": 30,
+    "Baterai": 65,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.23738,
+    "longitude": 112.73096,
+    "Penumpang": 43,
+    "Wanita": 24,
+    "Pria": 19,
+    "Suhu": 20,
+    "Baterai": 59,
+    "Kecepatan": 84
+  },
+  {
+    "latitude": -7.23709,
+    "longitude": 112.73091,
+    "Penumpang": 17,
+    "Wanita": 3,
+    "Pria": 14,
+    "Suhu": 26,
+    "Baterai": 11,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.23644,
+    "longitude": 112.73084,
+    "Penumpang": 6,
+    "Wanita": 4,
+    "Pria": 2,
+    "Suhu": 23,
+    "Baterai": 72,
+    "Kecepatan": 72
+  },
+  {
+    "latitude": -7.23623,
+    "longitude": 112.73081,
+    "Penumpang": 58,
+    "Wanita": 17,
+    "Pria": 41,
+    "Suhu": 35,
+    "Baterai": 26,
+    "Kecepatan": 66
+  },
+  {
+    "latitude": -7.23597,
+    "longitude": 112.73079,
+    "Penumpang": 34,
+    "Wanita": 15,
+    "Pria": 19,
+    "Suhu": 24,
+    "Baterai": 30,
+    "Kecepatan": 59
+  },
+  {
+    "latitude": -7.23586,
+    "longitude": 112.73079,
+    "Penumpang": 28,
+    "Wanita": 9,
+    "Pria": 19,
+    "Suhu": 23,
+    "Baterai": 15,
+    "Kecepatan": 35
+  },
+  {
+    "latitude": -7.23524,
+    "longitude": 112.73074,
+    "Penumpang": 1,
+    "Wanita": 1,
+    "Pria": 0,
+    "Suhu": 23,
+    "Baterai": 18,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.23496,
+    "longitude": 112.73073,
+    "Penumpang": 46,
+    "Wanita": 22,
+    "Pria": 24,
+    "Suhu": 31,
+    "Baterai": 91,
+    "Kecepatan": 87
+  },
+  {
+    "latitude": -7.23483,
+    "longitude": 112.73071,
+    "Penumpang": 6,
+    "Wanita": 0,
+    "Pria": 6,
+    "Suhu": 33,
+    "Baterai": 92,
+    "Kecepatan": 51
+  },
+  {
+    "latitude": -7.23465,
+    "longitude": 112.73065,
+    "Penumpang": 52,
+    "Wanita": 5,
+    "Pria": 47,
+    "Suhu": 22,
+    "Baterai": 51,
+    "Kecepatan": 19
+  },
+  {
+    "latitude": -7.23455,
+    "longitude": 112.73061,
+    "Penumpang": 27,
+    "Wanita": 19,
+    "Pria": 8,
+    "Suhu": 32,
+    "Baterai": 90,
+    "Kecepatan": 35
+  },
+  {
+    "latitude": -7.23446,
+    "longitude": 112.73054,
+    "Penumpang": 1,
+    "Wanita": 1,
+    "Pria": 0,
+    "Suhu": 23,
+    "Baterai": 45,
+    "Kecepatan": 20
+  },
+  {
+    "latitude": -7.23442,
+    "longitude": 112.7305,
+    "Penumpang": 18,
+    "Wanita": 11,
+    "Pria": 7,
+    "Suhu": 25,
+    "Baterai": 16,
+    "Kecepatan": 70
+  },
+  {
+    "latitude": -7.23433,
+    "longitude": 112.7304,
+    "Penumpang": 30,
+    "Wanita": 16,
+    "Pria": 14,
+    "Suhu": 29,
+    "Baterai": 72,
+    "Kecepatan": 25
+  },
+  {
+    "latitude": -7.23379,
+    "longitude": 112.7298,
+    "Penumpang": 10,
+    "Wanita": 6,
+    "Pria": 4,
+    "Suhu": 24,
+    "Baterai": 44,
+    "Kecepatan": 84
+  },
+  {
+    "latitude": -7.23363,
+    "longitude": 112.72962,
+    "Penumpang": 41,
+    "Wanita": 40,
+    "Pria": 1,
+    "Suhu": 30,
+    "Baterai": 92,
+    "Kecepatan": 5
+  },
+  {
+    "latitude": -7.23357,
+    "longitude": 112.72954,
+    "Penumpang": 8,
+    "Wanita": 8,
+    "Pria": 0,
+    "Suhu": 25,
+    "Baterai": 11,
+    "Kecepatan": 15
+  },
+  {
+    "latitude": -7.23347,
+    "longitude": 112.72943,
+    "Penumpang": 27,
+    "Wanita": 18,
+    "Pria": 9,
+    "Suhu": 26,
+    "Baterai": 95,
+    "Kecepatan": 85
+  },
+  {
+    "latitude": -7.23324,
+    "longitude": 112.72916,
+    "Penumpang": 40,
+    "Wanita": 20,
+    "Pria": 20,
+    "Suhu": 28,
+    "Baterai": 42,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.23301,
+    "longitude": 112.72889,
+    "Penumpang": 5,
+    "Wanita": 4,
+    "Pria": 1,
+    "Suhu": 22,
+    "Baterai": 26,
+    "Kecepatan": 22
+  },
+  {
+    "latitude": -7.23296,
+    "longitude": 112.72882,
+    "Penumpang": 54,
+    "Wanita": 24,
+    "Pria": 30,
+    "Suhu": 20,
+    "Baterai": 66,
+    "Kecepatan": 47
+  },
+  {
+    "latitude": -7.23285,
+    "longitude": 112.7287,
+    "Penumpang": 16,
+    "Wanita": 16,
+    "Pria": 0,
+    "Suhu": 25,
+    "Baterai": 95,
+    "Kecepatan": 11
+  },
+  {
+    "latitude": -7.23282,
+    "longitude": 112.72866,
+    "Penumpang": 26,
+    "Wanita": 24,
+    "Pria": 2,
+    "Suhu": 21,
+    "Baterai": 37,
+    "Kecepatan": 70
+  },
+  {
+    "latitude": -7.23275,
+    "longitude": 112.72858,
+    "Penumpang": 10,
+    "Wanita": 2,
+    "Pria": 8,
+    "Suhu": 27,
+    "Baterai": 33,
+    "Kecepatan": 75
+  },
+  {
+    "latitude": -7.23245,
+    "longitude": 112.72831,
+    "Penumpang": 15,
+    "Wanita": 10,
+    "Pria": 5,
+    "Suhu": 21,
+    "Baterai": 97,
+    "Kecepatan": 22
+  },
+  {
+    "latitude": -7.23224,
+    "longitude": 112.72825,
+    "Penumpang": 38,
+    "Wanita": 36,
+    "Pria": 2,
+    "Suhu": 27,
+    "Baterai": 82,
+    "Kecepatan": 43
+  },
+  {
+    "latitude": -7.23205,
+    "longitude": 112.72826,
+    "Penumpang": 58,
+    "Wanita": 43,
+    "Pria": 15,
+    "Suhu": 31,
+    "Baterai": 10,
+    "Kecepatan": 71
+  },
+  {
+    "latitude": -7.23173,
+    "longitude": 112.72839,
+    "Penumpang": 30,
+    "Wanita": 1,
+    "Pria": 29,
+    "Suhu": 24,
+    "Baterai": 72,
+    "Kecepatan": 34
+  },
+  {
+    "latitude": -7.23141,
+    "longitude": 112.72854,
+    "Penumpang": 35,
+    "Wanita": 9,
+    "Pria": 26,
+    "Suhu": 30,
+    "Baterai": 19,
+    "Kecepatan": 19
+  },
+  {
+    "latitude": -7.23106,
+    "longitude": 112.72874,
+    "Penumpang": 59,
+    "Wanita": 6,
+    "Pria": 53,
+    "Suhu": 20,
+    "Baterai": 53,
+    "Kecepatan": 34
+  },
+  {
+    "latitude": -7.23064,
+    "longitude": 112.72896,
+    "Penumpang": 60,
+    "Wanita": 42,
+    "Pria": 18,
+    "Suhu": 21,
+    "Baterai": 55,
+    "Kecepatan": 25
+  },
+  {
+    "latitude": -7.22985,
+    "longitude": 112.72941,
+    "Penumpang": 31,
+    "Wanita": 27,
+    "Pria": 4,
+    "Suhu": 28,
+    "Baterai": 29,
+    "Kecepatan": 7
+  },
+  {
+    "latitude": -7.22955,
+    "longitude": 112.72953,
+    "Penumpang": 28,
+    "Wanita": 27,
+    "Pria": 1,
+    "Suhu": 22,
+    "Baterai": 42,
+    "Kecepatan": 27
+  },
+  {
+    "latitude": -7.22906,
+    "longitude": 112.72977,
+    "Penumpang": 41,
+    "Wanita": 0,
+    "Pria": 41,
+    "Suhu": 31,
+    "Baterai": 77,
+    "Kecepatan": 87
+  },
+  {
+    "latitude": -7.229,
+    "longitude": 112.7298,
+    "Penumpang": 48,
+    "Wanita": 46,
+    "Pria": 2,
+    "Suhu": 33,
+    "Baterai": 60,
+    "Kecepatan": 91
+  },
+  {
+    "latitude": -7.2271,
+    "longitude": 112.73066,
+    "Penumpang": 7,
+    "Wanita": 2,
+    "Pria": 5,
+    "Suhu": 27,
+    "Baterai": 80,
+    "Kecepatan": 14
+  },
+  {
+    "latitude": -7.22666,
+    "longitude": 112.73086,
+    "Penumpang": 25,
+    "Wanita": 0,
+    "Pria": 25,
+    "Suhu": 35,
+    "Baterai": 100,
+    "Kecepatan": 35
+  },
+  {
+    "latitude": -7.22613,
+    "longitude": 112.73111,
+    "Penumpang": 33,
+    "Wanita": 1,
+    "Pria": 32,
+    "Suhu": 27,
+    "Baterai": 34,
+    "Kecepatan": 84
+  },
+  {
+    "latitude": -7.22598,
+    "longitude": 112.73118,
+    "Penumpang": 3,
+    "Wanita": 2,
+    "Pria": 1,
+    "Suhu": 25,
+    "Baterai": 29,
+    "Kecepatan": 47
+  },
+  {
+    "latitude": -7.2251,
+    "longitude": 112.7316,
+    "Penumpang": 28,
+    "Wanita": 10,
+    "Pria": 18,
+    "Suhu": 34,
+    "Baterai": 67,
+    "Kecepatan": 7
+  },
+  {
+    "latitude": -7.22491,
+    "longitude": 112.73165,
+    "Penumpang": 56,
+    "Wanita": 19,
+    "Pria": 37,
+    "Suhu": 21,
+    "Baterai": 76,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.22449,
+    "longitude": 112.73179,
+    "Penumpang": 40,
+    "Wanita": 13,
+    "Pria": 27,
+    "Suhu": 24,
+    "Baterai": 20,
+    "Kecepatan": 35
+  },
+  {
+    "latitude": -7.2244,
+    "longitude": 112.73182,
+    "Penumpang": 20,
+    "Wanita": 20,
+    "Pria": 0,
+    "Suhu": 22,
+    "Baterai": 87,
+    "Kecepatan": 51
+  },
+  {
+    "latitude": -7.22413,
+    "longitude": 112.73189,
+    "Penumpang": 57,
+    "Wanita": 8,
+    "Pria": 49,
+    "Suhu": 29,
+    "Baterai": 61,
+    "Kecepatan": 34
+  },
+  {
+    "latitude": -7.22356,
+    "longitude": 112.73199,
+    "Penumpang": 55,
+    "Wanita": 48,
+    "Pria": 7,
+    "Suhu": 29,
+    "Baterai": 67,
+    "Kecepatan": 39
+  },
+  {
+    "latitude": -7.223,
+    "longitude": 112.73208,
+    "Penumpang": 29,
+    "Wanita": 18,
+    "Pria": 11,
+    "Suhu": 32,
+    "Baterai": 59,
+    "Kecepatan": 81
+  },
+  {
+    "latitude": -7.22238,
+    "longitude": 112.73217,
+    "Penumpang": 6,
+    "Wanita": 0,
+    "Pria": 6,
+    "Suhu": 34,
+    "Baterai": 51,
+    "Kecepatan": 43
+  },
+  {
+    "latitude": -7.2217,
+    "longitude": 112.73226,
+    "Penumpang": 51,
+    "Wanita": 40,
+    "Pria": 11,
+    "Suhu": 29,
+    "Baterai": 11,
+    "Kecepatan": 64
+  },
+  {
+    "latitude": -7.22059,
+    "longitude": 112.73239,
+    "Penumpang": 16,
+    "Wanita": 6,
+    "Pria": 10,
+    "Suhu": 23,
+    "Baterai": 43,
+    "Kecepatan": 5
+  },
+  {
+    "latitude": -7.21981,
+    "longitude": 112.73247,
+    "Penumpang": 7,
+    "Wanita": 0,
+    "Pria": 7,
+    "Suhu": 24,
+    "Baterai": 89,
+    "Kecepatan": 78
+  },
+  {
+    "latitude": -7.219,
+    "longitude": 112.73257,
+    "Penumpang": 43,
+    "Wanita": 5,
+    "Pria": 38,
+    "Suhu": 33,
+    "Baterai": 53,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.21876,
+    "longitude": 112.7326,
+    "Penumpang": 51,
+    "Wanita": 5,
+    "Pria": 46,
+    "Suhu": 28,
+    "Baterai": 73,
+    "Kecepatan": 39
+  },
+  {
+    "latitude": -7.21783,
+    "longitude": 112.73271,
+    "Penumpang": 57,
+    "Wanita": 36,
+    "Pria": 21,
+    "Suhu": 33,
+    "Baterai": 35,
+    "Kecepatan": 28
+  },
+  {
+    "latitude": -7.21645,
+    "longitude": 112.73292,
+    "Penumpang": 45,
+    "Wanita": 21,
+    "Pria": 24,
+    "Suhu": 25,
+    "Baterai": 31,
+    "Kecepatan": 16
+  },
+  {
+    "latitude": -7.21591,
+    "longitude": 112.73302,
+    "Penumpang": 47,
+    "Wanita": 45,
+    "Pria": 2,
+    "Suhu": 33,
+    "Baterai": 93,
+    "Kecepatan": 64
+  },
+  {
+    "latitude": -7.21542,
+    "longitude": 112.7331,
+    "Penumpang": 16,
+    "Wanita": 6,
+    "Pria": 10,
+    "Suhu": 32,
+    "Baterai": 31,
+    "Kecepatan": 89
+  },
+  {
+    "latitude": -7.21507,
+    "longitude": 112.73317,
+    "Penumpang": 53,
+    "Wanita": 49,
+    "Pria": 4,
+    "Suhu": 24,
+    "Baterai": 33,
+    "Kecepatan": 81
+  },
+  {
+    "latitude": -7.21359,
+    "longitude": 112.73344,
+    "Penumpang": 29,
+    "Wanita": 4,
+    "Pria": 25,
+    "Suhu": 27,
+    "Baterai": 82,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.21278,
+    "longitude": 112.73361,
+    "Penumpang": 40,
+    "Wanita": 38,
+    "Pria": 2,
+    "Suhu": 25,
+    "Baterai": 93,
+    "Kecepatan": 38
+  },
+  {
+    "latitude": -7.21219,
+    "longitude": 112.73371,
+    "Penumpang": 59,
+    "Wanita": 9,
+    "Pria": 50,
+    "Suhu": 30,
+    "Baterai": 77,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.21193,
+    "longitude": 112.73376,
+    "Penumpang": 30,
+    "Wanita": 3,
+    "Pria": 27,
+    "Suhu": 28,
+    "Baterai": 26,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.21155,
+    "longitude": 112.73383,
+    "Penumpang": 18,
+    "Wanita": 14,
+    "Pria": 4,
+    "Suhu": 31,
+    "Baterai": 32,
+    "Kecepatan": 3
+  },
+  {
+    "latitude": -7.21148,
+    "longitude": 112.73384,
+    "Penumpang": 42,
+    "Wanita": 31,
+    "Pria": 11,
+    "Suhu": 26,
+    "Baterai": 47,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.21118,
+    "longitude": 112.73389,
+    "Penumpang": 25,
+    "Wanita": 1,
+    "Pria": 24,
+    "Suhu": 26,
+    "Baterai": 86,
+    "Kecepatan": 4
+  },
+  {
+    "latitude": -7.21111,
+    "longitude": 112.73391,
+    "Penumpang": 6,
+    "Wanita": 5,
+    "Pria": 1,
+    "Suhu": 32,
+    "Baterai": 18,
+    "Kecepatan": 73
+  },
+  {
+    "latitude": -7.2104,
+    "longitude": 112.73404,
+    "Penumpang": 56,
+    "Wanita": 21,
+    "Pria": 35,
+    "Suhu": 34,
+    "Baterai": 14,
+    "Kecepatan": 51
+  },
+  {
+    "latitude": -7.21016,
+    "longitude": 112.73408,
+    "Penumpang": 19,
+    "Wanita": 18,
+    "Pria": 1,
+    "Suhu": 20,
+    "Baterai": 48,
+    "Kecepatan": 21
+  },
+  {
+    "latitude": -7.20928,
+    "longitude": 112.73415,
+    "Penumpang": 53,
+    "Wanita": 29,
+    "Pria": 24,
+    "Suhu": 31,
+    "Baterai": 92,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.20915,
+    "longitude": 112.73416,
+    "Penumpang": 24,
+    "Wanita": 15,
+    "Pria": 9,
+    "Suhu": 21,
+    "Baterai": 40,
+    "Kecepatan": 5
+  },
+  {
+    "latitude": -7.2088,
+    "longitude": 112.73415,
+    "Penumpang": 56,
+    "Wanita": 42,
+    "Pria": 14,
+    "Suhu": 32,
+    "Baterai": 95,
+    "Kecepatan": 88
+  },
+  {
+    "latitude": -7.2085,
+    "longitude": 112.73416,
+    "Penumpang": 22,
+    "Wanita": 22,
+    "Pria": 0,
+    "Suhu": 31,
+    "Baterai": 61,
+    "Kecepatan": 53
+  },
+  {
+    "latitude": -7.20818,
+    "longitude": 112.73413,
+    "Penumpang": 37,
+    "Wanita": 25,
+    "Pria": 12,
+    "Suhu": 30,
+    "Baterai": 34,
+    "Kecepatan": 73
+  },
+  {
+    "latitude": -7.20728,
+    "longitude": 112.73411,
+    "Penumpang": 51,
+    "Wanita": 41,
+    "Pria": 10,
+    "Suhu": 29,
+    "Baterai": 67,
+    "Kecepatan": 38
+  },
+  {
+    "latitude": -7.20703,
+    "longitude": 112.73408,
+    "Penumpang": 49,
+    "Wanita": 25,
+    "Pria": 24,
+    "Suhu": 28,
+    "Baterai": 12,
+    "Kecepatan": 73
+  },
+  {
+    "latitude": -7.20697,
+    "longitude": 112.73407,
+    "Penumpang": 54,
+    "Wanita": 46,
+    "Pria": 8,
+    "Suhu": 22,
+    "Baterai": 70,
+    "Kecepatan": 34
+  },
+  {
+    "latitude": -7.20666,
+    "longitude": 112.73403,
+    "Penumpang": 56,
+    "Wanita": 29,
+    "Pria": 27,
+    "Suhu": 22,
+    "Baterai": 37,
+    "Kecepatan": 54
+  },
+  {
+    "latitude": -7.20595,
+    "longitude": 112.73393,
+    "Penumpang": 20,
+    "Wanita": 5,
+    "Pria": 15,
+    "Suhu": 35,
+    "Baterai": 20,
+    "Kecepatan": 14
+  },
+  {
+    "latitude": -7.20445,
+    "longitude": 112.73365,
+    "Penumpang": 41,
+    "Wanita": 14,
+    "Pria": 27,
+    "Suhu": 25,
+    "Baterai": 92,
+    "Kecepatan": 47
+  },
+  {
+    "latitude": -7.20419,
+    "longitude": 112.7336,
+    "Penumpang": 44,
+    "Wanita": 34,
+    "Pria": 10,
+    "Suhu": 35,
+    "Baterai": 62,
+    "Kecepatan": 11
+  },
+  {
+    "latitude": -7.20404,
+    "longitude": 112.73357,
+    "Penumpang": 41,
+    "Wanita": 37,
+    "Pria": 4,
+    "Suhu": 24,
+    "Baterai": 96,
+    "Kecepatan": 34
+  },
+  {
+    "latitude": -7.20374,
+    "longitude": 112.73351,
+    "Penumpang": 14,
+    "Wanita": 5,
+    "Pria": 9,
+    "Suhu": 29,
+    "Baterai": 36,
+    "Kecepatan": 59
+  },
+  {
+    "latitude": -7.2032,
+    "longitude": 112.7334,
+    "Penumpang": 18,
+    "Wanita": 12,
+    "Pria": 6,
+    "Suhu": 27,
+    "Baterai": 24,
+    "Kecepatan": 43
+  },
+  {
+    "latitude": -7.2023,
+    "longitude": 112.73322,
+    "Penumpang": 14,
+    "Wanita": 8,
+    "Pria": 6,
+    "Suhu": 24,
+    "Baterai": 47,
+    "Kecepatan": 74
+  },
+  {
+    "latitude": -7.20218,
+    "longitude": 112.73319,
+    "Penumpang": 29,
+    "Wanita": 2,
+    "Pria": 27,
+    "Suhu": 31,
+    "Baterai": 93,
+    "Kecepatan": 11
+  },
+  {
+    "latitude": -7.2019,
+    "longitude": 112.73314,
+    "Penumpang": 36,
+    "Wanita": 36,
+    "Pria": 0,
+    "Suhu": 35,
+    "Baterai": 23,
+    "Kecepatan": 88
+  },
+  {
+    "latitude": -7.20143,
+    "longitude": 112.73305,
+    "Penumpang": 10,
+    "Wanita": 4,
+    "Pria": 6,
+    "Suhu": 26,
+    "Baterai": 100,
+    "Kecepatan": 15
+  },
+  {
+    "latitude": -7.20088,
+    "longitude": 112.73295,
+    "Penumpang": 60,
+    "Wanita": 43,
+    "Pria": 17,
+    "Suhu": 23,
+    "Baterai": 24,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.20034,
+    "longitude": 112.73284,
+    "Penumpang": 53,
+    "Wanita": 40,
+    "Pria": 13,
+    "Suhu": 22,
+    "Baterai": 22,
+    "Kecepatan": 80
+  },
+  {
+    "latitude": -7.20016,
+    "longitude": 112.73281,
+    "Penumpang": 11,
+    "Wanita": 9,
+    "Pria": 2,
+    "Suhu": 35,
+    "Baterai": 72,
+    "Kecepatan": 28
+  },
+  {
+    "latitude": -7.19963,
+    "longitude": 112.7327,
+    "Penumpang": 57,
+    "Wanita": 56,
+    "Pria": 1,
+    "Suhu": 33,
+    "Baterai": 56,
+    "Kecepatan": 86
+  },
+  {
+    "latitude": -7.19893,
+    "longitude": 112.73256,
+    "Penumpang": 11,
+    "Wanita": 8,
+    "Pria": 3,
+    "Suhu": 26,
+    "Baterai": 81,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.19845,
+    "longitude": 112.73252,
+    "Penumpang": 27,
+    "Wanita": 20,
+    "Pria": 7,
+    "Suhu": 26,
+    "Baterai": 69,
+    "Kecepatan": 85
+  },
+  {
+    "latitude": -7.19835,
+    "longitude": 112.73249,
+    "Penumpang": 52,
+    "Wanita": 22,
+    "Pria": 30,
+    "Suhu": 29,
+    "Baterai": 29,
+    "Kecepatan": 80
+  },
+  {
+    "latitude": -7.1982,
+    "longitude": 112.73248,
+    "Penumpang": 6,
+    "Wanita": 3,
+    "Pria": 3,
+    "Suhu": 34,
+    "Baterai": 49,
+    "Kecepatan": 85
+  },
+  {
+    "latitude": -7.19806,
+    "longitude": 112.73249,
+    "Penumpang": 58,
+    "Wanita": 57,
+    "Pria": 1,
+    "Suhu": 24,
+    "Baterai": 58,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.198,
+    "longitude": 112.73245,
+    "Penumpang": 0,
+    "Wanita": 0,
+    "Pria": 0,
+    "Suhu": 20,
+    "Baterai": 72,
+    "Kecepatan": 24
+  },
+  {
+    "latitude": -7.19794,
+    "longitude": 112.73242,
+    "Penumpang": 18,
+    "Wanita": 11,
+    "Pria": 7,
+    "Suhu": 35,
+    "Baterai": 44,
+    "Kecepatan": 66
+  },
+  {
+    "latitude": -7.19791,
+    "longitude": 112.73239,
+    "Penumpang": 42,
+    "Wanita": 8,
+    "Pria": 34,
+    "Suhu": 21,
+    "Baterai": 86,
+    "Kecepatan": 37
+  },
+  {
+    "latitude": -7.1979,
+    "longitude": 112.73224,
+    "Penumpang": 42,
+    "Wanita": 23,
+    "Pria": 19,
+    "Suhu": 23,
+    "Baterai": 41,
+    "Kecepatan": 80
+  },
+  {
+    "latitude": -7.19779,
+    "longitude": 112.73202,
+    "Penumpang": 56,
+    "Wanita": 18,
+    "Pria": 38,
+    "Suhu": 22,
+    "Baterai": 29,
+    "Kecepatan": 50
+  },
+  {
+    "latitude": -7.19776,
+    "longitude": 112.73186,
+    "Penumpang": 16,
+    "Wanita": 7,
+    "Pria": 9,
+    "Suhu": 29,
+    "Baterai": 20,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.19786,
+    "longitude": 112.73128,
+    "Penumpang": 54,
+    "Wanita": 41,
+    "Pria": 13,
+    "Suhu": 25,
+    "Baterai": 51,
+    "Kecepatan": 4
+  },
+  {
+    "latitude": -7.19791,
+    "longitude": 112.73101,
+    "Penumpang": 13,
+    "Wanita": 2,
+    "Pria": 11,
+    "Suhu": 32,
+    "Baterai": 26,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.19776,
+    "longitude": 112.73099,
+    "Penumpang": 6,
+    "Wanita": 6,
+    "Pria": 0,
+    "Suhu": 24,
+    "Baterai": 16,
+    "Kecepatan": 35
+  },
+  {
+    "latitude": -7.19765,
+    "longitude": 112.73164,
+    "Penumpang": 45,
+    "Wanita": 11,
+    "Pria": 34,
+    "Suhu": 31,
+    "Baterai": 46,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.19761,
+    "longitude": 112.73196,
+    "Penumpang": 2,
+    "Wanita": 2,
+    "Pria": 0,
+    "Suhu": 20,
+    "Baterai": 63,
+    "Kecepatan": 4
+  },
+  {
+    "latitude": -7.19761,
+    "longitude": 112.73203,
+    "Penumpang": 21,
+    "Wanita": 17,
+    "Pria": 4,
+    "Suhu": 32,
+    "Baterai": 56,
+    "Kecepatan": 3
+  },
+  {
+    "latitude": -7.19763,
+    "longitude": 112.73209,
+    "Penumpang": 40,
+    "Wanita": 1,
+    "Pria": 39,
+    "Suhu": 31,
+    "Baterai": 72,
+    "Kecepatan": 76
+  },
+  {
+    "latitude": -7.19775,
+    "longitude": 112.73229,
+    "Penumpang": 26,
+    "Wanita": 0,
+    "Pria": 26,
+    "Suhu": 20,
+    "Baterai": 50,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.19777,
+    "longitude": 112.73231,
+    "Penumpang": 1,
+    "Wanita": 1,
+    "Pria": 0,
+    "Suhu": 23,
+    "Baterai": 65,
+    "Kecepatan": 63
+  },
+  {
+    "latitude": -7.19791,
+    "longitude": 112.73239,
+    "Penumpang": 60,
+    "Wanita": 3,
+    "Pria": 57,
+    "Suhu": 21,
+    "Baterai": 97,
+    "Kecepatan": 74
+  },
+  {
+    "latitude": -7.19794,
+    "longitude": 112.73242,
+    "Penumpang": 44,
+    "Wanita": 32,
+    "Pria": 12,
+    "Suhu": 33,
+    "Baterai": 19,
+    "Kecepatan": 50
+  },
+  {
+    "latitude": -7.198,
+    "longitude": 112.73245,
+    "Penumpang": 12,
+    "Wanita": 6,
+    "Pria": 6,
+    "Suhu": 26,
+    "Baterai": 59,
+    "Kecepatan": 42
+  },
+  {
+    "latitude": -7.19806,
+    "longitude": 112.73249,
+    "Penumpang": 24,
+    "Wanita": 4,
+    "Pria": 20,
+    "Suhu": 24,
+    "Baterai": 56,
+    "Kecepatan": 76
+  },
+  {
+    "latitude": -7.19816,
+    "longitude": 112.73261,
+    "Penumpang": 12,
+    "Wanita": 4,
+    "Pria": 8,
+    "Suhu": 33,
+    "Baterai": 68,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.19828,
+    "longitude": 112.73271,
+    "Penumpang": 17,
+    "Wanita": 2,
+    "Pria": 15,
+    "Suhu": 31,
+    "Baterai": 68,
+    "Kecepatan": 18
+  },
+  {
+    "latitude": -7.19831,
+    "longitude": 112.73261,
+    "Penumpang": 54,
+    "Wanita": 52,
+    "Pria": 2,
+    "Suhu": 28,
+    "Baterai": 69,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.19797,
+    "longitude": 112.73252,
+    "Penumpang": 28,
+    "Wanita": 2,
+    "Pria": 26,
+    "Suhu": 20,
+    "Baterai": 85,
+    "Kecepatan": 56
+  },
+  {
+    "latitude": -7.198,
+    "longitude": 112.73245,
+    "Penumpang": 39,
+    "Wanita": 20,
+    "Pria": 19,
+    "Suhu": 22,
+    "Baterai": 44,
+    "Kecepatan": 57
+  },
+  {
+    "latitude": -7.19806,
+    "longitude": 112.73249,
+    "Penumpang": 52,
+    "Wanita": 15,
+    "Pria": 37,
+    "Suhu": 30,
+    "Baterai": 10,
+    "Kecepatan": 79
+  },
+  {
+    "latitude": -7.19816,
+    "longitude": 112.73261,
+    "Penumpang": 31,
+    "Wanita": 6,
+    "Pria": 25,
+    "Suhu": 33,
+    "Baterai": 76,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.19828,
+    "longitude": 112.73271,
+    "Penumpang": 38,
+    "Wanita": 13,
+    "Pria": 25,
+    "Suhu": 34,
+    "Baterai": 44,
+    "Kecepatan": 89
+  },
+  {
+    "latitude": -7.19841,
+    "longitude": 112.73274,
+    "Penumpang": 26,
+    "Wanita": 12,
+    "Pria": 14,
+    "Suhu": 28,
+    "Baterai": 33,
+    "Kecepatan": 16
+  },
+  {
+    "latitude": -7.19928,
+    "longitude": 112.73292,
+    "Penumpang": 11,
+    "Wanita": 9,
+    "Pria": 2,
+    "Suhu": 34,
+    "Baterai": 24,
+    "Kecepatan": 56
+  },
+  {
+    "latitude": -7.19935,
+    "longitude": 112.73293,
+    "Penumpang": 58,
+    "Wanita": 49,
+    "Pria": 9,
+    "Suhu": 23,
+    "Baterai": 95,
+    "Kecepatan": 48
+  },
+  {
+    "latitude": -7.19972,
+    "longitude": 112.733,
+    "Penumpang": 41,
+    "Wanita": 38,
+    "Pria": 3,
+    "Suhu": 28,
+    "Baterai": 39,
+    "Kecepatan": 76
+  },
+  {
+    "latitude": -7.20013,
+    "longitude": 112.73305,
+    "Penumpang": 23,
+    "Wanita": 10,
+    "Pria": 13,
+    "Suhu": 35,
+    "Baterai": 25,
+    "Kecepatan": 39
+  },
+  {
+    "latitude": -7.20038,
+    "longitude": 112.73309,
+    "Penumpang": 60,
+    "Wanita": 44,
+    "Pria": 16,
+    "Suhu": 21,
+    "Baterai": 30,
+    "Kecepatan": 88
+  },
+  {
+    "latitude": -7.20101,
+    "longitude": 112.73322,
+    "Penumpang": 30,
+    "Wanita": 29,
+    "Pria": 1,
+    "Suhu": 32,
+    "Baterai": 59,
+    "Kecepatan": 34
+  },
+  {
+    "latitude": -7.20135,
+    "longitude": 112.73327,
+    "Penumpang": 17,
+    "Wanita": 14,
+    "Pria": 3,
+    "Suhu": 30,
+    "Baterai": 64,
+    "Kecepatan": 58
+  },
+  {
+    "latitude": -7.20159,
+    "longitude": 112.73332,
+    "Penumpang": 28,
+    "Wanita": 26,
+    "Pria": 2,
+    "Suhu": 27,
+    "Baterai": 21,
+    "Kecepatan": 85
+  },
+  {
+    "latitude": -7.20194,
+    "longitude": 112.73338,
+    "Penumpang": 9,
+    "Wanita": 5,
+    "Pria": 4,
+    "Suhu": 31,
+    "Baterai": 39,
+    "Kecepatan": 3
+  },
+  {
+    "latitude": -7.20226,
+    "longitude": 112.73345,
+    "Penumpang": 20,
+    "Wanita": 20,
+    "Pria": 0,
+    "Suhu": 27,
+    "Baterai": 10,
+    "Kecepatan": 40
+  },
+  {
+    "latitude": -7.20315,
+    "longitude": 112.73361,
+    "Penumpang": 2,
+    "Wanita": 2,
+    "Pria": 0,
+    "Suhu": 26,
+    "Baterai": 14,
+    "Kecepatan": 35
+  },
+  {
+    "latitude": -7.20374,
+    "longitude": 112.73374,
+    "Penumpang": 29,
+    "Wanita": 11,
+    "Pria": 18,
+    "Suhu": 24,
+    "Baterai": 40,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.20443,
+    "longitude": 112.73388,
+    "Penumpang": 34,
+    "Wanita": 7,
+    "Pria": 27,
+    "Suhu": 21,
+    "Baterai": 91,
+    "Kecepatan": 84
+  },
+  {
+    "latitude": -7.20558,
+    "longitude": 112.7341,
+    "Penumpang": 51,
+    "Wanita": 12,
+    "Pria": 39,
+    "Suhu": 22,
+    "Baterai": 25,
+    "Kecepatan": 64
+  },
+  {
+    "latitude": -7.20643,
+    "longitude": 112.73424,
+    "Penumpang": 42,
+    "Wanita": 21,
+    "Pria": 21,
+    "Suhu": 33,
+    "Baterai": 26,
+    "Kecepatan": 32
+  },
+  {
+    "latitude": -7.2066,
+    "longitude": 112.73426,
+    "Penumpang": 58,
+    "Wanita": 11,
+    "Pria": 47,
+    "Suhu": 22,
+    "Baterai": 36,
+    "Kecepatan": 86
+  },
+  {
+    "latitude": -7.20688,
+    "longitude": 112.73428,
+    "Penumpang": 2,
+    "Wanita": 1,
+    "Pria": 1,
+    "Suhu": 21,
+    "Baterai": 18,
+    "Kecepatan": 81
+  },
+  {
+    "latitude": -7.20693,
+    "longitude": 112.73429,
+    "Penumpang": 15,
+    "Wanita": 11,
+    "Pria": 4,
+    "Suhu": 21,
+    "Baterai": 91,
+    "Kecepatan": 2
+  },
+  {
+    "latitude": -7.20703,
+    "longitude": 112.7343,
+    "Penumpang": 16,
+    "Wanita": 2,
+    "Pria": 14,
+    "Suhu": 24,
+    "Baterai": 14,
+    "Kecepatan": 64
+  },
+  {
+    "latitude": -7.20807,
+    "longitude": 112.73434,
+    "Penumpang": 42,
+    "Wanita": 10,
+    "Pria": 32,
+    "Suhu": 25,
+    "Baterai": 98,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.2088,
+    "longitude": 112.73439,
+    "Penumpang": 39,
+    "Wanita": 38,
+    "Pria": 1,
+    "Suhu": 32,
+    "Baterai": 53,
+    "Kecepatan": 84
+  },
+  {
+    "latitude": -7.20891,
+    "longitude": 112.7344,
+    "Penumpang": 33,
+    "Wanita": 7,
+    "Pria": 26,
+    "Suhu": 30,
+    "Baterai": 34,
+    "Kecepatan": 89
+  },
+  {
+    "latitude": -7.20912,
+    "longitude": 112.7344,
+    "Penumpang": 34,
+    "Wanita": 23,
+    "Pria": 11,
+    "Suhu": 35,
+    "Baterai": 69,
+    "Kecepatan": 94
+  },
+  {
+    "latitude": -7.2095,
+    "longitude": 112.73439,
+    "Penumpang": 26,
+    "Wanita": 8,
+    "Pria": 18,
+    "Suhu": 22,
+    "Baterai": 89,
+    "Kecepatan": 46
+  },
+  {
+    "latitude": -7.20985,
+    "longitude": 112.73436,
+    "Penumpang": 23,
+    "Wanita": 4,
+    "Pria": 19,
+    "Suhu": 31,
+    "Baterai": 83,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.21033,
+    "longitude": 112.7343,
+    "Penumpang": 40,
+    "Wanita": 13,
+    "Pria": 27,
+    "Suhu": 28,
+    "Baterai": 27,
+    "Kecepatan": 31
+  },
+  {
+    "latitude": -7.21044,
+    "longitude": 112.73428,
+    "Penumpang": 28,
+    "Wanita": 21,
+    "Pria": 7,
+    "Suhu": 21,
+    "Baterai": 57,
+    "Kecepatan": 47
+  },
+  {
+    "latitude": -7.21116,
+    "longitude": 112.73414,
+    "Penumpang": 43,
+    "Wanita": 26,
+    "Pria": 17,
+    "Suhu": 29,
+    "Baterai": 15,
+    "Kecepatan": 61
+  },
+  {
+    "latitude": -7.21122,
+    "longitude": 112.73413,
+    "Penumpang": 42,
+    "Wanita": 28,
+    "Pria": 14,
+    "Suhu": 26,
+    "Baterai": 40,
+    "Kecepatan": 11
+  },
+  {
+    "latitude": -7.21167,
+    "longitude": 112.73404,
+    "Penumpang": 53,
+    "Wanita": 1,
+    "Pria": 52,
+    "Suhu": 31,
+    "Baterai": 34,
+    "Kecepatan": 7
+  },
+  {
+    "latitude": -7.21174,
+    "longitude": 112.73402,
+    "Penumpang": 42,
+    "Wanita": 18,
+    "Pria": 24,
+    "Suhu": 22,
+    "Baterai": 27,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.2118,
+    "longitude": 112.73401,
+    "Penumpang": 1,
+    "Wanita": 1,
+    "Pria": 0,
+    "Suhu": 23,
+    "Baterai": 98,
+    "Kecepatan": 57
+  },
+  {
+    "latitude": -7.21211,
+    "longitude": 112.73398,
+    "Penumpang": 60,
+    "Wanita": 29,
+    "Pria": 31,
+    "Suhu": 24,
+    "Baterai": 99,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.21223,
+    "longitude": 112.73395,
+    "Penumpang": 28,
+    "Wanita": 20,
+    "Pria": 8,
+    "Suhu": 20,
+    "Baterai": 72,
+    "Kecepatan": 52
+  },
+  {
+    "latitude": -7.21283,
+    "longitude": 112.73384,
+    "Penumpang": 55,
+    "Wanita": 25,
+    "Pria": 30,
+    "Suhu": 29,
+    "Baterai": 69,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.21362,
+    "longitude": 112.73369,
+    "Penumpang": 29,
+    "Wanita": 28,
+    "Pria": 1,
+    "Suhu": 28,
+    "Baterai": 65,
+    "Kecepatan": 3
+  },
+  {
+    "latitude": -7.21477,
+    "longitude": 112.73347,
+    "Penumpang": 57,
+    "Wanita": 1,
+    "Pria": 56,
+    "Suhu": 22,
+    "Baterai": 51,
+    "Kecepatan": 56
+  },
+  {
+    "latitude": -7.21507,
+    "longitude": 112.73342,
+    "Penumpang": 49,
+    "Wanita": 16,
+    "Pria": 33,
+    "Suhu": 24,
+    "Baterai": 60,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.21546,
+    "longitude": 112.73335,
+    "Penumpang": 14,
+    "Wanita": 8,
+    "Pria": 6,
+    "Suhu": 31,
+    "Baterai": 54,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.21649,
+    "longitude": 112.73316,
+    "Penumpang": 47,
+    "Wanita": 45,
+    "Pria": 2,
+    "Suhu": 29,
+    "Baterai": 23,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.21783,
+    "longitude": 112.73297,
+    "Penumpang": 2,
+    "Wanita": 2,
+    "Pria": 0,
+    "Suhu": 23,
+    "Baterai": 94,
+    "Kecepatan": 1
+  },
+  {
+    "latitude": -7.21859,
+    "longitude": 112.73288,
+    "Penumpang": 55,
+    "Wanita": 37,
+    "Pria": 18,
+    "Suhu": 27,
+    "Baterai": 31,
+    "Kecepatan": 4
+  },
+  {
+    "latitude": -7.2188,
+    "longitude": 112.73285,
+    "Penumpang": 47,
+    "Wanita": 20,
+    "Pria": 27,
+    "Suhu": 27,
+    "Baterai": 83,
+    "Kecepatan": 44
+  },
+  {
+    "latitude": -7.21904,
+    "longitude": 112.73282,
+    "Penumpang": 22,
+    "Wanita": 16,
+    "Pria": 6,
+    "Suhu": 21,
+    "Baterai": 40,
+    "Kecepatan": 14
+  },
+  {
+    "latitude": -7.21979,
+    "longitude": 112.73273,
+    "Penumpang": 27,
+    "Wanita": 14,
+    "Pria": 13,
+    "Suhu": 23,
+    "Baterai": 35,
+    "Kecepatan": 45
+  },
+  {
+    "latitude": -7.22062,
+    "longitude": 112.73263,
+    "Penumpang": 50,
+    "Wanita": 35,
+    "Pria": 15,
+    "Suhu": 24,
+    "Baterai": 21,
+    "Kecepatan": 21
+  },
+  {
+    "latitude": -7.22171,
+    "longitude": 112.73251,
+    "Penumpang": 40,
+    "Wanita": 27,
+    "Pria": 13,
+    "Suhu": 22,
+    "Baterai": 81,
+    "Kecepatan": 28
+  },
+  {
+    "latitude": -7.22198,
+    "longitude": 112.73248,
+    "Penumpang": 34,
+    "Wanita": 31,
+    "Pria": 3,
+    "Suhu": 33,
+    "Baterai": 29,
+    "Kecepatan": 97
+  },
+  {
+    "latitude": -7.22225,
+    "longitude": 112.73245,
+    "Penumpang": 9,
+    "Wanita": 0,
+    "Pria": 9,
+    "Suhu": 20,
+    "Baterai": 95,
+    "Kecepatan": 16
+  },
+  {
+    "latitude": -7.22259,
+    "longitude": 112.73239,
+    "Penumpang": 25,
+    "Wanita": 16,
+    "Pria": 9,
+    "Suhu": 25,
+    "Baterai": 48,
+    "Kecepatan": 18
+  },
+  {
+    "latitude": -7.22296,
+    "longitude": 112.73234,
+    "Penumpang": 8,
+    "Wanita": 8,
+    "Pria": 0,
+    "Suhu": 20,
+    "Baterai": 56,
+    "Kecepatan": 74
+  },
+  {
+    "latitude": -7.22357,
+    "longitude": 112.73227,
+    "Penumpang": 39,
+    "Wanita": 5,
+    "Pria": 34,
+    "Suhu": 25,
+    "Baterai": 39,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.22376,
+    "longitude": 112.73225,
+    "Penumpang": 47,
+    "Wanita": 28,
+    "Pria": 19,
+    "Suhu": 26,
+    "Baterai": 41,
+    "Kecepatan": 41
+  },
+  {
+    "latitude": -7.22463,
+    "longitude": 112.73204,
+    "Penumpang": 34,
+    "Wanita": 21,
+    "Pria": 13,
+    "Suhu": 28,
+    "Baterai": 53,
+    "Kecepatan": 52
+  },
+  {
+    "latitude": -7.22504,
+    "longitude": 112.7319,
+    "Penumpang": 54,
+    "Wanita": 4,
+    "Pria": 50,
+    "Suhu": 31,
+    "Baterai": 78,
+    "Kecepatan": 31
+  },
+  {
+    "latitude": -7.22517,
+    "longitude": 112.73186,
+    "Penumpang": 44,
+    "Wanita": 6,
+    "Pria": 38,
+    "Suhu": 25,
+    "Baterai": 19,
+    "Kecepatan": 25
+  },
+  {
+    "latitude": -7.22605,
+    "longitude": 112.73145,
+    "Penumpang": 22,
+    "Wanita": 15,
+    "Pria": 7,
+    "Suhu": 30,
+    "Baterai": 56,
+    "Kecepatan": 49
+  },
+  {
+    "latitude": -7.22624,
+    "longitude": 112.73137,
+    "Penumpang": 49,
+    "Wanita": 40,
+    "Pria": 9,
+    "Suhu": 24,
+    "Baterai": 55,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.22724,
+    "longitude": 112.73091,
+    "Penumpang": 58,
+    "Wanita": 44,
+    "Pria": 14,
+    "Suhu": 23,
+    "Baterai": 51,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.229,
+    "longitude": 112.73009,
+    "Penumpang": 13,
+    "Wanita": 4,
+    "Pria": 9,
+    "Suhu": 30,
+    "Baterai": 59,
+    "Kecepatan": 59
+  },
+  {
+    "latitude": -7.22966,
+    "longitude": 112.72978,
+    "Penumpang": 3,
+    "Wanita": 3,
+    "Pria": 0,
+    "Suhu": 31,
+    "Baterai": 74,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.22996,
+    "longitude": 112.72965,
+    "Penumpang": 45,
+    "Wanita": 32,
+    "Pria": 13,
+    "Suhu": 29,
+    "Baterai": 81,
+    "Kecepatan": 42
+  },
+  {
+    "latitude": -7.23121,
+    "longitude": 112.72896,
+    "Penumpang": 12,
+    "Wanita": 0,
+    "Pria": 12,
+    "Suhu": 20,
+    "Baterai": 57,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.23192,
+    "longitude": 112.72855,
+    "Penumpang": 43,
+    "Wanita": 23,
+    "Pria": 20,
+    "Suhu": 27,
+    "Baterai": 38,
+    "Kecepatan": 7
+  },
+  {
+    "latitude": -7.23205,
+    "longitude": 112.72852,
+    "Penumpang": 25,
+    "Wanita": 3,
+    "Pria": 22,
+    "Suhu": 29,
+    "Baterai": 16,
+    "Kecepatan": 27
+  },
+  {
+    "latitude": -7.23217,
+    "longitude": 112.7285,
+    "Penumpang": 46,
+    "Wanita": 33,
+    "Pria": 13,
+    "Suhu": 34,
+    "Baterai": 10,
+    "Kecepatan": 48
+  },
+  {
+    "latitude": -7.23229,
+    "longitude": 112.72853,
+    "Penumpang": 45,
+    "Wanita": 3,
+    "Pria": 42,
+    "Suhu": 30,
+    "Baterai": 23,
+    "Kecepatan": 42
+  },
+  {
+    "latitude": -7.2324,
+    "longitude": 112.72857,
+    "Penumpang": 48,
+    "Wanita": 12,
+    "Pria": 36,
+    "Suhu": 31,
+    "Baterai": 72,
+    "Kecepatan": 59
+  },
+  {
+    "latitude": -7.23245,
+    "longitude": 112.7286,
+    "Penumpang": 54,
+    "Wanita": 38,
+    "Pria": 16,
+    "Suhu": 25,
+    "Baterai": 27,
+    "Kecepatan": 17
+  },
+  {
+    "latitude": -7.23253,
+    "longitude": 112.72866,
+    "Penumpang": 3,
+    "Wanita": 0,
+    "Pria": 3,
+    "Suhu": 23,
+    "Baterai": 64,
+    "Kecepatan": 7
+  },
+  {
+    "latitude": -7.23264,
+    "longitude": 112.72874,
+    "Penumpang": 20,
+    "Wanita": 0,
+    "Pria": 20,
+    "Suhu": 26,
+    "Baterai": 91,
+    "Kecepatan": 96
+  },
+  {
+    "latitude": -7.23267,
+    "longitude": 112.72878,
+    "Penumpang": 49,
+    "Wanita": 33,
+    "Pria": 16,
+    "Suhu": 26,
+    "Baterai": 11,
+    "Kecepatan": 57
+  },
+  {
+    "latitude": -7.23277,
+    "longitude": 112.7289,
+    "Penumpang": 15,
+    "Wanita": 14,
+    "Pria": 1,
+    "Suhu": 23,
+    "Baterai": 69,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.23311,
+    "longitude": 112.72928,
+    "Penumpang": 52,
+    "Wanita": 14,
+    "Pria": 38,
+    "Suhu": 28,
+    "Baterai": 69,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.23334,
+    "longitude": 112.72957,
+    "Penumpang": 33,
+    "Wanita": 11,
+    "Pria": 22,
+    "Suhu": 20,
+    "Baterai": 79,
+    "Kecepatan": 40
+  },
+  {
+    "latitude": -7.23342,
+    "longitude": 112.72967,
+    "Penumpang": 22,
+    "Wanita": 14,
+    "Pria": 8,
+    "Suhu": 20,
+    "Baterai": 10,
+    "Kecepatan": 42
+  },
+  {
+    "latitude": -7.23348,
+    "longitude": 112.72974,
+    "Penumpang": 25,
+    "Wanita": 0,
+    "Pria": 25,
+    "Suhu": 24,
+    "Baterai": 24,
+    "Kecepatan": 28
+  },
+  {
+    "latitude": -7.23363,
+    "longitude": 112.72991,
+    "Penumpang": 47,
+    "Wanita": 36,
+    "Pria": 11,
+    "Suhu": 21,
+    "Baterai": 11,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.23407,
+    "longitude": 112.73042,
+    "Penumpang": 33,
+    "Wanita": 4,
+    "Pria": 29,
+    "Suhu": 30,
+    "Baterai": 13,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.2343,
+    "longitude": 112.73071,
+    "Penumpang": 16,
+    "Wanita": 16,
+    "Pria": 0,
+    "Suhu": 32,
+    "Baterai": 19,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.23438,
+    "longitude": 112.73082,
+    "Penumpang": 45,
+    "Wanita": 16,
+    "Pria": 29,
+    "Suhu": 34,
+    "Baterai": 79,
+    "Kecepatan": 75
+  },
+  {
+    "latitude": -7.23472,
+    "longitude": 112.73217,
+    "Penumpang": 50,
+    "Wanita": 39,
+    "Pria": 11,
+    "Suhu": 24,
+    "Baterai": 92,
+    "Kecepatan": 62
+  },
+  {
+    "latitude": -7.23476,
+    "longitude": 112.73241,
+    "Penumpang": 41,
+    "Wanita": 12,
+    "Pria": 29,
+    "Suhu": 27,
+    "Baterai": 56,
+    "Kecepatan": 17
+  },
+  {
+    "latitude": -7.23484,
+    "longitude": 112.73274,
+    "Penumpang": 36,
+    "Wanita": 6,
+    "Pria": 30,
+    "Suhu": 33,
+    "Baterai": 42,
+    "Kecepatan": 80
+  },
+  {
+    "latitude": -7.23495,
+    "longitude": 112.73315,
+    "Penumpang": 22,
+    "Wanita": 15,
+    "Pria": 7,
+    "Suhu": 21,
+    "Baterai": 66,
+    "Kecepatan": 41
+  },
+  {
+    "latitude": -7.23498,
+    "longitude": 112.73327,
+    "Penumpang": 54,
+    "Wanita": 2,
+    "Pria": 52,
+    "Suhu": 22,
+    "Baterai": 54,
+    "Kecepatan": 78
+  },
+  {
+    "latitude": -7.23502,
+    "longitude": 112.73343,
+    "Penumpang": 36,
+    "Wanita": 27,
+    "Pria": 9,
+    "Suhu": 29,
+    "Baterai": 100,
+    "Kecepatan": 80
+  },
+  {
+    "latitude": -7.23517,
+    "longitude": 112.73384,
+    "Penumpang": 54,
+    "Wanita": 27,
+    "Pria": 27,
+    "Suhu": 20,
+    "Baterai": 68,
+    "Kecepatan": 94
+  },
+  {
+    "latitude": -7.23521,
+    "longitude": 112.73396,
+    "Penumpang": 43,
+    "Wanita": 0,
+    "Pria": 43,
+    "Suhu": 26,
+    "Baterai": 86,
+    "Kecepatan": 28
+  },
+  {
+    "latitude": -7.23544,
+    "longitude": 112.7346,
+    "Penumpang": 52,
+    "Wanita": 18,
+    "Pria": 34,
+    "Suhu": 23,
+    "Baterai": 49,
+    "Kecepatan": 88
+  },
+  {
+    "latitude": -7.23558,
+    "longitude": 112.73496,
+    "Penumpang": 6,
+    "Wanita": 3,
+    "Pria": 3,
+    "Suhu": 21,
+    "Baterai": 49,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.23565,
+    "longitude": 112.73514,
+    "Penumpang": 22,
+    "Wanita": 15,
+    "Pria": 7,
+    "Suhu": 35,
+    "Baterai": 66,
+    "Kecepatan": 16
+  },
+  {
+    "latitude": -7.23567,
+    "longitude": 112.73521,
+    "Penumpang": 42,
+    "Wanita": 1,
+    "Pria": 41,
+    "Suhu": 20,
+    "Baterai": 61,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.23576,
+    "longitude": 112.73544,
+    "Penumpang": 6,
+    "Wanita": 1,
+    "Pria": 5,
+    "Suhu": 26,
+    "Baterai": 89,
+    "Kecepatan": 37
+  },
+  {
+    "latitude": -7.23584,
+    "longitude": 112.73564,
+    "Penumpang": 35,
+    "Wanita": 14,
+    "Pria": 21,
+    "Suhu": 23,
+    "Baterai": 55,
+    "Kecepatan": 77
+  },
+  {
+    "latitude": -7.23592,
+    "longitude": 112.73586,
+    "Penumpang": 21,
+    "Wanita": 11,
+    "Pria": 10,
+    "Suhu": 22,
+    "Baterai": 79,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.236,
+    "longitude": 112.73608,
+    "Penumpang": 7,
+    "Wanita": 6,
+    "Pria": 1,
+    "Suhu": 21,
+    "Baterai": 83,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.23609,
+    "longitude": 112.73631,
+    "Penumpang": 33,
+    "Wanita": 25,
+    "Pria": 8,
+    "Suhu": 27,
+    "Baterai": 90,
+    "Kecepatan": 37
+  },
+  {
+    "latitude": -7.23667,
+    "longitude": 112.7361,
+    "Penumpang": 35,
+    "Wanita": 30,
+    "Pria": 5,
+    "Suhu": 26,
+    "Baterai": 12,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.23688,
+    "longitude": 112.73603,
+    "Penumpang": 28,
+    "Wanita": 12,
+    "Pria": 16,
+    "Suhu": 23,
+    "Baterai": 77,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.23794,
+    "longitude": 112.7357,
+    "Penumpang": 42,
+    "Wanita": 24,
+    "Pria": 18,
+    "Suhu": 34,
+    "Baterai": 41,
+    "Kecepatan": 89
+  },
+  {
+    "latitude": -7.23814,
+    "longitude": 112.73645,
+    "Penumpang": 49,
+    "Wanita": 14,
+    "Pria": 35,
+    "Suhu": 29,
+    "Baterai": 62,
+    "Kecepatan": 74
+  },
+  {
+    "latitude": -7.23826,
+    "longitude": 112.73684,
+    "Penumpang": 40,
+    "Wanita": 9,
+    "Pria": 31,
+    "Suhu": 25,
+    "Baterai": 40,
+    "Kecepatan": 17
+  },
+  {
+    "latitude": -7.23833,
+    "longitude": 112.73703,
+    "Penumpang": 7,
+    "Wanita": 0,
+    "Pria": 7,
+    "Suhu": 25,
+    "Baterai": 11,
+    "Kecepatan": 44
+  },
+  {
+    "latitude": -7.23838,
+    "longitude": 112.73713,
+    "Penumpang": 54,
+    "Wanita": 39,
+    "Pria": 15,
+    "Suhu": 24,
+    "Baterai": 55,
+    "Kecepatan": 99
+  },
+  {
+    "latitude": -7.2385,
+    "longitude": 112.73731,
+    "Penumpang": 50,
+    "Wanita": 50,
+    "Pria": 0,
+    "Suhu": 24,
+    "Baterai": 30,
+    "Kecepatan": 97
+  },
+  {
+    "latitude": -7.23862,
+    "longitude": 112.73732,
+    "Penumpang": 56,
+    "Wanita": 49,
+    "Pria": 7,
+    "Suhu": 22,
+    "Baterai": 60,
+    "Kecepatan": 100
+  },
+  {
+    "latitude": -7.23884,
+    "longitude": 112.73735,
+    "Penumpang": 19,
+    "Wanita": 5,
+    "Pria": 14,
+    "Suhu": 21,
+    "Baterai": 14,
+    "Kecepatan": 47
+  },
+  {
+    "latitude": -7.23917,
+    "longitude": 112.73739,
+    "Penumpang": 6,
+    "Wanita": 1,
+    "Pria": 5,
+    "Suhu": 30,
+    "Baterai": 44,
+    "Kecepatan": 99
+  },
+  {
+    "latitude": -7.23924,
+    "longitude": 112.7374,
+    "Penumpang": 35,
+    "Wanita": 19,
+    "Pria": 16,
+    "Suhu": 29,
+    "Baterai": 66,
+    "Kecepatan": 13
+  },
+  {
+    "latitude": -7.23979,
+    "longitude": 112.73749,
+    "Penumpang": 50,
+    "Wanita": 28,
+    "Pria": 22,
+    "Suhu": 32,
+    "Baterai": 12,
+    "Kecepatan": 30
+  },
+  {
+    "latitude": -7.24031,
+    "longitude": 112.73755,
+    "Penumpang": 48,
+    "Wanita": 37,
+    "Pria": 11,
+    "Suhu": 29,
+    "Baterai": 87,
+    "Kecepatan": 87
+  },
+  {
+    "latitude": -7.24048,
+    "longitude": 112.73757,
+    "Penumpang": 49,
+    "Wanita": 0,
+    "Pria": 49,
+    "Suhu": 21,
+    "Baterai": 54,
+    "Kecepatan": 8
+  },
+  {
+    "latitude": -7.24064,
+    "longitude": 112.73758,
+    "Penumpang": 49,
+    "Wanita": 29,
+    "Pria": 20,
+    "Suhu": 27,
+    "Baterai": 27,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.24099,
+    "longitude": 112.73764,
+    "Penumpang": 39,
+    "Wanita": 23,
+    "Pria": 16,
+    "Suhu": 32,
+    "Baterai": 18,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.24247,
+    "longitude": 112.73793,
+    "Penumpang": 40,
+    "Wanita": 26,
+    "Pria": 14,
+    "Suhu": 34,
+    "Baterai": 69,
+    "Kecepatan": 79
+  },
+  {
+    "latitude": -7.24294,
+    "longitude": 112.73805,
+    "Penumpang": 30,
+    "Wanita": 17,
+    "Pria": 13,
+    "Suhu": 30,
+    "Baterai": 47,
+    "Kecepatan": 20
+  },
+  {
+    "latitude": -7.24318,
+    "longitude": 112.73811,
+    "Penumpang": 44,
+    "Wanita": 22,
+    "Pria": 22,
+    "Suhu": 26,
+    "Baterai": 33,
+    "Kecepatan": 34
+  },
+  {
+    "latitude": -7.24328,
+    "longitude": 112.73814,
+    "Penumpang": 41,
+    "Wanita": 39,
+    "Pria": 2,
+    "Suhu": 35,
+    "Baterai": 12,
+    "Kecepatan": 1
+  },
+  {
+    "latitude": -7.2435,
+    "longitude": 112.73819,
+    "Penumpang": 28,
+    "Wanita": 4,
+    "Pria": 24,
+    "Suhu": 26,
+    "Baterai": 26,
+    "Kecepatan": 69
+  },
+  {
+    "latitude": -7.24372,
+    "longitude": 112.73823,
+    "Penumpang": 29,
+    "Wanita": 12,
+    "Pria": 17,
+    "Suhu": 28,
+    "Baterai": 54,
+    "Kecepatan": 54
+  },
+  {
+    "latitude": -7.24401,
+    "longitude": 112.73827,
+    "Penumpang": 26,
+    "Wanita": 16,
+    "Pria": 10,
+    "Suhu": 20,
+    "Baterai": 71,
+    "Kecepatan": 93
+  },
+  {
+    "latitude": -7.24429,
+    "longitude": 112.73832,
+    "Penumpang": 48,
+    "Wanita": 29,
+    "Pria": 19,
+    "Suhu": 25,
+    "Baterai": 90,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.24453,
+    "longitude": 112.73835,
+    "Penumpang": 23,
+    "Wanita": 23,
+    "Pria": 0,
+    "Suhu": 28,
+    "Baterai": 58,
+    "Kecepatan": 19
+  },
+  {
+    "latitude": -7.2446,
+    "longitude": 112.73836,
+    "Penumpang": 52,
+    "Wanita": 27,
+    "Pria": 25,
+    "Suhu": 33,
+    "Baterai": 55,
+    "Kecepatan": 8
+  },
+  {
+    "latitude": -7.24468,
+    "longitude": 112.73837,
+    "Penumpang": 40,
+    "Wanita": 14,
+    "Pria": 26,
+    "Suhu": 28,
+    "Baterai": 63,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.24474,
+    "longitude": 112.73838,
+    "Penumpang": 14,
+    "Wanita": 13,
+    "Pria": 1,
+    "Suhu": 31,
+    "Baterai": 12,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.24493,
+    "longitude": 112.73838,
+    "Penumpang": 10,
+    "Wanita": 7,
+    "Pria": 3,
+    "Suhu": 32,
+    "Baterai": 65,
+    "Kecepatan": 33
+  },
+  {
+    "latitude": -7.24512,
+    "longitude": 112.7384,
+    "Penumpang": 53,
+    "Wanita": 42,
+    "Pria": 11,
+    "Suhu": 34,
+    "Baterai": 60,
+    "Kecepatan": 89
+  },
+  {
+    "latitude": -7.24538,
+    "longitude": 112.73845,
+    "Penumpang": 54,
+    "Wanita": 33,
+    "Pria": 21,
+    "Suhu": 25,
+    "Baterai": 29,
+    "Kecepatan": 98
+  },
+  {
+    "latitude": -7.24542,
+    "longitude": 112.73847,
+    "Penumpang": 29,
+    "Wanita": 4,
+    "Pria": 25,
+    "Suhu": 31,
+    "Baterai": 62,
+    "Kecepatan": 2
+  },
+  {
+    "latitude": -7.24572,
+    "longitude": 112.73853,
+    "Penumpang": 14,
+    "Wanita": 4,
+    "Pria": 10,
+    "Suhu": 23,
+    "Baterai": 95,
+    "Kecepatan": 2
+  },
+  {
+    "latitude": -7.24578,
+    "longitude": 112.73857,
+    "Penumpang": 48,
+    "Wanita": 15,
+    "Pria": 33,
+    "Suhu": 30,
+    "Baterai": 72,
+    "Kecepatan": 61
+  },
+  {
+    "latitude": -7.2464,
+    "longitude": 112.73867,
+    "Penumpang": 28,
+    "Wanita": 24,
+    "Pria": 4,
+    "Suhu": 23,
+    "Baterai": 18,
+    "Kecepatan": 47
+  },
+  {
+    "latitude": -7.24655,
+    "longitude": 112.73869,
+    "Penumpang": 3,
+    "Wanita": 2,
+    "Pria": 1,
+    "Suhu": 23,
+    "Baterai": 100,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.24667,
+    "longitude": 112.73862,
+    "Penumpang": 46,
+    "Wanita": 31,
+    "Pria": 15,
+    "Suhu": 26,
+    "Baterai": 76,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.24714,
+    "longitude": 112.73861,
+    "Penumpang": 17,
+    "Wanita": 17,
+    "Pria": 0,
+    "Suhu": 33,
+    "Baterai": 100,
+    "Kecepatan": 5
+  },
+  {
+    "latitude": -7.24723,
+    "longitude": 112.73861,
+    "Penumpang": 4,
+    "Wanita": 2,
+    "Pria": 2,
+    "Suhu": 21,
+    "Baterai": 18,
+    "Kecepatan": 19
+  },
+  {
+    "latitude": -7.24736,
+    "longitude": 112.73861,
+    "Penumpang": 4,
+    "Wanita": 1,
+    "Pria": 3,
+    "Suhu": 20,
+    "Baterai": 97,
+    "Kecepatan": 94
+  },
+  {
+    "latitude": -7.24748,
+    "longitude": 112.73858,
+    "Penumpang": 48,
+    "Wanita": 41,
+    "Pria": 7,
+    "Suhu": 28,
+    "Baterai": 22,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.24788,
+    "longitude": 112.73843,
+    "Penumpang": 2,
+    "Wanita": 0,
+    "Pria": 2,
+    "Suhu": 33,
+    "Baterai": 81,
+    "Kecepatan": 49
+  },
+  {
+    "latitude": -7.24806,
+    "longitude": 112.73838,
+    "Penumpang": 18,
+    "Wanita": 12,
+    "Pria": 6,
+    "Suhu": 23,
+    "Baterai": 17,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.24825,
+    "longitude": 112.73832,
+    "Penumpang": 50,
+    "Wanita": 4,
+    "Pria": 46,
+    "Suhu": 25,
+    "Baterai": 63,
+    "Kecepatan": 75
+  },
+  {
+    "latitude": -7.2484,
+    "longitude": 112.73827,
+    "Penumpang": 0,
+    "Wanita": 0,
+    "Pria": 0,
+    "Suhu": 29,
+    "Baterai": 53,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.24874,
+    "longitude": 112.73812,
+    "Penumpang": 58,
+    "Wanita": 4,
+    "Pria": 54,
+    "Suhu": 23,
+    "Baterai": 95,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.24896,
+    "longitude": 112.738,
+    "Penumpang": 3,
+    "Wanita": 1,
+    "Pria": 2,
+    "Suhu": 23,
+    "Baterai": 75,
+    "Kecepatan": 8
+  },
+  {
+    "latitude": -7.24907,
+    "longitude": 112.73793,
+    "Penumpang": 31,
+    "Wanita": 9,
+    "Pria": 22,
+    "Suhu": 35,
+    "Baterai": 36,
+    "Kecepatan": 77
+  },
+  {
+    "latitude": -7.24944,
+    "longitude": 112.73772,
+    "Penumpang": 9,
+    "Wanita": 4,
+    "Pria": 5,
+    "Suhu": 21,
+    "Baterai": 86,
+    "Kecepatan": 52
+  },
+  {
+    "latitude": -7.24949,
+    "longitude": 112.73769,
+    "Penumpang": 2,
+    "Wanita": 1,
+    "Pria": 1,
+    "Suhu": 27,
+    "Baterai": 50,
+    "Kecepatan": 51
+  },
+  {
+    "latitude": -7.24953,
+    "longitude": 112.73766,
+    "Penumpang": 9,
+    "Wanita": 3,
+    "Pria": 6,
+    "Suhu": 22,
+    "Baterai": 61,
+    "Kecepatan": 89
+  },
+  {
+    "latitude": -7.25017,
+    "longitude": 112.73725,
+    "Penumpang": 40,
+    "Wanita": 30,
+    "Pria": 10,
+    "Suhu": 24,
+    "Baterai": 70,
+    "Kecepatan": 34
+  },
+  {
+    "latitude": -7.25024,
+    "longitude": 112.73721,
+    "Penumpang": 29,
+    "Wanita": 28,
+    "Pria": 1,
+    "Suhu": 22,
+    "Baterai": 39,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.25062,
+    "longitude": 112.73696,
+    "Penumpang": 42,
+    "Wanita": 31,
+    "Pria": 11,
+    "Suhu": 23,
+    "Baterai": 66,
+    "Kecepatan": 57
+  },
+  {
+    "latitude": -7.25096,
+    "longitude": 112.73676,
+    "Penumpang": 60,
+    "Wanita": 9,
+    "Pria": 51,
+    "Suhu": 34,
+    "Baterai": 93,
+    "Kecepatan": 44
+  },
+  {
+    "latitude": -7.25098,
+    "longitude": 112.73676,
+    "Penumpang": 17,
+    "Wanita": 14,
+    "Pria": 3,
+    "Suhu": 34,
+    "Baterai": 75,
+    "Kecepatan": 61
+  },
+  {
+    "latitude": -7.25143,
+    "longitude": 112.7367,
+    "Penumpang": 31,
+    "Wanita": 0,
+    "Pria": 31,
+    "Suhu": 21,
+    "Baterai": 69,
+    "Kecepatan": 78
+  },
+  {
+    "latitude": -7.25179,
+    "longitude": 112.73671,
+    "Penumpang": 25,
+    "Wanita": 4,
+    "Pria": 21,
+    "Suhu": 20,
+    "Baterai": 19,
+    "Kecepatan": 35
+  },
+  {
+    "latitude": -7.25198,
+    "longitude": 112.73673,
+    "Penumpang": 50,
+    "Wanita": 6,
+    "Pria": 44,
+    "Suhu": 35,
+    "Baterai": 12,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.25251,
+    "longitude": 112.73675,
+    "Penumpang": 15,
+    "Wanita": 8,
+    "Pria": 7,
+    "Suhu": 28,
+    "Baterai": 33,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.25258,
+    "longitude": 112.73678,
+    "Penumpang": 12,
+    "Wanita": 11,
+    "Pria": 1,
+    "Suhu": 31,
+    "Baterai": 58,
+    "Kecepatan": 30
+  },
+  {
+    "latitude": -7.25318,
+    "longitude": 112.73675,
+    "Penumpang": 25,
+    "Wanita": 5,
+    "Pria": 20,
+    "Suhu": 23,
+    "Baterai": 36,
+    "Kecepatan": 72
+  },
+  {
+    "latitude": -7.25396,
+    "longitude": 112.73675,
+    "Penumpang": 28,
+    "Wanita": 3,
+    "Pria": 25,
+    "Suhu": 23,
+    "Baterai": 41,
+    "Kecepatan": 24
+  },
+  {
+    "latitude": -7.25423,
+    "longitude": 112.73675,
+    "Penumpang": 28,
+    "Wanita": 17,
+    "Pria": 11,
+    "Suhu": 26,
+    "Baterai": 90,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.25456,
+    "longitude": 112.73675,
+    "Penumpang": 24,
+    "Wanita": 8,
+    "Pria": 16,
+    "Suhu": 34,
+    "Baterai": 60,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.25461,
+    "longitude": 112.73675,
+    "Penumpang": 49,
+    "Wanita": 8,
+    "Pria": 41,
+    "Suhu": 28,
+    "Baterai": 33,
+    "Kecepatan": 55
+  },
+  {
+    "latitude": -7.25486,
+    "longitude": 112.73679,
+    "Penumpang": 19,
+    "Wanita": 3,
+    "Pria": 16,
+    "Suhu": 33,
+    "Baterai": 90,
+    "Kecepatan": 2
+  },
+  {
+    "latitude": -7.25502,
+    "longitude": 112.73681,
+    "Penumpang": 30,
+    "Wanita": 25,
+    "Pria": 5,
+    "Suhu": 32,
+    "Baterai": 52,
+    "Kecepatan": 97
+  },
+  {
+    "latitude": -7.25525,
+    "longitude": 112.73686,
+    "Penumpang": 39,
+    "Wanita": 22,
+    "Pria": 17,
+    "Suhu": 31,
+    "Baterai": 25,
+    "Kecepatan": 10
+  },
+  {
+    "latitude": -7.25534,
+    "longitude": 112.73687,
+    "Penumpang": 21,
+    "Wanita": 5,
+    "Pria": 16,
+    "Suhu": 23,
+    "Baterai": 10,
+    "Kecepatan": 57
+  },
+  {
+    "latitude": -7.25578,
+    "longitude": 112.73699,
+    "Penumpang": 9,
+    "Wanita": 5,
+    "Pria": 4,
+    "Suhu": 29,
+    "Baterai": 52,
+    "Kecepatan": 86
+  },
+  {
+    "latitude": -7.25588,
+    "longitude": 112.73703,
+    "Penumpang": 6,
+    "Wanita": 2,
+    "Pria": 4,
+    "Suhu": 25,
+    "Baterai": 77,
+    "Kecepatan": 64
+  },
+  {
+    "latitude": -7.25615,
+    "longitude": 112.73713,
+    "Penumpang": 46,
+    "Wanita": 20,
+    "Pria": 26,
+    "Suhu": 22,
+    "Baterai": 26,
+    "Kecepatan": 69
+  },
+  {
+    "latitude": -7.25623,
+    "longitude": 112.73717,
+    "Penumpang": 33,
+    "Wanita": 6,
+    "Pria": 27,
+    "Suhu": 30,
+    "Baterai": 63,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.25631,
+    "longitude": 112.73721,
+    "Penumpang": 13,
+    "Wanita": 10,
+    "Pria": 3,
+    "Suhu": 21,
+    "Baterai": 92,
+    "Kecepatan": 25
+  },
+  {
+    "latitude": -7.25651,
+    "longitude": 112.73732,
+    "Penumpang": 54,
+    "Wanita": 37,
+    "Pria": 17,
+    "Suhu": 22,
+    "Baterai": 33,
+    "Kecepatan": 57
+  },
+  {
+    "latitude": -7.257,
+    "longitude": 112.73758,
+    "Penumpang": 26,
+    "Wanita": 14,
+    "Pria": 12,
+    "Suhu": 21,
+    "Baterai": 54,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.25763,
+    "longitude": 112.73789,
+    "Penumpang": 10,
+    "Wanita": 0,
+    "Pria": 10,
+    "Suhu": 24,
+    "Baterai": 86,
+    "Kecepatan": 99
+  },
+  {
+    "latitude": -7.25775,
+    "longitude": 112.73794,
+    "Penumpang": 54,
+    "Wanita": 21,
+    "Pria": 33,
+    "Suhu": 32,
+    "Baterai": 91,
+    "Kecepatan": 69
+  },
+  {
+    "latitude": -7.25867,
+    "longitude": 112.73843,
+    "Penumpang": 25,
+    "Wanita": 20,
+    "Pria": 5,
+    "Suhu": 23,
+    "Baterai": 19,
+    "Kecepatan": 65
+  },
+  {
+    "latitude": -7.25893,
+    "longitude": 112.73857,
+    "Penumpang": 46,
+    "Wanita": 39,
+    "Pria": 7,
+    "Suhu": 31,
+    "Baterai": 28,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.25916,
+    "longitude": 112.7387,
+    "Penumpang": 59,
+    "Wanita": 17,
+    "Pria": 42,
+    "Suhu": 35,
+    "Baterai": 81,
+    "Kecepatan": 96
+  },
+  {
+    "latitude": -7.25946,
+    "longitude": 112.73888,
+    "Penumpang": 22,
+    "Wanita": 5,
+    "Pria": 17,
+    "Suhu": 35,
+    "Baterai": 33,
+    "Kecepatan": 51
+  },
+  {
+    "latitude": -7.25997,
+    "longitude": 112.7392,
+    "Penumpang": 26,
+    "Wanita": 16,
+    "Pria": 10,
+    "Suhu": 26,
+    "Baterai": 73,
+    "Kecepatan": 48
+  },
+  {
+    "latitude": -7.26007,
+    "longitude": 112.73928,
+    "Penumpang": 48,
+    "Wanita": 18,
+    "Pria": 30,
+    "Suhu": 35,
+    "Baterai": 38,
+    "Kecepatan": 17
+  },
+  {
+    "latitude": -7.26019,
+    "longitude": 112.73934,
+    "Penumpang": 28,
+    "Wanita": 1,
+    "Pria": 27,
+    "Suhu": 30,
+    "Baterai": 96,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.26091,
+    "longitude": 112.73979,
+    "Penumpang": 42,
+    "Wanita": 23,
+    "Pria": 19,
+    "Suhu": 21,
+    "Baterai": 65,
+    "Kecepatan": 24
+  },
+  {
+    "latitude": -7.26142,
+    "longitude": 112.74011,
+    "Penumpang": 39,
+    "Wanita": 28,
+    "Pria": 11,
+    "Suhu": 30,
+    "Baterai": 31,
+    "Kecepatan": 70
+  },
+  {
+    "latitude": -7.26237,
+    "longitude": 112.74067,
+    "Penumpang": 30,
+    "Wanita": 6,
+    "Pria": 24,
+    "Suhu": 27,
+    "Baterai": 79,
+    "Kecepatan": 55
+  },
+  {
+    "latitude": -7.26253,
+    "longitude": 112.7408,
+    "Penumpang": 58,
+    "Wanita": 23,
+    "Pria": 35,
+    "Suhu": 23,
+    "Baterai": 69,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.26264,
+    "longitude": 112.74093,
+    "Penumpang": 29,
+    "Wanita": 28,
+    "Pria": 1,
+    "Suhu": 28,
+    "Baterai": 18,
+    "Kecepatan": 31
+  },
+  {
+    "latitude": -7.26291,
+    "longitude": 112.74145,
+    "Penumpang": 31,
+    "Wanita": 28,
+    "Pria": 3,
+    "Suhu": 22,
+    "Baterai": 63,
+    "Kecepatan": 2
+  },
+  {
+    "latitude": -7.26298,
+    "longitude": 112.74168,
+    "Penumpang": 20,
+    "Wanita": 7,
+    "Pria": 13,
+    "Suhu": 28,
+    "Baterai": 69,
+    "Kecepatan": 35
+  },
+  {
+    "latitude": -7.26299,
+    "longitude": 112.7417,
+    "Penumpang": 34,
+    "Wanita": 8,
+    "Pria": 26,
+    "Suhu": 26,
+    "Baterai": 13,
+    "Kecepatan": 75
+  },
+  {
+    "latitude": -7.26304,
+    "longitude": 112.74185,
+    "Penumpang": 42,
+    "Wanita": 36,
+    "Pria": 6,
+    "Suhu": 23,
+    "Baterai": 61,
+    "Kecepatan": 99
+  },
+  {
+    "latitude": -7.26313,
+    "longitude": 112.74213,
+    "Penumpang": 7,
+    "Wanita": 7,
+    "Pria": 0,
+    "Suhu": 32,
+    "Baterai": 81,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.26329,
+    "longitude": 112.74252,
+    "Penumpang": 0,
+    "Wanita": 0,
+    "Pria": 0,
+    "Suhu": 31,
+    "Baterai": 67,
+    "Kecepatan": 43
+  },
+  {
+    "latitude": -7.2634,
+    "longitude": 112.74278,
+    "Penumpang": 7,
+    "Wanita": 3,
+    "Pria": 4,
+    "Suhu": 29,
+    "Baterai": 58,
+    "Kecepatan": 1
+  },
+  {
+    "latitude": -7.2636,
+    "longitude": 112.74325,
+    "Penumpang": 47,
+    "Wanita": 23,
+    "Pria": 24,
+    "Suhu": 20,
+    "Baterai": 77,
+    "Kecepatan": 69
+  },
+  {
+    "latitude": -7.26372,
+    "longitude": 112.74356,
+    "Penumpang": 23,
+    "Wanita": 5,
+    "Pria": 18,
+    "Suhu": 20,
+    "Baterai": 67,
+    "Kecepatan": 30
+  },
+  {
+    "latitude": -7.26394,
+    "longitude": 112.7441,
+    "Penumpang": 15,
+    "Wanita": 1,
+    "Pria": 14,
+    "Suhu": 33,
+    "Baterai": 49,
+    "Kecepatan": 75
+  },
+  {
+    "latitude": -7.26409,
+    "longitude": 112.7445,
+    "Penumpang": 5,
+    "Wanita": 3,
+    "Pria": 2,
+    "Suhu": 24,
+    "Baterai": 12,
+    "Kecepatan": 100
+  },
+  {
+    "latitude": -7.26422,
+    "longitude": 112.74487,
+    "Penumpang": 27,
+    "Wanita": 27,
+    "Pria": 0,
+    "Suhu": 35,
+    "Baterai": 29,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.26431,
+    "longitude": 112.7451,
+    "Penumpang": 18,
+    "Wanita": 9,
+    "Pria": 9,
+    "Suhu": 21,
+    "Baterai": 62,
+    "Kecepatan": 35
+  },
+  {
+    "latitude": -7.26443,
+    "longitude": 112.74545,
+    "Penumpang": 8,
+    "Wanita": 5,
+    "Pria": 3,
+    "Suhu": 23,
+    "Baterai": 93,
+    "Kecepatan": 53
+  },
+  {
+    "latitude": -7.2646,
+    "longitude": 112.74556,
+    "Penumpang": 51,
+    "Wanita": 51,
+    "Pria": 0,
+    "Suhu": 21,
+    "Baterai": 68,
+    "Kecepatan": 15
+  },
+  {
+    "latitude": -7.2653,
+    "longitude": 112.74531,
+    "Penumpang": 8,
+    "Wanita": 4,
+    "Pria": 4,
+    "Suhu": 25,
+    "Baterai": 15,
+    "Kecepatan": 98
+  },
+  {
+    "latitude": -7.26536,
+    "longitude": 112.74521,
+    "Penumpang": 6,
+    "Wanita": 6,
+    "Pria": 0,
+    "Suhu": 28,
+    "Baterai": 16,
+    "Kecepatan": 99
+  },
+  {
+    "latitude": -7.26551,
+    "longitude": 112.74516,
+    "Penumpang": 20,
+    "Wanita": 14,
+    "Pria": 6,
+    "Suhu": 21,
+    "Baterai": 25,
+    "Kecepatan": 54
+  },
+  {
+    "latitude": -7.26671,
+    "longitude": 112.7447,
+    "Penumpang": 45,
+    "Wanita": 20,
+    "Pria": 25,
+    "Suhu": 33,
+    "Baterai": 41,
+    "Kecepatan": 91
+  },
+  {
+    "latitude": -7.26715,
+    "longitude": 112.74457,
+    "Penumpang": 7,
+    "Wanita": 0,
+    "Pria": 7,
+    "Suhu": 35,
+    "Baterai": 70,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.26727,
+    "longitude": 112.74452,
+    "Penumpang": 32,
+    "Wanita": 19,
+    "Pria": 13,
+    "Suhu": 25,
+    "Baterai": 23,
+    "Kecepatan": 11
+  },
+  {
+    "latitude": -7.26747,
+    "longitude": 112.74444,
+    "Penumpang": 8,
+    "Wanita": 7,
+    "Pria": 1,
+    "Suhu": 27,
+    "Baterai": 59,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.26759,
+    "longitude": 112.74432,
+    "Penumpang": 18,
+    "Wanita": 2,
+    "Pria": 16,
+    "Suhu": 28,
+    "Baterai": 79,
+    "Kecepatan": 86
+  },
+  {
+    "latitude": -7.26771,
+    "longitude": 112.74424,
+    "Penumpang": 56,
+    "Wanita": 52,
+    "Pria": 4,
+    "Suhu": 25,
+    "Baterai": 16,
+    "Kecepatan": 57
+  },
+  {
+    "latitude": -7.26779,
+    "longitude": 112.7442,
+    "Penumpang": 27,
+    "Wanita": 16,
+    "Pria": 11,
+    "Suhu": 34,
+    "Baterai": 58,
+    "Kecepatan": 45
+  },
+  {
+    "latitude": -7.2679,
+    "longitude": 112.74418,
+    "Penumpang": 47,
+    "Wanita": 20,
+    "Pria": 27,
+    "Suhu": 20,
+    "Baterai": 94,
+    "Kecepatan": 39
+  },
+  {
+    "latitude": -7.26804,
+    "longitude": 112.74418,
+    "Penumpang": 38,
+    "Wanita": 32,
+    "Pria": 6,
+    "Suhu": 30,
+    "Baterai": 30,
+    "Kecepatan": 47
+  },
+  {
+    "latitude": -7.26812,
+    "longitude": 112.7442,
+    "Penumpang": 27,
+    "Wanita": 9,
+    "Pria": 18,
+    "Suhu": 20,
+    "Baterai": 52,
+    "Kecepatan": 68
+  },
+  {
+    "latitude": -7.26825,
+    "longitude": 112.74415,
+    "Penumpang": 2,
+    "Wanita": 1,
+    "Pria": 1,
+    "Suhu": 31,
+    "Baterai": 35,
+    "Kecepatan": 11
+  },
+  {
+    "latitude": -7.26885,
+    "longitude": 112.74392,
+    "Penumpang": 48,
+    "Wanita": 11,
+    "Pria": 37,
+    "Suhu": 20,
+    "Baterai": 91,
+    "Kecepatan": 58
+  },
+  {
+    "latitude": -7.27015,
+    "longitude": 112.74343,
+    "Penumpang": 37,
+    "Wanita": 2,
+    "Pria": 35,
+    "Suhu": 27,
+    "Baterai": 55,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.27026,
+    "longitude": 112.74344,
+    "Penumpang": 15,
+    "Wanita": 6,
+    "Pria": 9,
+    "Suhu": 27,
+    "Baterai": 51,
+    "Kecepatan": 32
+  },
+  {
+    "latitude": -7.27053,
+    "longitude": 112.74335,
+    "Penumpang": 59,
+    "Wanita": 27,
+    "Pria": 32,
+    "Suhu": 35,
+    "Baterai": 85,
+    "Kecepatan": 20
+  },
+  {
+    "latitude": -7.27155,
+    "longitude": 112.74297,
+    "Penumpang": 39,
+    "Wanita": 6,
+    "Pria": 33,
+    "Suhu": 27,
+    "Baterai": 39,
+    "Kecepatan": 57
+  },
+  {
+    "latitude": -7.27164,
+    "longitude": 112.74298,
+    "Penumpang": 50,
+    "Wanita": 37,
+    "Pria": 13,
+    "Suhu": 35,
+    "Baterai": 39,
+    "Kecepatan": 76
+  },
+  {
+    "latitude": -7.27185,
+    "longitude": 112.7429,
+    "Penumpang": 12,
+    "Wanita": 4,
+    "Pria": 8,
+    "Suhu": 20,
+    "Baterai": 12,
+    "Kecepatan": 4
+  },
+  {
+    "latitude": -7.27194,
+    "longitude": 112.74286,
+    "Penumpang": 37,
+    "Wanita": 15,
+    "Pria": 22,
+    "Suhu": 25,
+    "Baterai": 87,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.27259,
+    "longitude": 112.74266,
+    "Penumpang": 56,
+    "Wanita": 16,
+    "Pria": 40,
+    "Suhu": 29,
+    "Baterai": 28,
+    "Kecepatan": 16
+  },
+  {
+    "latitude": -7.27277,
+    "longitude": 112.74253,
+    "Penumpang": 9,
+    "Wanita": 8,
+    "Pria": 1,
+    "Suhu": 21,
+    "Baterai": 73,
+    "Kecepatan": 89
+  },
+  {
+    "latitude": -7.27295,
+    "longitude": 112.74245,
+    "Penumpang": 5,
+    "Wanita": 4,
+    "Pria": 1,
+    "Suhu": 28,
+    "Baterai": 10,
+    "Kecepatan": 93
+  },
+  {
+    "latitude": -7.27298,
+    "longitude": 112.74243,
+    "Penumpang": 35,
+    "Wanita": 20,
+    "Pria": 15,
+    "Suhu": 28,
+    "Baterai": 47,
+    "Kecepatan": 64
+  },
+  {
+    "latitude": -7.27338,
+    "longitude": 112.74229,
+    "Penumpang": 12,
+    "Wanita": 7,
+    "Pria": 5,
+    "Suhu": 23,
+    "Baterai": 63,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.27372,
+    "longitude": 112.74217,
+    "Penumpang": 35,
+    "Wanita": 6,
+    "Pria": 29,
+    "Suhu": 25,
+    "Baterai": 78,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.27421,
+    "longitude": 112.74201,
+    "Penumpang": 22,
+    "Wanita": 6,
+    "Pria": 16,
+    "Suhu": 26,
+    "Baterai": 32,
+    "Kecepatan": 84
+  },
+  {
+    "latitude": -7.27447,
+    "longitude": 112.74194,
+    "Penumpang": 59,
+    "Wanita": 36,
+    "Pria": 23,
+    "Suhu": 23,
+    "Baterai": 12,
+    "Kecepatan": 19
+  },
+  {
+    "latitude": -7.27508,
+    "longitude": 112.74179,
+    "Penumpang": 29,
+    "Wanita": 26,
+    "Pria": 3,
+    "Suhu": 31,
+    "Baterai": 98,
+    "Kecepatan": 94
+  },
+  {
+    "latitude": -7.27545,
+    "longitude": 112.74171,
+    "Penumpang": 45,
+    "Wanita": 3,
+    "Pria": 42,
+    "Suhu": 30,
+    "Baterai": 19,
+    "Kecepatan": 10
+  },
+  {
+    "latitude": -7.27551,
+    "longitude": 112.7417,
+    "Penumpang": 8,
+    "Wanita": 5,
+    "Pria": 3,
+    "Suhu": 32,
+    "Baterai": 97,
+    "Kecepatan": 3
+  },
+  {
+    "latitude": -7.27627,
+    "longitude": 112.74157,
+    "Penumpang": 16,
+    "Wanita": 4,
+    "Pria": 12,
+    "Suhu": 23,
+    "Baterai": 52,
+    "Kecepatan": 44
+  },
+  {
+    "latitude": -7.27673,
+    "longitude": 112.74148,
+    "Penumpang": 58,
+    "Wanita": 46,
+    "Pria": 12,
+    "Suhu": 30,
+    "Baterai": 83,
+    "Kecepatan": 79
+  },
+  {
+    "latitude": -7.27706,
+    "longitude": 112.74141,
+    "Penumpang": 58,
+    "Wanita": 27,
+    "Pria": 31,
+    "Suhu": 29,
+    "Baterai": 38,
+    "Kecepatan": 30
+  },
+  {
+    "latitude": -7.27734,
+    "longitude": 112.74135,
+    "Penumpang": 26,
+    "Wanita": 9,
+    "Pria": 17,
+    "Suhu": 27,
+    "Baterai": 10,
+    "Kecepatan": 47
+  },
+  {
+    "latitude": -7.27742,
+    "longitude": 112.74133,
+    "Penumpang": 16,
+    "Wanita": 6,
+    "Pria": 10,
+    "Suhu": 32,
+    "Baterai": 22,
+    "Kecepatan": 49
+  },
+  {
+    "latitude": -7.27762,
+    "longitude": 112.7413,
+    "Penumpang": 37,
+    "Wanita": 28,
+    "Pria": 9,
+    "Suhu": 29,
+    "Baterai": 46,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.27778,
+    "longitude": 112.74127,
+    "Penumpang": 11,
+    "Wanita": 0,
+    "Pria": 11,
+    "Suhu": 24,
+    "Baterai": 96,
+    "Kecepatan": 91
+  },
+  {
+    "latitude": -7.27802,
+    "longitude": 112.74124,
+    "Penumpang": 13,
+    "Wanita": 2,
+    "Pria": 11,
+    "Suhu": 35,
+    "Baterai": 19,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.27808,
+    "longitude": 112.74122,
+    "Penumpang": 23,
+    "Wanita": 4,
+    "Pria": 19,
+    "Suhu": 35,
+    "Baterai": 53,
+    "Kecepatan": 75
+  },
+  {
+    "latitude": -7.27864,
+    "longitude": 112.74113,
+    "Penumpang": 22,
+    "Wanita": 14,
+    "Pria": 8,
+    "Suhu": 35,
+    "Baterai": 90,
+    "Kecepatan": 89
+  },
+  {
+    "latitude": -7.27981,
+    "longitude": 112.7409,
+    "Penumpang": 40,
+    "Wanita": 26,
+    "Pria": 14,
+    "Suhu": 27,
+    "Baterai": 33,
+    "Kecepatan": 98
+  },
+  {
+    "latitude": -7.2804,
+    "longitude": 112.74078,
+    "Penumpang": 10,
+    "Wanita": 6,
+    "Pria": 4,
+    "Suhu": 34,
+    "Baterai": 88,
+    "Kecepatan": 58
+  },
+  {
+    "latitude": -7.28073,
+    "longitude": 112.74073,
+    "Penumpang": 31,
+    "Wanita": 29,
+    "Pria": 2,
+    "Suhu": 22,
+    "Baterai": 24,
+    "Kecepatan": 72
+  },
+  {
+    "latitude": -7.2812,
+    "longitude": 112.74064,
+    "Penumpang": 35,
+    "Wanita": 22,
+    "Pria": 13,
+    "Suhu": 34,
+    "Baterai": 96,
+    "Kecepatan": 100
+  },
+  {
+    "latitude": -7.28135,
+    "longitude": 112.74061,
+    "Penumpang": 49,
+    "Wanita": 0,
+    "Pria": 49,
+    "Suhu": 23,
+    "Baterai": 64,
+    "Kecepatan": 58
+  },
+  {
+    "latitude": -7.28272,
+    "longitude": 112.74036,
+    "Penumpang": 60,
+    "Wanita": 38,
+    "Pria": 22,
+    "Suhu": 25,
+    "Baterai": 39,
+    "Kecepatan": 77
+  },
+  {
+    "latitude": -7.28461,
+    "longitude": 112.74,
+    "Penumpang": 1,
+    "Wanita": 0,
+    "Pria": 1,
+    "Suhu": 30,
+    "Baterai": 10,
+    "Kecepatan": 13
+  },
+  {
+    "latitude": -7.2847,
+    "longitude": 112.73998,
+    "Penumpang": 57,
+    "Wanita": 19,
+    "Pria": 38,
+    "Suhu": 27,
+    "Baterai": 36,
+    "Kecepatan": 79
+  },
+  {
+    "latitude": -7.28559,
+    "longitude": 112.73982,
+    "Penumpang": 28,
+    "Wanita": 13,
+    "Pria": 15,
+    "Suhu": 22,
+    "Baterai": 35,
+    "Kecepatan": 26
+  },
+  {
+    "latitude": -7.28627,
+    "longitude": 112.7397,
+    "Penumpang": 26,
+    "Wanita": 16,
+    "Pria": 10,
+    "Suhu": 33,
+    "Baterai": 19,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.28712,
+    "longitude": 112.73955,
+    "Penumpang": 20,
+    "Wanita": 3,
+    "Pria": 17,
+    "Suhu": 23,
+    "Baterai": 90,
+    "Kecepatan": 76
+  },
+  {
+    "latitude": -7.28736,
+    "longitude": 112.7395,
+    "Penumpang": 30,
+    "Wanita": 24,
+    "Pria": 6,
+    "Suhu": 23,
+    "Baterai": 34,
+    "Kecepatan": 49
+  },
+  {
+    "latitude": -7.28784,
+    "longitude": 112.73942,
+    "Penumpang": 9,
+    "Wanita": 0,
+    "Pria": 9,
+    "Suhu": 21,
+    "Baterai": 98,
+    "Kecepatan": 15
+  },
+  {
+    "latitude": -7.28874,
+    "longitude": 112.73926,
+    "Penumpang": 58,
+    "Wanita": 4,
+    "Pria": 54,
+    "Suhu": 34,
+    "Baterai": 17,
+    "Kecepatan": 50
+  },
+  {
+    "latitude": -7.28909,
+    "longitude": 112.73918,
+    "Penumpang": 7,
+    "Wanita": 2,
+    "Pria": 5,
+    "Suhu": 27,
+    "Baterai": 65,
+    "Kecepatan": 88
+  },
+  {
+    "latitude": -7.28919,
+    "longitude": 112.73916,
+    "Penumpang": 28,
+    "Wanita": 1,
+    "Pria": 27,
+    "Suhu": 20,
+    "Baterai": 69,
+    "Kecepatan": 22
+  },
+  {
+    "latitude": -7.28923,
+    "longitude": 112.73915,
+    "Penumpang": 23,
+    "Wanita": 10,
+    "Pria": 13,
+    "Suhu": 21,
+    "Baterai": 86,
+    "Kecepatan": 100
+  },
+  {
+    "latitude": -7.28927,
+    "longitude": 112.73914,
+    "Penumpang": 8,
+    "Wanita": 1,
+    "Pria": 7,
+    "Suhu": 22,
+    "Baterai": 27,
+    "Kecepatan": 46
+  },
+  {
+    "latitude": -7.28933,
+    "longitude": 112.73913,
+    "Penumpang": 44,
+    "Wanita": 7,
+    "Pria": 37,
+    "Suhu": 20,
+    "Baterai": 16,
+    "Kecepatan": 39
+  },
+  {
+    "latitude": -7.28981,
+    "longitude": 112.73905,
+    "Penumpang": 57,
+    "Wanita": 22,
+    "Pria": 35,
+    "Suhu": 20,
+    "Baterai": 97,
+    "Kecepatan": 87
+  },
+  {
+    "latitude": -7.29009,
+    "longitude": 112.73902,
+    "Penumpang": 14,
+    "Wanita": 11,
+    "Pria": 3,
+    "Suhu": 27,
+    "Baterai": 26,
+    "Kecepatan": 13
+  },
+  {
+    "latitude": -7.29036,
+    "longitude": 112.73901,
+    "Penumpang": 24,
+    "Wanita": 4,
+    "Pria": 20,
+    "Suhu": 20,
+    "Baterai": 44,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.29089,
+    "longitude": 112.73904,
+    "Penumpang": 7,
+    "Wanita": 3,
+    "Pria": 4,
+    "Suhu": 28,
+    "Baterai": 75,
+    "Kecepatan": 14
+  },
+  {
+    "latitude": -7.29109,
+    "longitude": 112.73905,
+    "Penumpang": 31,
+    "Wanita": 30,
+    "Pria": 1,
+    "Suhu": 27,
+    "Baterai": 96,
+    "Kecepatan": 58
+  },
+  {
+    "latitude": -7.29125,
+    "longitude": 112.73906,
+    "Penumpang": 6,
+    "Wanita": 6,
+    "Pria": 0,
+    "Suhu": 33,
+    "Baterai": 26,
+    "Kecepatan": 72
+  },
+  {
+    "latitude": -7.29188,
+    "longitude": 112.7391,
+    "Penumpang": 23,
+    "Wanita": 15,
+    "Pria": 8,
+    "Suhu": 30,
+    "Baterai": 64,
+    "Kecepatan": 85
+  },
+  {
+    "latitude": -7.29245,
+    "longitude": 112.73912,
+    "Penumpang": 58,
+    "Wanita": 9,
+    "Pria": 49,
+    "Suhu": 21,
+    "Baterai": 42,
+    "Kecepatan": 30
+  },
+  {
+    "latitude": -7.29295,
+    "longitude": 112.73915,
+    "Penumpang": 10,
+    "Wanita": 2,
+    "Pria": 8,
+    "Suhu": 27,
+    "Baterai": 72,
+    "Kecepatan": 58
+  },
+  {
+    "latitude": -7.29459,
+    "longitude": 112.73926,
+    "Penumpang": 46,
+    "Wanita": 29,
+    "Pria": 17,
+    "Suhu": 32,
+    "Baterai": 40,
+    "Kecepatan": 52
+  },
+  {
+    "latitude": -7.29492,
+    "longitude": 112.73928,
+    "Penumpang": 34,
+    "Wanita": 3,
+    "Pria": 31,
+    "Suhu": 21,
+    "Baterai": 38,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.29535,
+    "longitude": 112.7393,
+    "Penumpang": 7,
+    "Wanita": 1,
+    "Pria": 6,
+    "Suhu": 21,
+    "Baterai": 74,
+    "Kecepatan": 68
+  },
+  {
+    "latitude": -7.29565,
+    "longitude": 112.73932,
+    "Penumpang": 23,
+    "Wanita": 8,
+    "Pria": 15,
+    "Suhu": 24,
+    "Baterai": 12,
+    "Kecepatan": 13
+  },
+  {
+    "latitude": -7.29597,
+    "longitude": 112.73934,
+    "Penumpang": 17,
+    "Wanita": 6,
+    "Pria": 11,
+    "Suhu": 22,
+    "Baterai": 22,
+    "Kecepatan": 54
+  },
+  {
+    "latitude": -7.29603,
+    "longitude": 112.73935,
+    "Penumpang": 58,
+    "Wanita": 4,
+    "Pria": 54,
+    "Suhu": 32,
+    "Baterai": 21,
+    "Kecepatan": 98
+  },
+  {
+    "latitude": -7.29619,
+    "longitude": 112.73936,
+    "Penumpang": 57,
+    "Wanita": 57,
+    "Pria": 0,
+    "Suhu": 20,
+    "Baterai": 64,
+    "Kecepatan": 21
+  },
+  {
+    "latitude": -7.29665,
+    "longitude": 112.73941,
+    "Penumpang": 50,
+    "Wanita": 2,
+    "Pria": 48,
+    "Suhu": 35,
+    "Baterai": 100,
+    "Kecepatan": 99
+  },
+  {
+    "latitude": -7.29698,
+    "longitude": 112.73939,
+    "Penumpang": 36,
+    "Wanita": 0,
+    "Pria": 36,
+    "Suhu": 28,
+    "Baterai": 27,
+    "Kecepatan": 11
+  },
+  {
+    "latitude": -7.29713,
+    "longitude": 112.73935,
+    "Penumpang": 24,
+    "Wanita": 23,
+    "Pria": 1,
+    "Suhu": 26,
+    "Baterai": 36,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.29729,
+    "longitude": 112.7393,
+    "Penumpang": 36,
+    "Wanita": 33,
+    "Pria": 3,
+    "Suhu": 26,
+    "Baterai": 68,
+    "Kecepatan": 31
+  },
+  {
+    "latitude": -7.29747,
+    "longitude": 112.7392,
+    "Penumpang": 58,
+    "Wanita": 29,
+    "Pria": 29,
+    "Suhu": 28,
+    "Baterai": 73,
+    "Kecepatan": 63
+  },
+  {
+    "latitude": -7.29765,
+    "longitude": 112.73908,
+    "Penumpang": 38,
+    "Wanita": 4,
+    "Pria": 34,
+    "Suhu": 28,
+    "Baterai": 34,
+    "Kecepatan": 38
+  },
+  {
+    "latitude": -7.29785,
+    "longitude": 112.73893,
+    "Penumpang": 23,
+    "Wanita": 7,
+    "Pria": 16,
+    "Suhu": 22,
+    "Baterai": 45,
+    "Kecepatan": 14
+  },
+  {
+    "latitude": -7.29797,
+    "longitude": 112.73878,
+    "Penumpang": 42,
+    "Wanita": 12,
+    "Pria": 30,
+    "Suhu": 33,
+    "Baterai": 31,
+    "Kecepatan": 57
+  },
+  {
+    "latitude": -7.29804,
+    "longitude": 112.73865,
+    "Penumpang": 60,
+    "Wanita": 32,
+    "Pria": 28,
+    "Suhu": 30,
+    "Baterai": 53,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.29813,
+    "longitude": 112.73849,
+    "Penumpang": 49,
+    "Wanita": 30,
+    "Pria": 19,
+    "Suhu": 22,
+    "Baterai": 42,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.29831,
+    "longitude": 112.73805,
+    "Penumpang": 13,
+    "Wanita": 3,
+    "Pria": 10,
+    "Suhu": 33,
+    "Baterai": 19,
+    "Kecepatan": 67
+  },
+  {
+    "latitude": -7.29842,
+    "longitude": 112.73795,
+    "Penumpang": 10,
+    "Wanita": 8,
+    "Pria": 2,
+    "Suhu": 27,
+    "Baterai": 21,
+    "Kecepatan": 50
+  },
+  {
+    "latitude": -7.29853,
+    "longitude": 112.73788,
+    "Penumpang": 16,
+    "Wanita": 0,
+    "Pria": 16,
+    "Suhu": 31,
+    "Baterai": 66,
+    "Kecepatan": 21
+  },
+  {
+    "latitude": -7.2987,
+    "longitude": 112.73779,
+    "Penumpang": 21,
+    "Wanita": 13,
+    "Pria": 8,
+    "Suhu": 32,
+    "Baterai": 28,
+    "Kecepatan": 40
+  },
+  {
+    "latitude": -7.29893,
+    "longitude": 112.7377,
+    "Penumpang": 7,
+    "Wanita": 4,
+    "Pria": 3,
+    "Suhu": 20,
+    "Baterai": 56,
+    "Kecepatan": 41
+  },
+  {
+    "latitude": -7.29902,
+    "longitude": 112.73767,
+    "Penumpang": 7,
+    "Wanita": 5,
+    "Pria": 2,
+    "Suhu": 26,
+    "Baterai": 29,
+    "Kecepatan": 28
+  },
+  {
+    "latitude": -7.2993,
+    "longitude": 112.73755,
+    "Penumpang": 7,
+    "Wanita": 7,
+    "Pria": 0,
+    "Suhu": 34,
+    "Baterai": 81,
+    "Kecepatan": 17
+  },
+  {
+    "latitude": -7.29941,
+    "longitude": 112.73752,
+    "Penumpang": 36,
+    "Wanita": 21,
+    "Pria": 15,
+    "Suhu": 33,
+    "Baterai": 28,
+    "Kecepatan": 61
+  },
+  {
+    "latitude": -7.29947,
+    "longitude": 112.73751,
+    "Penumpang": 25,
+    "Wanita": 8,
+    "Pria": 17,
+    "Suhu": 20,
+    "Baterai": 98,
+    "Kecepatan": 5
+  },
+  {
+    "latitude": -7.29973,
+    "longitude": 112.73746,
+    "Penumpang": 23,
+    "Wanita": 4,
+    "Pria": 19,
+    "Suhu": 33,
+    "Baterai": 28,
+    "Kecepatan": 24
+  },
+  {
+    "latitude": -7.30002,
+    "longitude": 112.7374,
+    "Penumpang": 8,
+    "Wanita": 7,
+    "Pria": 1,
+    "Suhu": 22,
+    "Baterai": 13,
+    "Kecepatan": 33
+  },
+  {
+    "latitude": -7.30029,
+    "longitude": 112.73735,
+    "Penumpang": 19,
+    "Wanita": 7,
+    "Pria": 12,
+    "Suhu": 29,
+    "Baterai": 95,
+    "Kecepatan": 51
+  },
+  {
+    "latitude": -7.30063,
+    "longitude": 112.73731,
+    "Penumpang": 54,
+    "Wanita": 32,
+    "Pria": 22,
+    "Suhu": 25,
+    "Baterai": 98,
+    "Kecepatan": 64
+  },
+  {
+    "latitude": -7.30071,
+    "longitude": 112.7373,
+    "Penumpang": 15,
+    "Wanita": 6,
+    "Pria": 9,
+    "Suhu": 23,
+    "Baterai": 59,
+    "Kecepatan": 45
+  },
+  {
+    "latitude": -7.30103,
+    "longitude": 112.73723,
+    "Penumpang": 28,
+    "Wanita": 8,
+    "Pria": 20,
+    "Suhu": 33,
+    "Baterai": 37,
+    "Kecepatan": 44
+  },
+  {
+    "latitude": -7.30116,
+    "longitude": 112.7372,
+    "Penumpang": 16,
+    "Wanita": 5,
+    "Pria": 11,
+    "Suhu": 33,
+    "Baterai": 20,
+    "Kecepatan": 12
+  },
+  {
+    "latitude": -7.3014,
+    "longitude": 112.73716,
+    "Penumpang": 46,
+    "Wanita": 23,
+    "Pria": 23,
+    "Suhu": 29,
+    "Baterai": 55,
+    "Kecepatan": 96
+  },
+  {
+    "latitude": -7.30215,
+    "longitude": 112.73703,
+    "Penumpang": 15,
+    "Wanita": 6,
+    "Pria": 9,
+    "Suhu": 32,
+    "Baterai": 81,
+    "Kecepatan": 37
+  },
+  {
+    "latitude": -7.30249,
+    "longitude": 112.73697,
+    "Penumpang": 39,
+    "Wanita": 25,
+    "Pria": 14,
+    "Suhu": 28,
+    "Baterai": 17,
+    "Kecepatan": 55
+  },
+  {
+    "latitude": -7.30301,
+    "longitude": 112.73687,
+    "Penumpang": 14,
+    "Wanita": 12,
+    "Pria": 2,
+    "Suhu": 23,
+    "Baterai": 28,
+    "Kecepatan": 13
+  },
+  {
+    "latitude": -7.30315,
+    "longitude": 112.73677,
+    "Penumpang": 48,
+    "Wanita": 26,
+    "Pria": 22,
+    "Suhu": 35,
+    "Baterai": 71,
+    "Kecepatan": 33
+  },
+  {
+    "latitude": -7.30336,
+    "longitude": 112.73673,
+    "Penumpang": 56,
+    "Wanita": 33,
+    "Pria": 23,
+    "Suhu": 25,
+    "Baterai": 88,
+    "Kecepatan": 16
+  },
+  {
+    "latitude": -7.30368,
+    "longitude": 112.73667,
+    "Penumpang": 35,
+    "Wanita": 13,
+    "Pria": 22,
+    "Suhu": 22,
+    "Baterai": 80,
+    "Kecepatan": 61
+  },
+  {
+    "latitude": -7.30486,
+    "longitude": 112.73639,
+    "Penumpang": 1,
+    "Wanita": 0,
+    "Pria": 1,
+    "Suhu": 30,
+    "Baterai": 36,
+    "Kecepatan": 98
+  },
+  {
+    "latitude": -7.30511,
+    "longitude": 112.73632,
+    "Penumpang": 12,
+    "Wanita": 2,
+    "Pria": 10,
+    "Suhu": 32,
+    "Baterai": 89,
+    "Kecepatan": 22
+  },
+  {
+    "latitude": -7.3057,
+    "longitude": 112.73618,
+    "Penumpang": 11,
+    "Wanita": 3,
+    "Pria": 8,
+    "Suhu": 24,
+    "Baterai": 34,
+    "Kecepatan": 14
+  },
+  {
+    "latitude": -7.30597,
+    "longitude": 112.73611,
+    "Penumpang": 17,
+    "Wanita": 2,
+    "Pria": 15,
+    "Suhu": 25,
+    "Baterai": 48,
+    "Kecepatan": 40
+  },
+  {
+    "latitude": -7.3061,
+    "longitude": 112.73608,
+    "Penumpang": 30,
+    "Wanita": 19,
+    "Pria": 11,
+    "Suhu": 32,
+    "Baterai": 11,
+    "Kecepatan": 38
+  },
+  {
+    "latitude": -7.30665,
+    "longitude": 112.73594,
+    "Penumpang": 3,
+    "Wanita": 2,
+    "Pria": 1,
+    "Suhu": 22,
+    "Baterai": 65,
+    "Kecepatan": 27
+  },
+  {
+    "latitude": -7.30716,
+    "longitude": 112.73583,
+    "Penumpang": 34,
+    "Wanita": 21,
+    "Pria": 13,
+    "Suhu": 27,
+    "Baterai": 45,
+    "Kecepatan": 44
+  },
+  {
+    "latitude": -7.3072,
+    "longitude": 112.73582,
+    "Penumpang": 43,
+    "Wanita": 7,
+    "Pria": 36,
+    "Suhu": 29,
+    "Baterai": 68,
+    "Kecepatan": 80
+  },
+  {
+    "latitude": -7.30749,
+    "longitude": 112.73581,
+    "Penumpang": 20,
+    "Wanita": 15,
+    "Pria": 5,
+    "Suhu": 31,
+    "Baterai": 62,
+    "Kecepatan": 84
+  },
+  {
+    "latitude": -7.30805,
+    "longitude": 112.7357,
+    "Penumpang": 53,
+    "Wanita": 12,
+    "Pria": 41,
+    "Suhu": 23,
+    "Baterai": 43,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.30975,
+    "longitude": 112.73536,
+    "Penumpang": 39,
+    "Wanita": 33,
+    "Pria": 6,
+    "Suhu": 26,
+    "Baterai": 36,
+    "Kecepatan": 99
+  },
+  {
+    "latitude": -7.30986,
+    "longitude": 112.73534,
+    "Penumpang": 22,
+    "Wanita": 9,
+    "Pria": 13,
+    "Suhu": 20,
+    "Baterai": 84,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.3106,
+    "longitude": 112.73524,
+    "Penumpang": 32,
+    "Wanita": 14,
+    "Pria": 18,
+    "Suhu": 35,
+    "Baterai": 49,
+    "Kecepatan": 38
+  },
+  {
+    "latitude": -7.31088,
+    "longitude": 112.73517,
+    "Penumpang": 53,
+    "Wanita": 44,
+    "Pria": 9,
+    "Suhu": 34,
+    "Baterai": 21,
+    "Kecepatan": 65
+  },
+  {
+    "latitude": -7.31157,
+    "longitude": 112.73503,
+    "Penumpang": 8,
+    "Wanita": 4,
+    "Pria": 4,
+    "Suhu": 34,
+    "Baterai": 81,
+    "Kecepatan": 33
+  },
+  {
+    "latitude": -7.3132,
+    "longitude": 112.73468,
+    "Penumpang": 33,
+    "Wanita": 4,
+    "Pria": 29,
+    "Suhu": 31,
+    "Baterai": 62,
+    "Kecepatan": 55
+  },
+  {
+    "latitude": -7.31353,
+    "longitude": 112.73462,
+    "Penumpang": 7,
+    "Wanita": 0,
+    "Pria": 7,
+    "Suhu": 29,
+    "Baterai": 15,
+    "Kecepatan": 14
+  },
+  {
+    "latitude": -7.31397,
+    "longitude": 112.73452,
+    "Penumpang": 26,
+    "Wanita": 25,
+    "Pria": 1,
+    "Suhu": 26,
+    "Baterai": 43,
+    "Kecepatan": 62
+  },
+  {
+    "latitude": -7.31502,
+    "longitude": 112.73429,
+    "Penumpang": 1,
+    "Wanita": 0,
+    "Pria": 1,
+    "Suhu": 22,
+    "Baterai": 57,
+    "Kecepatan": 39
+  },
+  {
+    "latitude": -7.31563,
+    "longitude": 112.73416,
+    "Penumpang": 6,
+    "Wanita": 4,
+    "Pria": 2,
+    "Suhu": 24,
+    "Baterai": 17,
+    "Kecepatan": 64
+  },
+  {
+    "latitude": -7.31578,
+    "longitude": 112.73413,
+    "Penumpang": 12,
+    "Wanita": 7,
+    "Pria": 5,
+    "Suhu": 29,
+    "Baterai": 28,
+    "Kecepatan": 27
+  },
+  {
+    "latitude": -7.31584,
+    "longitude": 112.73412,
+    "Penumpang": 26,
+    "Wanita": 13,
+    "Pria": 13,
+    "Suhu": 33,
+    "Baterai": 57,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.3163,
+    "longitude": 112.73401,
+    "Penumpang": 31,
+    "Wanita": 3,
+    "Pria": 28,
+    "Suhu": 27,
+    "Baterai": 61,
+    "Kecepatan": 24
+  },
+  {
+    "latitude": -7.31689,
+    "longitude": 112.73389,
+    "Penumpang": 35,
+    "Wanita": 9,
+    "Pria": 26,
+    "Suhu": 28,
+    "Baterai": 23,
+    "Kecepatan": 47
+  },
+  {
+    "latitude": -7.31762,
+    "longitude": 112.73374,
+    "Penumpang": 41,
+    "Wanita": 5,
+    "Pria": 36,
+    "Suhu": 33,
+    "Baterai": 52,
+    "Kecepatan": 85
+  },
+  {
+    "latitude": -7.31815,
+    "longitude": 112.73363,
+    "Penumpang": 8,
+    "Wanita": 3,
+    "Pria": 5,
+    "Suhu": 34,
+    "Baterai": 20,
+    "Kecepatan": 77
+  },
+  {
+    "latitude": -7.31927,
+    "longitude": 112.7334,
+    "Penumpang": 51,
+    "Wanita": 30,
+    "Pria": 21,
+    "Suhu": 21,
+    "Baterai": 76,
+    "Kecepatan": 30
+  },
+  {
+    "latitude": -7.31994,
+    "longitude": 112.73324,
+    "Penumpang": 13,
+    "Wanita": 6,
+    "Pria": 7,
+    "Suhu": 33,
+    "Baterai": 94,
+    "Kecepatan": 92
+  },
+  {
+    "latitude": -7.32028,
+    "longitude": 112.73317,
+    "Penumpang": 16,
+    "Wanita": 0,
+    "Pria": 16,
+    "Suhu": 23,
+    "Baterai": 30,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.32075,
+    "longitude": 112.73308,
+    "Penumpang": 50,
+    "Wanita": 7,
+    "Pria": 43,
+    "Suhu": 34,
+    "Baterai": 40,
+    "Kecepatan": 11
+  },
+  {
+    "latitude": -7.32118,
+    "longitude": 112.73299,
+    "Penumpang": 5,
+    "Wanita": 4,
+    "Pria": 1,
+    "Suhu": 20,
+    "Baterai": 77,
+    "Kecepatan": 64
+  },
+  {
+    "latitude": -7.32206,
+    "longitude": 112.73281,
+    "Penumpang": 4,
+    "Wanita": 4,
+    "Pria": 0,
+    "Suhu": 33,
+    "Baterai": 20,
+    "Kecepatan": 78
+  },
+  {
+    "latitude": -7.32213,
+    "longitude": 112.7328,
+    "Penumpang": 42,
+    "Wanita": 7,
+    "Pria": 35,
+    "Suhu": 27,
+    "Baterai": 80,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.3235,
+    "longitude": 112.73251,
+    "Penumpang": 5,
+    "Wanita": 3,
+    "Pria": 2,
+    "Suhu": 21,
+    "Baterai": 10,
+    "Kecepatan": 90
+  },
+  {
+    "latitude": -7.32368,
+    "longitude": 112.73247,
+    "Penumpang": 32,
+    "Wanita": 27,
+    "Pria": 5,
+    "Suhu": 27,
+    "Baterai": 80,
+    "Kecepatan": 15
+  },
+  {
+    "latitude": -7.32387,
+    "longitude": 112.73242,
+    "Penumpang": 42,
+    "Wanita": 27,
+    "Pria": 15,
+    "Suhu": 21,
+    "Baterai": 34,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.32455,
+    "longitude": 112.73227,
+    "Penumpang": 45,
+    "Wanita": 3,
+    "Pria": 42,
+    "Suhu": 35,
+    "Baterai": 29,
+    "Kecepatan": 87
+  },
+  {
+    "latitude": -7.32528,
+    "longitude": 112.73212,
+    "Penumpang": 56,
+    "Wanita": 11,
+    "Pria": 45,
+    "Suhu": 35,
+    "Baterai": 52,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.32546,
+    "longitude": 112.73208,
+    "Penumpang": 41,
+    "Wanita": 10,
+    "Pria": 31,
+    "Suhu": 35,
+    "Baterai": 91,
+    "Kecepatan": 56
+  },
+  {
+    "latitude": -7.32578,
+    "longitude": 112.73201,
+    "Penumpang": 59,
+    "Wanita": 53,
+    "Pria": 6,
+    "Suhu": 30,
+    "Baterai": 16,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.3261,
+    "longitude": 112.73194,
+    "Penumpang": 1,
+    "Wanita": 0,
+    "Pria": 1,
+    "Suhu": 35,
+    "Baterai": 61,
+    "Kecepatan": 44
+  },
+  {
+    "latitude": -7.32665,
+    "longitude": 112.73181,
+    "Penumpang": 43,
+    "Wanita": 10,
+    "Pria": 33,
+    "Suhu": 30,
+    "Baterai": 51,
+    "Kecepatan": 41
+  },
+  {
+    "latitude": -7.32673,
+    "longitude": 112.7318,
+    "Penumpang": 8,
+    "Wanita": 3,
+    "Pria": 5,
+    "Suhu": 22,
+    "Baterai": 32,
+    "Kecepatan": 72
+  },
+  {
+    "latitude": -7.32721,
+    "longitude": 112.73169,
+    "Penumpang": 23,
+    "Wanita": 3,
+    "Pria": 20,
+    "Suhu": 24,
+    "Baterai": 45,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.32728,
+    "longitude": 112.73168,
+    "Penumpang": 43,
+    "Wanita": 38,
+    "Pria": 5,
+    "Suhu": 34,
+    "Baterai": 12,
+    "Kecepatan": 20
+  },
+  {
+    "latitude": -7.32732,
+    "longitude": 112.73167,
+    "Penumpang": 0,
+    "Wanita": 0,
+    "Pria": 0,
+    "Suhu": 33,
+    "Baterai": 94,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.32738,
+    "longitude": 112.73165,
+    "Penumpang": 22,
+    "Wanita": 2,
+    "Pria": 20,
+    "Suhu": 22,
+    "Baterai": 13,
+    "Kecepatan": 80
+  },
+  {
+    "latitude": -7.32749,
+    "longitude": 112.73163,
+    "Penumpang": 14,
+    "Wanita": 8,
+    "Pria": 6,
+    "Suhu": 26,
+    "Baterai": 27,
+    "Kecepatan": 76
+  },
+  {
+    "latitude": -7.32811,
+    "longitude": 112.73149,
+    "Penumpang": 55,
+    "Wanita": 2,
+    "Pria": 53,
+    "Suhu": 27,
+    "Baterai": 62,
+    "Kecepatan": 93
+  },
+  {
+    "latitude": -7.32832,
+    "longitude": 112.73145,
+    "Penumpang": 13,
+    "Wanita": 7,
+    "Pria": 6,
+    "Suhu": 32,
+    "Baterai": 38,
+    "Kecepatan": 75
+  },
+  {
+    "latitude": -7.32846,
+    "longitude": 112.73142,
+    "Penumpang": 5,
+    "Wanita": 0,
+    "Pria": 5,
+    "Suhu": 30,
+    "Baterai": 57,
+    "Kecepatan": 79
+  },
+  {
+    "latitude": -7.32857,
+    "longitude": 112.7314,
+    "Penumpang": 9,
+    "Wanita": 8,
+    "Pria": 1,
+    "Suhu": 29,
+    "Baterai": 30,
+    "Kecepatan": 27
+  },
+  {
+    "latitude": -7.32912,
+    "longitude": 112.73129,
+    "Penumpang": 40,
+    "Wanita": 7,
+    "Pria": 33,
+    "Suhu": 35,
+    "Baterai": 92,
+    "Kecepatan": 85
+  },
+  {
+    "latitude": -7.32918,
+    "longitude": 112.73128,
+    "Penumpang": 9,
+    "Wanita": 2,
+    "Pria": 7,
+    "Suhu": 29,
+    "Baterai": 64,
+    "Kecepatan": 25
+  },
+  {
+    "latitude": -7.32984,
+    "longitude": 112.73115,
+    "Penumpang": 18,
+    "Wanita": 6,
+    "Pria": 12,
+    "Suhu": 23,
+    "Baterai": 48,
+    "Kecepatan": 60
+  },
+  {
+    "latitude": -7.32997,
+    "longitude": 112.73112,
+    "Penumpang": 33,
+    "Wanita": 27,
+    "Pria": 6,
+    "Suhu": 31,
+    "Baterai": 99,
+    "Kecepatan": 71
+  },
+  {
+    "latitude": -7.33133,
+    "longitude": 112.7308,
+    "Penumpang": 38,
+    "Wanita": 6,
+    "Pria": 32,
+    "Suhu": 29,
+    "Baterai": 34,
+    "Kecepatan": 66
+  },
+  {
+    "latitude": -7.33143,
+    "longitude": 112.73078,
+    "Penumpang": 45,
+    "Wanita": 20,
+    "Pria": 25,
+    "Suhu": 20,
+    "Baterai": 53,
+    "Kecepatan": 5
+  },
+  {
+    "latitude": -7.33193,
+    "longitude": 112.73066,
+    "Penumpang": 7,
+    "Wanita": 4,
+    "Pria": 3,
+    "Suhu": 28,
+    "Baterai": 21,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.33292,
+    "longitude": 112.73042,
+    "Penumpang": 55,
+    "Wanita": 38,
+    "Pria": 17,
+    "Suhu": 23,
+    "Baterai": 30,
+    "Kecepatan": 21
+  },
+  {
+    "latitude": -7.33298,
+    "longitude": 112.7304,
+    "Penumpang": 16,
+    "Wanita": 16,
+    "Pria": 0,
+    "Suhu": 21,
+    "Baterai": 25,
+    "Kecepatan": 50
+  },
+  {
+    "latitude": -7.3341,
+    "longitude": 112.73015,
+    "Penumpang": 60,
+    "Wanita": 22,
+    "Pria": 38,
+    "Suhu": 24,
+    "Baterai": 21,
+    "Kecepatan": 23
+  },
+  {
+    "latitude": -7.33428,
+    "longitude": 112.73011,
+    "Penumpang": 16,
+    "Wanita": 3,
+    "Pria": 13,
+    "Suhu": 29,
+    "Baterai": 38,
+    "Kecepatan": 30
+  },
+  {
+    "latitude": -7.33521,
+    "longitude": 112.72986,
+    "Penumpang": 14,
+    "Wanita": 0,
+    "Pria": 14,
+    "Suhu": 21,
+    "Baterai": 48,
+    "Kecepatan": 78
+  },
+  {
+    "latitude": -7.33564,
+    "longitude": 112.72976,
+    "Penumpang": 6,
+    "Wanita": 0,
+    "Pria": 6,
+    "Suhu": 28,
+    "Baterai": 33,
+    "Kecepatan": 26
+  },
+  {
+    "latitude": -7.33698,
+    "longitude": 112.72945,
+    "Penumpang": 10,
+    "Wanita": 7,
+    "Pria": 3,
+    "Suhu": 29,
+    "Baterai": 41,
+    "Kecepatan": 16
+  },
+  {
+    "latitude": -7.33729,
+    "longitude": 112.72942,
+    "Penumpang": 58,
+    "Wanita": 5,
+    "Pria": 53,
+    "Suhu": 27,
+    "Baterai": 83,
+    "Kecepatan": 65
+  },
+  {
+    "latitude": -7.33822,
+    "longitude": 112.72937,
+    "Penumpang": 42,
+    "Wanita": 29,
+    "Pria": 13,
+    "Suhu": 23,
+    "Baterai": 12,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.33842,
+    "longitude": 112.72936,
+    "Penumpang": 48,
+    "Wanita": 38,
+    "Pria": 10,
+    "Suhu": 28,
+    "Baterai": 67,
+    "Kecepatan": 98
+  },
+  {
+    "latitude": -7.33887,
+    "longitude": 112.72936,
+    "Penumpang": 27,
+    "Wanita": 13,
+    "Pria": 14,
+    "Suhu": 30,
+    "Baterai": 86,
+    "Kecepatan": 30
+  },
+  {
+    "latitude": -7.33936,
+    "longitude": 112.72937,
+    "Penumpang": 9,
+    "Wanita": 2,
+    "Pria": 7,
+    "Suhu": 20,
+    "Baterai": 38,
+    "Kecepatan": 74
+  },
+  {
+    "latitude": -7.33951,
+    "longitude": 112.72937,
+    "Penumpang": 59,
+    "Wanita": 12,
+    "Pria": 47,
+    "Suhu": 28,
+    "Baterai": 55,
+    "Kecepatan": 60
+  },
+  {
+    "latitude": -7.33958,
+    "longitude": 112.72937,
+    "Penumpang": 34,
+    "Wanita": 34,
+    "Pria": 0,
+    "Suhu": 34,
+    "Baterai": 76,
+    "Kecepatan": 21
+  },
+  {
+    "latitude": -7.33975,
+    "longitude": 112.72937,
+    "Penumpang": 25,
+    "Wanita": 21,
+    "Pria": 4,
+    "Suhu": 24,
+    "Baterai": 37,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.3418,
+    "longitude": 112.72937,
+    "Penumpang": 38,
+    "Wanita": 35,
+    "Pria": 3,
+    "Suhu": 24,
+    "Baterai": 11,
+    "Kecepatan": 54
+  },
+  {
+    "latitude": -7.34317,
+    "longitude": 112.72937,
+    "Penumpang": 20,
+    "Wanita": 7,
+    "Pria": 13,
+    "Suhu": 29,
+    "Baterai": 80,
+    "Kecepatan": 32
+  },
+  {
+    "latitude": -7.34361,
+    "longitude": 112.72935,
+    "Penumpang": 46,
+    "Wanita": 18,
+    "Pria": 28,
+    "Suhu": 32,
+    "Baterai": 21,
+    "Kecepatan": 10
+  },
+  {
+    "latitude": -7.34397,
+    "longitude": 112.72935,
+    "Penumpang": 42,
+    "Wanita": 18,
+    "Pria": 24,
+    "Suhu": 35,
+    "Baterai": 43,
+    "Kecepatan": 41
+  },
+  {
+    "latitude": -7.34403,
+    "longitude": 112.72935,
+    "Penumpang": 54,
+    "Wanita": 11,
+    "Pria": 43,
+    "Suhu": 25,
+    "Baterai": 18,
+    "Kecepatan": 45
+  },
+  {
+    "latitude": -7.34411,
+    "longitude": 112.72935,
+    "Penumpang": 30,
+    "Wanita": 13,
+    "Pria": 17,
+    "Suhu": 34,
+    "Baterai": 47,
+    "Kecepatan": 32
+  },
+  {
+    "latitude": -7.34471,
+    "longitude": 112.72934,
+    "Penumpang": 24,
+    "Wanita": 4,
+    "Pria": 20,
+    "Suhu": 29,
+    "Baterai": 67,
+    "Kecepatan": 74
+  },
+  {
+    "latitude": -7.34489,
+    "longitude": 112.72934,
+    "Penumpang": 41,
+    "Wanita": 25,
+    "Pria": 16,
+    "Suhu": 33,
+    "Baterai": 53,
+    "Kecepatan": 46
+  },
+  {
+    "latitude": -7.34524,
+    "longitude": 112.72934,
+    "Penumpang": 42,
+    "Wanita": 36,
+    "Pria": 6,
+    "Suhu": 35,
+    "Baterai": 21,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.3456,
+    "longitude": 112.72933,
+    "Penumpang": 28,
+    "Wanita": 20,
+    "Pria": 8,
+    "Suhu": 30,
+    "Baterai": 16,
+    "Kecepatan": 100
+  },
+  {
+    "latitude": -7.34586,
+    "longitude": 112.72931,
+    "Penumpang": 55,
+    "Wanita": 10,
+    "Pria": 45,
+    "Suhu": 31,
+    "Baterai": 64,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.34624,
+    "longitude": 112.72929,
+    "Penumpang": 19,
+    "Wanita": 3,
+    "Pria": 16,
+    "Suhu": 27,
+    "Baterai": 95,
+    "Kecepatan": 58
+  },
+  {
+    "latitude": -7.34678,
+    "longitude": 112.72928,
+    "Penumpang": 9,
+    "Wanita": 9,
+    "Pria": 0,
+    "Suhu": 24,
+    "Baterai": 80,
+    "Kecepatan": 31
+  },
+  {
+    "latitude": -7.34692,
+    "longitude": 112.72928,
+    "Penumpang": 52,
+    "Wanita": 10,
+    "Pria": 42,
+    "Suhu": 25,
+    "Baterai": 19,
+    "Kecepatan": 46
+  },
+  {
+    "latitude": -7.34756,
+    "longitude": 112.72928,
+    "Penumpang": 45,
+    "Wanita": 23,
+    "Pria": 22,
+    "Suhu": 27,
+    "Baterai": 91,
+    "Kecepatan": 62
+  },
+  {
+    "latitude": -7.34788,
+    "longitude": 112.72914,
+    "Penumpang": 57,
+    "Wanita": 56,
+    "Pria": 1,
+    "Suhu": 26,
+    "Baterai": 58,
+    "Kecepatan": 100
+  },
+  {
+    "latitude": -7.34798,
+    "longitude": 112.72905,
+    "Penumpang": 39,
+    "Wanita": 2,
+    "Pria": 37,
+    "Suhu": 26,
+    "Baterai": 38,
+    "Kecepatan": 44
+  },
+  {
+    "latitude": -7.34803,
+    "longitude": 112.72895,
+    "Penumpang": 14,
+    "Wanita": 5,
+    "Pria": 9,
+    "Suhu": 27,
+    "Baterai": 86,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.34809,
+    "longitude": 112.72871,
+    "Penumpang": 15,
+    "Wanita": 12,
+    "Pria": 3,
+    "Suhu": 32,
+    "Baterai": 39,
+    "Kecepatan": 27
+  },
+  {
+    "latitude": -7.34806,
+    "longitude": 112.72841,
+    "Penumpang": 32,
+    "Wanita": 11,
+    "Pria": 21,
+    "Suhu": 23,
+    "Baterai": 58,
+    "Kecepatan": 47
+  },
+  {
+    "latitude": -7.34802,
+    "longitude": 112.72826,
+    "Penumpang": 43,
+    "Wanita": 40,
+    "Pria": 3,
+    "Suhu": 26,
+    "Baterai": 58,
+    "Kecepatan": 70
+  },
+  {
+    "latitude": -7.3479,
+    "longitude": 112.72803,
+    "Penumpang": 16,
+    "Wanita": 6,
+    "Pria": 10,
+    "Suhu": 30,
+    "Baterai": 51,
+    "Kecepatan": 69
+  },
+  {
+    "latitude": -7.34784,
+    "longitude": 112.72793,
+    "Penumpang": 21,
+    "Wanita": 14,
+    "Pria": 7,
+    "Suhu": 26,
+    "Baterai": 99,
+    "Kecepatan": 92
+  },
+  {
+    "latitude": -7.34769,
+    "longitude": 112.72779,
+    "Penumpang": 31,
+    "Wanita": 17,
+    "Pria": 14,
+    "Suhu": 23,
+    "Baterai": 67,
+    "Kecepatan": 53
+  },
+  {
+    "latitude": -7.34757,
+    "longitude": 112.72771,
+    "Penumpang": 2,
+    "Wanita": 0,
+    "Pria": 2,
+    "Suhu": 33,
+    "Baterai": 30,
+    "Kecepatan": 33
+  },
+  {
+    "latitude": -7.34729,
+    "longitude": 112.72735,
+    "Penumpang": 0,
+    "Wanita": 0,
+    "Pria": 0,
+    "Suhu": 23,
+    "Baterai": 60,
+    "Kecepatan": 86
+  },
+  {
+    "latitude": -7.34717,
+    "longitude": 112.72715,
+    "Penumpang": 52,
+    "Wanita": 13,
+    "Pria": 39,
+    "Suhu": 35,
+    "Baterai": 84,
+    "Kecepatan": 56
+  },
+  {
+    "latitude": -7.34708,
+    "longitude": 112.72693,
+    "Penumpang": 55,
+    "Wanita": 54,
+    "Pria": 1,
+    "Suhu": 24,
+    "Baterai": 97,
+    "Kecepatan": 85
+  },
+  {
+    "latitude": -7.34701,
+    "longitude": 112.72669,
+    "Penumpang": 58,
+    "Wanita": 5,
+    "Pria": 53,
+    "Suhu": 29,
+    "Baterai": 21,
+    "Kecepatan": 41
+  },
+  {
+    "latitude": -7.34701,
+    "longitude": 112.72664,
+    "Penumpang": 30,
+    "Wanita": 24,
+    "Pria": 6,
+    "Suhu": 22,
+    "Baterai": 86,
+    "Kecepatan": 85
+  },
+  {
+    "latitude": -7.34699,
+    "longitude": 112.72628,
+    "Penumpang": 4,
+    "Wanita": 3,
+    "Pria": 1,
+    "Suhu": 27,
+    "Baterai": 16,
+    "Kecepatan": 18
+  },
+  {
+    "latitude": -7.34699,
+    "longitude": 112.72569,
+    "Penumpang": 16,
+    "Wanita": 15,
+    "Pria": 1,
+    "Suhu": 29,
+    "Baterai": 21,
+    "Kecepatan": 84
+  },
+  {
+    "latitude": -7.34696,
+    "longitude": 112.72526,
+    "Penumpang": 3,
+    "Wanita": 2,
+    "Pria": 1,
+    "Suhu": 35,
+    "Baterai": 95,
+    "Kecepatan": 28
+  },
+  {
+    "latitude": -7.34694,
+    "longitude": 112.72517,
+    "Penumpang": 14,
+    "Wanita": 4,
+    "Pria": 10,
+    "Suhu": 35,
+    "Baterai": 11,
+    "Kecepatan": 46
+  },
+  {
+    "latitude": -7.34694,
+    "longitude": 112.72495,
+    "Penumpang": 25,
+    "Wanita": 10,
+    "Pria": 15,
+    "Suhu": 35,
+    "Baterai": 96,
+    "Kecepatan": 64
+  },
+  {
+    "latitude": -7.34705,
+    "longitude": 112.72495,
+    "Penumpang": 36,
+    "Wanita": 0,
+    "Pria": 36,
+    "Suhu": 31,
+    "Baterai": 18,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.34741,
+    "longitude": 112.7249,
+    "Penumpang": 1,
+    "Wanita": 0,
+    "Pria": 1,
+    "Suhu": 27,
+    "Baterai": 71,
+    "Kecepatan": 6
+  },
+  {
+    "latitude": -7.34749,
+    "longitude": 112.72488,
+    "Penumpang": 55,
+    "Wanita": 45,
+    "Pria": 10,
+    "Suhu": 28,
+    "Baterai": 25,
+    "Kecepatan": 97
+  },
+  {
+    "latitude": -7.34754,
+    "longitude": 112.72487,
+    "Penumpang": 23,
+    "Wanita": 14,
+    "Pria": 9,
+    "Suhu": 20,
+    "Baterai": 87,
+    "Kecepatan": 15
+  },
+  {
+    "latitude": -7.34755,
+    "longitude": 112.72486,
+    "Penumpang": 32,
+    "Wanita": 25,
+    "Pria": 7,
+    "Suhu": 20,
+    "Baterai": 71,
+    "Kecepatan": 69
+  },
+  {
+    "latitude": -7.34757,
+    "longitude": 112.72485,
+    "Penumpang": 30,
+    "Wanita": 21,
+    "Pria": 9,
+    "Suhu": 35,
+    "Baterai": 42,
+    "Kecepatan": 97
+  },
+  {
+    "latitude": -7.3476,
+    "longitude": 112.72484,
+    "Penumpang": 1,
+    "Wanita": 1,
+    "Pria": 0,
+    "Suhu": 23,
+    "Baterai": 83,
+    "Kecepatan": 24
+  },
+  {
+    "latitude": -7.34763,
+    "longitude": 112.72482,
+    "Penumpang": 17,
+    "Wanita": 4,
+    "Pria": 13,
+    "Suhu": 25,
+    "Baterai": 58,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.34766,
+    "longitude": 112.7248,
+    "Penumpang": 52,
+    "Wanita": 37,
+    "Pria": 15,
+    "Suhu": 30,
+    "Baterai": 63,
+    "Kecepatan": 8
+  },
+  {
+    "latitude": -7.34772,
+    "longitude": 112.72474,
+    "Penumpang": 58,
+    "Wanita": 8,
+    "Pria": 50,
+    "Suhu": 27,
+    "Baterai": 77,
+    "Kecepatan": 8
+  },
+  {
+    "latitude": -7.34775,
+    "longitude": 112.7247,
+    "Penumpang": 59,
+    "Wanita": 20,
+    "Pria": 39,
+    "Suhu": 34,
+    "Baterai": 86,
+    "Kecepatan": 95
+  },
+  {
+    "latitude": -7.34777,
+    "longitude": 112.72466,
+    "Penumpang": 20,
+    "Wanita": 2,
+    "Pria": 18,
+    "Suhu": 25,
+    "Baterai": 34,
+    "Kecepatan": 87
+  },
+  {
+    "latitude": -7.34779,
+    "longitude": 112.72464,
+    "Penumpang": 6,
+    "Wanita": 6,
+    "Pria": 0,
+    "Suhu": 27,
+    "Baterai": 49,
+    "Kecepatan": 91
+  },
+  {
+    "latitude": -7.34779,
+    "longitude": 112.72461,
+    "Penumpang": 28,
+    "Wanita": 10,
+    "Pria": 18,
+    "Suhu": 32,
+    "Baterai": 23,
+    "Kecepatan": 55
+  },
+  {
+    "latitude": -7.34775,
+    "longitude": 112.72442,
+    "Penumpang": 7,
+    "Wanita": 0,
+    "Pria": 7,
+    "Suhu": 20,
+    "Baterai": 77,
+    "Kecepatan": 22
+  },
+  {
+    "latitude": -7.34773,
+    "longitude": 112.7243,
+    "Penumpang": 2,
+    "Wanita": 0,
+    "Pria": 2,
+    "Suhu": 34,
+    "Baterai": 29,
+    "Kecepatan": 9
+  },
+  {
+    "latitude": -7.34771,
+    "longitude": 112.72409,
+    "Penumpang": 26,
+    "Wanita": 20,
+    "Pria": 6,
+    "Suhu": 32,
+    "Baterai": 52,
+    "Kecepatan": 3
+  },
+  {
+    "latitude": -7.34768,
+    "longitude": 112.72391,
+    "Penumpang": 49,
+    "Wanita": 31,
+    "Pria": 18,
+    "Suhu": 25,
+    "Baterai": 44,
+    "Kecepatan": 59
+  },
+  {
+    "latitude": -7.34767,
+    "longitude": 112.72384,
+    "Penumpang": 34,
+    "Wanita": 2,
+    "Pria": 32,
+    "Suhu": 23,
+    "Baterai": 79,
+    "Kecepatan": 36
+  },
+  {
+    "latitude": -7.34762,
+    "longitude": 112.72351,
+    "Penumpang": 33,
+    "Wanita": 26,
+    "Pria": 7,
+    "Suhu": 21,
+    "Baterai": 19,
+    "Kecepatan": 96
+  },
+  {
+    "latitude": -7.34759,
+    "longitude": 112.72326,
+    "Penumpang": 21,
+    "Wanita": 1,
+    "Pria": 20,
+    "Suhu": 31,
+    "Baterai": 16,
+    "Kecepatan": 31
+  },
+  {
+    "latitude": -7.34758,
+    "longitude": 112.72319,
+    "Penumpang": 1,
+    "Wanita": 1,
+    "Pria": 0,
+    "Suhu": 24,
+    "Baterai": 62,
+    "Kecepatan": 83
+  },
+  {
+    "latitude": -7.34755,
+    "longitude": 112.72296,
+    "Penumpang": 13,
+    "Wanita": 11,
+    "Pria": 2,
+    "Suhu": 25,
+    "Baterai": 20,
+    "Kecepatan": 66
+  },
+  {
+    "latitude": -7.3475,
+    "longitude": 112.72247,
+    "Penumpang": 51,
+    "Wanita": 51,
+    "Pria": 0,
+    "Suhu": 27,
+    "Baterai": 24,
+    "Kecepatan": 32
+  },
+  {
+    "latitude": -7.34742,
+    "longitude": 112.72194,
+    "Penumpang": 30,
+    "Wanita": 7,
+    "Pria": 23,
+    "Suhu": 28,
+    "Baterai": 27,
+    "Kecepatan": 27
+  },
+  {
+    "latitude": -7.34741,
+    "longitude": 112.72167,
+    "Penumpang": 54,
+    "Wanita": 13,
+    "Pria": 41,
+    "Suhu": 33,
+    "Baterai": 32,
+    "Kecepatan": 25
+  },
+  {
+    "latitude": -7.34741,
+    "longitude": 112.72119,
+    "Penumpang": 8,
+    "Wanita": 1,
+    "Pria": 7,
+    "Suhu": 24,
+    "Baterai": 47,
+    "Kecepatan": 30
+  },
+  {
+    "latitude": -7.34742,
+    "longitude": 112.72105,
+    "Penumpang": 41,
+    "Wanita": 2,
+    "Pria": 39,
+    "Suhu": 23,
+    "Baterai": 84,
+    "Kecepatan": 61
+  },
+  {
+    "latitude": -7.34744,
+    "longitude": 112.72101,
+    "Penumpang": 16,
+    "Wanita": 0,
+    "Pria": 16,
+    "Suhu": 30,
+    "Baterai": 40,
+    "Kecepatan": 0
+  },
+  {
+    "latitude": -7.34747,
+    "longitude": 112.72099,
+    "Penumpang": 33,
+    "Wanita": 23,
+    "Pria": 10,
+    "Suhu": 31,
+    "Baterai": 53,
+    "Kecepatan": 73
+  },
+  {
+    "latitude": -7.34808,
+    "longitude": 112.72075,
+    "Penumpang": 43,
+    "Wanita": 32,
+    "Pria": 11,
+    "Suhu": 20,
+    "Baterai": 95,
+    "Kecepatan": 82
+  },
+  {
+    "latitude": -7.34834,
+    "longitude": 112.72067,
+    "Penumpang": 47,
+    "Wanita": 11,
+    "Pria": 36,
+    "Suhu": 28,
+    "Baterai": 73,
+    "Kecepatan": 26
+  },
+  {
+    "latitude": -7.34879,
+    "longitude": 112.72054,
+    "Penumpang": 30,
+    "Wanita": 25,
+    "Pria": 5,
+    "Suhu": 31,
+    "Baterai": 13,
+    "Kecepatan": 64
+  },
+  {
+    "latitude": -7.34911,
+    "longitude": 112.72044,
+    "Penumpang": 11,
+    "Wanita": 4,
+    "Pria": 7,
+    "Suhu": 33,
+    "Baterai": 62,
+    "Kecepatan": 59
+  },
+  {
+    "latitude": -7.3495,
+    "longitude": 112.72025,
+    "Penumpang": 9,
+    "Wanita": 5,
+    "Pria": 4,
+    "Suhu": 25,
+    "Baterai": 20,
+    "Kecepatan": 53
+  },
+  {
+    "latitude": -7.34951,
+    "longitude": 112.72024,
+    "Penumpang": 56,
+    "Wanita": 42,
+    "Pria": 14,
+    "Suhu": 30,
+    "Baterai": 21,
+    "Kecepatan": 29
+  },
+  {
+    "latitude": -7.34926,
+    "longitude": 112.71973,
+    "Penumpang": 59,
+    "Wanita": 21,
+    "Pria": 38,
+    "Suhu": 21,
+    "Baterai": 33,
+    "Kecepatan": 92
+  },
+  {
+    "latitude": -7.34918,
+    "longitude": 112.71958,
+    "Penumpang": 41,
+    "Wanita": 30,
+    "Pria": 11,
+    "Suhu": 20,
+    "Baterai": 34,
+    "Kecepatan": 91
+  },
+  {
+    "latitude": -7.34915,
+    "longitude": 112.7195,
+    "Penumpang": 8,
+    "Wanita": 0,
+    "Pria": 8,
+    "Suhu": 22,
+    "Baterai": 80,
+    "Kecepatan": 62
+  },
+  {
+    "latitude": -7.34908,
+    "longitude": 112.71935,
+    "Penumpang": 0,
+    "Wanita": 0,
+    "Pria": 0,
+    "Suhu": 22,
+    "Baterai": 21,
+    "Kecepatan": 16
+  },
+  {
+    "latitude": -7.34904,
+    "longitude": 112.71922,
+    "Penumpang": 40,
+    "Wanita": 29,
+    "Pria": 11,
+    "Suhu": 33,
+    "Baterai": 53,
+    "Kecepatan": 30
+  },
+  {
+    "latitude": -7.34903,
+    "longitude": 112.7192,
+    "Penumpang": 25,
+    "Wanita": 15,
+    "Pria": 10,
+    "Suhu": 25,
+    "Baterai": 70,
+    "Kecepatan": 91
+  },
+  {
+    "latitude": -7.34887,
+    "longitude": 112.71885,
+    "Penumpang": 29,
+    "Wanita": 17,
+    "Pria": 12,
+    "Suhu": 31,
+    "Baterai": 50,
+    "Kecepatan": 57
+  },
+  {
+    "latitude": -7.34876,
+    "longitude": 112.71892,
+    "Penumpang": 35,
+    "Wanita": 22,
+    "Pria": 13,
+    "Suhu": 23,
+    "Baterai": 49,
+    "Kecepatan": 37
+  },
+  {
+    "latitude": -7.3486,
+    "longitude": 112.71897,
+    "Penumpang": 19,
+    "Wanita": 11,
+    "Pria": 8,
+    "Suhu": 24,
+    "Baterai": 35,
+    "Kecepatan": 74
+  },
+  {
+    "latitude": -7.34846,
+    "longitude": 112.719,
+    "Penumpang": 29,
+    "Wanita": 29,
+    "Pria": 0,
+    "Suhu": 21,
+    "Baterai": 96,
+    "Kecepatan": 40
+  }
+]

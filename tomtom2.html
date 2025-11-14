@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Praktek 2 Mencari Lokasi Banyak Tempat</title>
+
+    <!-- Include Leaflet.js -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <style>
+        #map {
+            width: 100%;
+            height: 500px;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        #search-container {
+            margin: 10px;
+            padding: 10px;
+            background: #f9f9f9;
+            border: 1px solid #ccc;
+        }
+        #search-box {
+            width: 300px;
+            padding: 5px;
+        }
+        #search-button {
+            padding: 5px 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">Praktek 2 Mencari Lokasi Berdasarkan Nama Tempat</h1>
+    <h1 style="text-align: center;">Max 10 Lokasi Dengan Nama Sama</h1>
+    <div id="search-container">
+        <input type="text" id="search-box" placeholder="Enter place name..." />
+        <button id="search-button">Search</button>
+    </div>
+    <div id="map"></div>
+
+    <script>
+        const apiKey = 'Gixt05RAvLI57chTAGgMFzNaxcYAyigl'; // Your TomTom API Key
+
+        // Initialize the map with OpenStreetMap as the base layer
+        const map = L.map('map').setView([-7.25, 112.75], 12); // Centered on Surabaya
+
+        // Add OpenStreetMap tiles
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        let searchMarkers = []; // To store all search result markers
+
+        // Function to generate a random color for each marker
+        function getRandomColor() {
+            const letters = '0123456789ABCDEF';
+            let color = '#';
+            for (let i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+            return color;
+        }
+
+        // Function to handle the search button click
+        document.getElementById('search-button').addEventListener('click', async function () {
+            const query = document.getElementById('search-box').value.trim();
+            if (!query) {
+                alert('Please enter a place name.');
+                return;
+            }
+
+            try {
+                // Fetch geocoding results from TomTom API with a limit of 10 results
+                const url = `https://api.tomtom.com/search/2/geocode/${encodeURIComponent(query)}.json?key=${apiKey}&limit=10&storeResult=false&countrySet=ID&lat=-7.2580605&lon=112.7309926`;
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error(`Error fetching geocoding data: HTTP ${response.status}`);
+                }
+
+                const data = await response.json();
+                console.log('Geocoding API Response:', data);
+
+                // Check if results are available
+                if (!data.results || data.results.length === 0) {
+                    alert('No results found for the given query.');
+                    return;
+                }
+
+                // Clear previous markers
+                searchMarkers.forEach(marker => map.removeLayer(marker));
+                searchMarkers = [];
+
+                // Extract and display all results
+                const results = data.results;
+                const bounds = []; // To store coordinates for fitting the map view
+
+                results.forEach((result, index) => {
+                    const position = result.position;
+                    const address = result.address.freeformAddress;
+
+                    // Generate a random color for the marker
+                    const markerColor = getRandomColor();
+
+                    // Create a custom icon with the generated color
+                    const customIcon = L.divIcon({
+                        className: 'custom-icon',
+                        html: `<div style="background-color: ${markerColor}; width: 20px; height: 20px; border-radius: 50%; border: 2px solid white;"></div>`,
+                        iconSize: [20, 20],
+                        iconAnchor: [10, 10]
+                    });
+
+                    // Add a marker for each result
+                    const marker = L.marker([position.lat, position.lon], { icon: customIcon }).addTo(map);
+                    marker.bindPopup(`<strong>Result ${index + 1}:</strong><br>${address}`).openPopup();
+                    searchMarkers.push(marker);
+
+                    // Store the coordinates for fitting the map view
+                    bounds.push([position.lat, position.lon]);
+                });
+
+                // Adjust the map view to fit all markers
+                if (bounds.length > 0) {
+                    map.fitBounds(bounds);
+                }
+            } catch (error) {
+                console.error('Error fetching geocoding data:', error);
+                alert('Failed to fetch geocoding data. Please try again.');
+            }
+        });
+    </script>
+</body>
+</html>

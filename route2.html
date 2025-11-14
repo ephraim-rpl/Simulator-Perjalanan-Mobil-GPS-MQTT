@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Route with Travel Mode</title>
+
+    <!-- Include Leaflet.js -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <style>
+        #map {
+            width: 100%;
+            height: 500px;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        #controls {
+            text-align: center;
+            margin: 10px 0;
+        }
+        #route-info {
+            margin: 10px;
+            padding: 10px;
+            background: #f9f9f9;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">Rute Interaktif dengan Pilihan Jenis Kendaraan</h1>
+
+    <div id="controls">
+        <label for="travelMode">Jenis Kendaraan: </label>
+        <select id="travelMode">
+            <option value="car">Mobil</option>
+            <option value="truck">Truk</option>
+            <option value="taxi">Taksi</option>
+            <option value="bus">Bus</option>
+            <option value="van">Van</option>
+            <option value="motorcycle">Motor</option>
+        </select>
+    </div>
+
+    <div id="map"></div>
+    <div id="route-info">Klik pada peta untuk menentukan titik awal dan titik tujuan.</div>
+
+    <script>
+        const apiKey = 'Gixt05RAvLI57chTAGgMFzNaxcYAyigl'; // Ganti dengan kunci API Anda
+
+        // Inisialisasi peta
+        const map = L.map('map').setView([-7.25, 112.75], 12); // Surabaya
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        let startPointMarker = null;
+        let endPointMarker = null;
+        let routeLine = null;
+
+        // Ikon kustom
+        const startIcon = L.icon({
+            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34]
+        });
+
+        const endIcon = L.icon({
+            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34]
+        });
+
+        // Event klik peta
+        map.on('click', function (e) {
+            const latLng = e.latlng;
+
+            if (!startPointMarker) {
+                startPointMarker = L.marker(latLng, { draggable: true, icon: startIcon }).addTo(map);
+                startPointMarker.bindPopup('Titik Awal').openPopup();
+                startPointMarker.on('dragend', updateRoute);
+                document.getElementById('route-info').innerHTML = `Start: ${latLng.lat.toFixed(5)}, ${latLng.lng.toFixed(5)}`;
+            } else if (!endPointMarker) {
+                endPointMarker = L.marker(latLng, { draggable: true, icon: endIcon }).addTo(map);
+                endPointMarker.bindPopup('Titik Tujuan').openPopup();
+                endPointMarker.on('dragend', updateRoute);
+                document.getElementById('route-info').innerHTML = `End: ${latLng.lat.toFixed(5)}, ${latLng.lng.toFixed(5)}`;
+                fetchRoute(startPointMarker.getLatLng(), endPointMarker.getLatLng());
+            } else {
+                resetMarkers();
+                startPointMarker = L.marker(latLng, { draggable: true, icon: startIcon }).addTo(map);
+                startPointMarker.bindPopup('Titik Awal').openPopup();
+                startPointMarker.on('dragend', updateRoute);
+                document.getElementById('route-info').innerHTML = `Start: ${latLng.lat.toFixed(5)}, ${latLng.lng.toFixed(5)}`;
+            }
+        });
+
+        // Reset marker dan rute
+        function resetMarkers() {
+            if (startPointMarker) map.removeLayer(startPointMarker);
+            if (endPointMarker) map.removeLayer(endPointMarker);
+            if (routeLine) map.removeLayer(routeLine);
+            startPointMarker = null;
+            endPointMarker = null;
+            routeLine = null;
+            document.getElementById('route-info').innerHTML = 'Klik pada peta untuk menentukan titik awal dan titik tujuan.';
+        }
+
+        // Perbarui rute saat marker digeser
+        async function updateRoute() {
+            if (startPointMarker && endPointMarker) {
+                await fetchRoute(startPointMarker.getLatLng(), endPointMarker.getLatLng());
+            }
+        }
+
+        // Ambil rute dari TomTom API
+        async function fetchRoute(start, end) {
+            const travelMode = document.getElementById('travelMode').value;
+            const url = `https://api.tomtom.com/routing/1/calculateRoute/${start.lat},${start.lng}:${end.lat},${end.lng}/json?key=${apiKey}&traffic=true&travelMode=${travelMode}`;
+
+            try {
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+
+                const data = await response.json();
+
+                if (!data.routes || !data.routes[0]?.legs?.[0]) {
+                    throw new Error('Tidak ada rute yang ditemukan.');
+                }
+
+                const route = data.routes[0];
+                const summary = route.summary;
+                const distance = (summary.lengthInMeters / 1000).toFixed(2);
+                const travelTime = Math.ceil(summary.travelTimeInSeconds / 60);
+                const trafficDelay = Math.ceil(summary.trafficDelayInSeconds / 60);
+
+                document.getElementById('route-info').innerHTML = `
+                    <strong>Rute (${travelMode}):</strong><br>
+                    Jarak: ${distance} km<br>
+                    Waktu Tempuh: ${travelTime} menit<br>
+                    Kemacetan: ${trafficDelay} menit
+                `;
+
+                const coordinates = route.legs[0].points.map(p => [p.latitude, p.longitude]);
+                const routeColor = getRouteColor(trafficDelay);
+
+                if (routeLine) map.removeLayer(routeLine);
+                routeLine = L.polyline(coordinates, { color: routeColor, weight: 5 }).addTo(map);
+
+                routeLine.bindPopup(`
+                    <strong>Rute (${travelMode})</strong><br>
+                    Jarak: ${distance} km<br>
+                    Waktu: ${travelTime} menit<br>
+                    Kemacetan: ${trafficDelay} menit
+                `);
+
+                map.fitBounds(L.latLngBounds(coordinates));
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('route-info').innerHTML = 'Gagal memuat rute. Coba ganti jenis kendaraan atau lokasi.';
+            }
+        }
+
+        // Warna berdasarkan kemacetan
+        function getRouteColor(trafficDelay) {
+            if (trafficDelay === 0) return '#28a745'; // Hijau
+            if (trafficDelay <= 5) return '#ffc107'; // Kuning
+            return '#dc3545'; // Merah
+        }
+
+        // Perbarui rute saat travelMode berubah
+        document.getElementById('travelMode').addEventListener('change', function () {
+            if (startPointMarker && endPointMarker) {
+                updateRoute();
+            }
+        });
+    </script>
+</body>
+</html>
